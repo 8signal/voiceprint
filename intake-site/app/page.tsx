@@ -13,6 +13,12 @@ export default function Home() {
             <a href="#how-it-works" className="text-stone-600 hover:text-stone-900">
               How it works
             </a>
+            <Link
+              href="/playbook"
+              className="text-stone-600 hover:text-stone-900"
+            >
+              Done with you
+            </Link>
             <a
               href="https://github.com/8signal/signal-desk"
               target="_blank"

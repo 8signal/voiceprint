@@ -30,8 +30,8 @@ signal-desk/
 │   ├── source-protocols.md      ← how to convert transcripts / V/TO / wins → posts
 │   └── identity-examples/
 │       ├── ruben-8signal.md     ← Fractional CMO with AI specialty
-│       ├── andrea-acp.md        ← Fractional Integrator / COO
-│       └── forrest-dirt.md      ← Dirt Consulting (template)
+│       ├── maya-fulcrum.md      ← Fractional Integrator (fictionalized)
+│       └── dale-second-seat.md  ← Fractional COO / "the Operator" (fictionalized)
 └── workflows/
     ├── transcript-to-posts.md   ← Fireflies / Zoom transcript → 3-5 posts
     ├── vto-to-30-day-calendar.md ← V/TO + 3 wins → 30-day calendar
@@ -58,6 +58,14 @@ signal-desk/
 4. Drop it into your Signal Desk project folder.
 
 The intake site is a guided version of `reference/intake-interview.md`. Either path works.
+
+---
+
+## A note on the identity examples
+
+Maya Chen and Dale Brennan are **fictionalized composites** based on real 8 SIGNAL clients whose identities have been anonymized to protect their privacy. The voice profiles, pillars, and structural choices reflect actual client work. Names, branded terms, and specific company details have been changed.
+
+These two examples exist on purpose: they serve nearly the same audience (founder-led mid-market companies running EOS) and hold the same job title (Fractional Integrator / COO), but their voices are completely different. That's the demonstration. **Two SMEs in the same niche, competing for the same clients, can — and should — sound nothing alike.** Signal Desk preserves that difference. A generic AI tool would flatten them into one indistinguishable voice.
 
 ---
 

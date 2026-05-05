@@ -155,6 +155,12 @@ export default function Home() {
           <h2 className="serif text-4xl md:text-5xl mb-12 max-w-3xl">
             The folder is the deliverable.
           </h2>
+          <p className="text-stone-600 leading-relaxed max-w-2xl mb-8">
+            Maya and Dale are fictionalized composites based on real 8 SIGNAL
+            clients, anonymized to protect their privacy. They serve the same
+            niche and hold the same job title but sound nothing alike — which is
+            the whole point.
+          </p>
           <pre className="bg-stone-900 text-stone-100 p-8 rounded-xl overflow-x-auto text-sm leading-relaxed mono">
 {`signal-desk/
 ├── README.md                    ← cold-start in <5 min
@@ -167,8 +173,8 @@ export default function Home() {
 │   ├── source-protocols.md      ← artifact → post
 │   └── identity-examples/
 │       ├── ruben-8signal.md
-│       ├── andrea-acp.md
-│       └── forrest-dirt.md
+│       ├── maya-fulcrum.md       (fictionalized)
+│       └── dale-second-seat.md   (fictionalized)
 └── workflows/
     ├── transcript-to-posts.md
     ├── vto-to-30-day-calendar.md

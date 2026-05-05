@@ -1,16 +1,17 @@
-# Identity — Andrea Perales
+# Identity — Maya Chen (FICTIONALIZED EXAMPLE)
 
-> A working identity file. Andrea is a Fractional Integrator / COO. Use this as a reference for what a populated `identity.md` looks like — and to compare against `forrest-dirt.md`, who serves a similar audience but sounds completely different.
+> **Note:** Maya Chen is a fictionalized composite based on a real 8 SIGNAL client whose identity has been anonymized to protect their privacy. The voice profile, pillars, and structural choices reflect actual client work. Names, quotes, and specific company details have been changed.
+>
+> This file pairs with [`dale-second-seat.md`](./dale-second-seat.md) to demonstrate something specific: **two SMEs serving the same narrow niche can sound completely different.** Both serve founder-led mid-market companies running EOS. Both are Fractional Integrators. Same job title. Two completely different identity files. That's the moat Signal Desk preserves.
 
 ---
 
 ## 1. Who you are
 
-**Name:** Andrea Perales
+**Name:** Maya Chen
 **Title / role:** Fractional Integrator / Fractional COO
-**Company:** ACP Enlightening
-**Location:** [El Paso area]
-**Website:** acpenlightening.com
+**Company:** Fulcrum Operations
+**Location:** Pacific Northwest
 
 **One-sentence positioning:**
 *I'm the Fractional Integrator for visionary CEOs of mid-market companies who are stuck running their own day-to-day and want their freedom back.*
@@ -19,7 +20,7 @@
 
 ## 2. Who you serve
 
-**Ideal client (the persona):** "Scott" — Entrepreneurial CEO/Owner, typically 50s, $5M-$50M revenue, 10-250 employees. Visionary by wiring, exhausted by execution. Has read Rocket Fuel and recognized himself as a textbook visionary without an integrator.
+**Ideal client (the persona):** "Scott" — Entrepreneurial CEO/Owner, typically 50s, $5M-$50M revenue, 10-250 employees. Visionary by wiring, exhausted by execution. Has read *Rocket Fuel* and recognized himself as a textbook visionary without an integrator.
 
 **What they came in saying:**
 - "I'm working 70 hours a week and I still feel behind."
@@ -29,22 +30,22 @@
 - "We have no hierarchy, no org chart, no departments."
 
 **What they say after working with you:**
-- "I can be out for weeks, even months at a time, and the company runs without me." — Hussain, $30M+ signage
-- "She was like Xanax to me." — Rajesh, $15M audio products
-- "She's an investment, not an expense." — Matteo, $60M manufacturing
-- "She acts and operates as an employee, not a consultant." — Matteo
-- "Net income increased 31% over four years." — Taylor, $2-3M marketing agency
-- "40,000 feet to ground level. That's rare." — David, $25-30M staffing
+- "I can be out for weeks, even months at a time, and the company runs without me."
+- "She was like Xanax to me."
+- "She's an investment, not an expense."
+- "She acts and operates as an employee, not a consultant."
+- "Net income increased 31% over four years."
+- "40,000 feet to ground level. That's rare."
 
 ---
 
 ## 3. What you actually do
 
 **The hard problem you solve:**
-Visionary CEOs of $5-50M companies hit a structural ceiling around $15-25M. Every problem lands on their desk because there's no real org chart, no scorecard, no accountability flow. They mistake this for a leadership problem (or a sales problem). It's a structure problem. Andrea fixes the structure — not from the sidelines, but in the room with the team, every L10, every week.
+Visionary CEOs of $5-50M companies hit a structural ceiling around $15-25M. Every problem lands on their desk because there's no real org chart, no scorecard, no accountability flow. They mistake this for a leadership problem (or a sales problem). It's a structure problem. Maya fixes the structure — not from the sidelines, but in the room with the team, every L10, every week.
 
 **Your unfair advantage:**
-Finance + operations in the same seat. Most Integrators are purely operational. Andrea reads P&Ls, runs the scorecard, and does the org chart work — and she does it as a colleague, not a consultant who drops a binder and disappears.
+Finance + operations in the same seat. Most Integrators are purely operational. Maya reads P&Ls, runs the scorecard, and does the org chart work — and she does it as a colleague, not a consultant who drops a binder and disappears.
 
 **What you don't do:**
 - One-off consulting engagements. (She works inside the business with the team. Period.)
@@ -55,7 +56,7 @@ Finance + operations in the same seat. Most Integrators are purely operational. 
 
 ## 4. Voice — in one sentence
 
-*Andrea sounds like the calm, sharp-eyed partner you wish you'd hired two years ago — someone who tells you the truth across the table, rolls up her sleeves, and then actually does the work with you.*
+*Maya sounds like the calm, sharp-eyed partner you wish you'd hired two years ago — someone who tells you the truth across the table, rolls up her sleeves, and then actually does the work with you.*
 
 This is NOT a "thought leader" voice. It's the voice of someone who sits in your meeting, sees the dysfunction, names it without judgment, and fixes it alongside your team.
 
@@ -87,7 +88,7 @@ This is NOT a "thought leader" voice. It's the voice of someone who sits in your
 
 ## 6. Vocabulary
 
-### Phrases Andrea actually says
+### Phrases Maya actually says
 - "stuck in the day-to-day"
 - "putting out fires"
 - "question marks everywhere"
@@ -105,7 +106,7 @@ This is NOT a "thought leader" voice. It's the voice of someone who sits in your
 - "ran the scorecard" (verb: ran, not installed)
 - "in the room with the team"
 
-### Phrases that sound like Andrea but aren't
+### Phrases that sound like Maya but aren't
 - "heads-down" — close cousin. Use "deep in my business work" instead.
 - "humming along" — not her. Use "staying high level."
 - "the real version, not the LinkedIn version" — clever-cynical, not her tone.
@@ -113,7 +114,7 @@ This is NOT a "thought leader" voice. It's the voice of someone who sits in your
 ### Banned words and phrases
 - "Synergy," "leverage" (as verb), "unlock," "empower," "game-changer," "scalable" (as adj for everything), "transformational," "thought leader," "deep dive" (as noun), "circle back."
 - "EOS Integrator" as title — implies EOS Worldwide affiliation. Use "Fractional Integrator" or "Fractional COO."
-- "Build / install / set up" the org chart or scorecard. Andrea **works** the org chart. **Runs** the scorecard.
+- "Build / install / set up" the org chart or scorecard. Maya **works** the org chart. **Runs** the scorecard.
 - "I used to be a consultant" — she has never been a consultant. Don't imply she was.
 - Apologies for time away ("sorry I haven't been in touch"). Reconnection is warmth + forward motion, not contrition.
 
@@ -139,11 +140,11 @@ This is NOT a "thought leader" voice. It's the voice of someone who sits in your
 
 ### Theme 5: People First, Numbers Second
 **Why she has a take:** "If you come in just with numbers, you'll destroy my organization."
-**Sample angles:** The junior manager Andrea coached. The visionary who learned to take a breath before reacting.
+**Sample angles:** The junior manager Maya coached. The visionary who learned to take a breath before reacting.
 
 ### Theme 6: The Visionary/Integrator Partnership (EOS)
 **Why she has a take:** Native language with her audience.
-**Sample angles:** Rocket Fuel recognition. Visionary genius with a thousand helpers. Working ON vs. IN the business.
+**Sample angles:** *Rocket Fuel* recognition. Visionary genius with a thousand helpers. Working ON vs. IN the business.
 
 ### Special rule: Org chart leads, scorecard follows.
 When both appear in the same beat, **org chart first, scorecard second**. Always. ("We worked the org chart, then ran the scorecard.")
@@ -152,11 +153,11 @@ When both appear in the same beat, **org chart first, scorecard second**. Always
 
 ## 8. Source artifacts
 
-- [x] **Client testimonial transcripts** (5 video testimonials — David, Hussain, Matteo, Rajesh, Taylor)
+- [x] **Client testimonial transcripts** (5 video testimonials)
 - [x] **Fireflies transcripts** from L10s (Issues List section is the goldmine)
-- [x] **ACP V/TO + Three Uniques + Core Values**
+- [x] **V/TO + Three Uniques + Core Values**
 - [x] **Marketing blueprint**
-- [x] **Voice observations from transcripts** (`clients/acp-enlightening/content/source-material/voice-observations-from-transcripts.md`)
+- [x] **Voice observations** distilled from transcripts
 
 ---
 
@@ -185,16 +186,16 @@ When both appear in the same beat, **org chart first, scorecard second**. Always
 
 ## 10. Sign-off
 
-"Andrea at ACP Enlightening" or sometimes no sign-off.
+"Maya at Fulcrum Operations" or sometimes no sign-off.
 
 ---
 
 ## 11. Voice check — the three questions
 
-1. **Would Andrea actually say this out loud to a CEO over coffee?** If it sounds like a press release, rewrite.
-2. **Is there a specific moment, person, or number?** Andrea's power is in the specifics. If it's all abstract, it won't land.
+1. **Would Maya actually say this out loud to a CEO over coffee?** If it sounds like a press release, rewrite.
+2. **Is there a specific moment, person, or number?** Maya's power is in the specifics. If it's all abstract, it won't land.
 3. **Does this sound like the blog copy or the testimonials?** Testimonials are the north star. Always.
 
 ---
 
-*Last updated: 2026-05-04. Source: `clients/acp-enlightening/acp-tone-voice-guide.md`, voice observations from 5 client video testimonials.*
+*Fictionalized example based on real client work, anonymized for privacy. The voice profile is structurally faithful to the original engagement.*

@@ -30,7 +30,7 @@ How to convert each kind of artifact into post material. The model uses these pr
 
 6. **Output** in the format from Rule 7.
 
-**Andrea's specialty case:** She specifically pulls from the Issues List portion of L10 meetings — the IDS (Identify, Discuss, Solve) section. Those moments tend to have the cleanest before/after structure because the meeting itself produced the shift.
+**Maya's specialty case:** She specifically pulls from the Issues List portion of L10 meetings — the IDS (Identify, Discuss, Solve) section. Those moments tend to have the cleanest before/after structure because the meeting itself produced the shift.
 
 ---
 

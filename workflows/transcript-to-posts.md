@@ -83,7 +83,7 @@ Transcript:
 
 ---
 
-## Andrea's specialty case
+## Maya's specialty case
 
 For Fractional Integrators / COOs running EOS L10s, the **Issues List / IDS section is the goldmine**. The structure of IDS — Identify the issue, Discuss it, Solve it — produces clean before/after material every meeting.
 

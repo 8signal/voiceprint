@@ -162,7 +162,7 @@ Operator-grade marketing leadership + AI fluency in one seat. Most fractional CM
 
 ## 8. Source artifacts
 
-- [x] **Meeting transcripts** — Fireflies (8 SIGNAL workspace + ACP workspace)
+- [x] **Meeting transcripts** — Fireflies (8 SIGNAL workspace + client workspace)
 - [x] **V/TO** — `marketing/context.md` and `leadership/state-of-the-company.md`
 - [x] **Weekly review** — [mytinta.app](https://mytinta.app) (personal app)
 - [x] **Client wins log** — Asana + per-client `clients/[name]/wins.md`

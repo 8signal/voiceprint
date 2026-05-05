@@ -23,12 +23,12 @@ export const sections: Section[] = [
       {
         id: "name",
         label: "What's your name?",
-        placeholder: "Andrea Perales",
+        placeholder: "Maya Chen",
       },
       {
         id: "title_company",
         label: "Title and company.",
-        placeholder: "Fractional Integrator at ACP Enlightening",
+        placeholder: "Fractional Integrator at Fulcrum Operations",
       },
       {
         id: "positioning",
@@ -73,7 +73,7 @@ export const sections: Section[] = [
       {
         id: "unfair_advantage",
         label: "What's the unfair combination you bring? The 1+1=3 thing.",
-        hint: "Andrea: finance + operations. Ruben: marketing + AI fluency. Yours?",
+        hint: "Maya: finance + operations. Ruben: marketing + AI fluency. Yours?",
         rows: 3,
       },
       {
@@ -93,13 +93,13 @@ export const sections: Section[] = [
       {
         id: "voice_one_sentence",
         label: "Describe your voice in one sentence.",
-        hint: "Pretend you're explaining it to a writer. Andrea: 'the calm, sharp-eyed partner you wish you'd hired two years ago.'",
+        hint: "Pretend you're explaining it to a writer. Maya: 'the calm, sharp-eyed partner you wish you'd hired two years ago.'",
         rows: 3,
       },
       {
         id: "voice_pillars",
         label: "Pick 3-5 voice pillars. For each, give a 'sounds like' / 'does NOT sound like' example.",
-        hint: "Andrea's pillars: Direct Not Harsh, Concrete Not Conceptual, Present Not Distant.",
+        hint: "Maya's pillars: Direct Not Harsh, Concrete Not Conceptual, Present Not Distant.",
         rows: 8,
       },
       {
@@ -123,7 +123,7 @@ export const sections: Section[] = [
       {
         id: "gold_standard",
         label: "Who or what is your gold-standard reference for what your voice sounds like?",
-        hint: "Andrea's: client testimonials. Ruben's: the way he talks to a fellow founder over tacos. Yours?",
+        hint: "Maya's: client testimonials. Ruben's: the way he talks to a fellow founder over tacos. Yours?",
         rows: 3,
       },
     ],
@@ -163,7 +163,7 @@ export const sections: Section[] = [
       {
         id: "signoff",
         label: "How do you sign your LinkedIn posts?",
-        placeholder: "Andrea at ACP / Ruben at 8 SIGNAL / no sign-off",
+        placeholder: "Maya at Fulcrum / Ruben at 8 SIGNAL / no sign-off",
         rows: 2,
       },
       {

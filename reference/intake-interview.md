@@ -32,7 +32,7 @@ Real testimonial language if you have it. If you don't, what would you want them
 "I run their L10" is a deliverable. "Founders hit a structural ceiling at $15M and don't know it's a structural ceiling, not a sales problem" is a pain.
 
 **7. What's the unfair combination you bring? The 1+1=3 thing.**
-Andrea: finance + operations. Ruben: marketing + AI fluency. What's yours?
+Maya: finance + operations. Ruben: marketing + AI fluency. What's yours?
 
 **8. What requests do you turn down? Why?**
 Equally telling. The things you don't do define the things you do.
@@ -47,19 +47,19 @@ Specific stories. Not generalizations. ("A CEO at a $25M staffing firm told me h
 **10. Describe your voice in one sentence. Pretend you're explaining it to a writer who's never met you.**
 
 **11. Pick 3-5 voice pillars. For each, give a "sounds like" and "does NOT sound like" example.**
-Andrea's pillars: Direct Not Harsh, Concrete Not Conceptual, Present Not Distant, In the Trenches Not Above Them, Sees the Whole Person.
+Maya's pillars: Direct Not Harsh, Concrete Not Conceptual, Present Not Distant, In the Trenches Not Above Them, Sees the Whole Person.
 
 **12. Drop in 10-15 phrases you actually say. From transcripts, Slack, real conversations.**
 Not invented. If you've never said it out loud, it doesn't go here.
 
 **13. Drop in 10 words or phrases that sound like you but aren't quite right — the close cousins.**
-Things that read AI-generated when applied to you specifically. (e.g., Andrea's "heads-down" — close to her, not her.)
+Things that read AI-generated when applied to you specifically. (e.g., Maya's "heads-down" — close to her, not her.)
 
 **14. What words or phrases do you ban?**
 Beyond the universal AI-slop list. Personal to your voice. (e.g., Ruben bans em dashes and "here's the thing.")
 
 **15. Who is your gold-standard reference for what your voice sounds like?**
-Andrea's: the testimonials. Ruben's: the way he talks to a fellow founder over tacos. Yours?
+Maya's: the testimonials. Ruben's: the way he talks to a fellow founder over tacos. Yours?
 
 ---
 
@@ -79,7 +79,7 @@ Check all that apply: meeting transcripts (Fireflies/Otter/Zoom), V/TO, weekly r
 ## Section E — How you ship (questions 19-20)
 
 **19. How do you sign your LinkedIn posts?**
-"Andrea at ACP," "Ruben at 8 SIGNAL," no sign-off, etc.
+"Maya at Fulcrum," "Ruben at 8 SIGNAL," no sign-off, etc.
 
 **20. Hashtag strategy. Primary 3-5, rotate occasionally 3-5, never use 3-5.**
 

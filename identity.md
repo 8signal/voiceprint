@@ -49,7 +49,7 @@
 
 ## 4. Voice — in one sentence
 
-*Example: "Andrea sounds like the calm, sharp-eyed partner you wish you'd hired two years ago."*
+*Example: "Maya sounds like the calm, sharp-eyed partner you wish you'd hired two years ago."*
 
 *Yours:*
 
@@ -138,7 +138,7 @@ Where your raw material comes from. Workflows pull from these.
 
 ## 10. Sign-off
 
-How do you sign your LinkedIn posts? (e.g., "Andrea at ACP" or "Ruben at 8 SIGNAL" or no sign-off.)
+How do you sign your LinkedIn posts? (e.g., "Maya at Fulcrum" or "Ruben at 8 SIGNAL" or no sign-off.)
 
 ---
 
@@ -148,7 +148,7 @@ Before any post ships, the model runs these. Customize them to you.
 
 1. **Would you actually say this out loud?** If it sounds like a press release, rewrite.
 2. **Is there a specific moment, person, or number?** If everything is abstract, it won't land.
-3. **Does it sound like [your gold-standard reference]?** *(For Andrea: "the testimonials." For Ruben: "the way I talk to a fellow founder over tacos.") Name yours.*
+3. **Does it sound like [your gold-standard reference]?** *(For Maya: "the testimonials." For Ruben: "the way I talk to a fellow founder over tacos.") Name yours.*
 
 ---
 

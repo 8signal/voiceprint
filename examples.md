@@ -39,9 +39,9 @@ These examples are drawn from the three identity files in `reference/identity-ex
 - "What's YOUR biggest..." engagement bait (Rule 4)
 - No specific moment, no number, no real person (Voice check #2)
 - Could be written by any LinkedIn ghostwriter (Voice check #1)
-- Hashtags include #BossLife (Andrea's never-use list)
+- Hashtags include #BossLife (Maya's never-use list)
 
-### ✅ GOOD — Andrea's voice
+### ✅ GOOD — Maya's voice
 
 > A CEO told me last week:
 > "I'm putting in 70 hours and I still feel behind. Every problem ends up on my desk."
@@ -72,7 +72,7 @@ These examples are drawn from the three identity files in `reference/identity-ex
 
 **Why this works:**
 - Specific moment, real-feeling client, concrete numbers
-- Andrea's actual vocabulary: "worked the org chart" (not "built")
+- Maya's actual vocabulary: "worked the org chart" (not "built")
 - Imagined dialogue (her voice pillar: "Concrete, not Conceptual")
 - One insight, fully landed
 - Ends on a one-liner punch, not engagement bait
@@ -121,7 +121,7 @@ These examples are drawn from the three identity files in `reference/identity-ex
 
 Same idea ("structure creates freedom"), three identities.
 
-### Andrea
+### Maya
 > Software doesn't fix disorganization.
 > Structure does.
 > The software works after the structure is in place.
@@ -131,8 +131,10 @@ Same idea ("structure creates freedom"), three identities.
 > Nobody wants the SOP that makes the AI tool useful.
 > The tool is 10%. The structure around it is 90%.
 
-### Forrest *(template — Ruben to fill from voice guide)*
-> [One-liner in Forrest's voice on the same idea. Fill from his voice guide.]
+### Dale
+> The right person, in the right seat, doing the right things.
+> That's not a slogan. That's the foundation.
+> Skip it and the business never gets built.
 
 ---
 
@@ -144,7 +146,7 @@ A single calendar entry generated from a V/TO + 3 wins. Format used in `workflow
 Day 1 (Monday)
 Theme: Core Value #1 — "First, We Serve"
 Pillar: Client moment from this week's wins
-Source artifact: 2026-05-02 weekly review, win #2 — "Andrea's transcript-to-post workflow shipped"
+Source artifact: 2026-05-02 weekly review, win #2 — "Maya's transcript-to-post workflow shipped"
 Format: Template A — The Real Moment
 Hook: "A client asked me to ghostwrite her LinkedIn for three months. I said no."
 Status: draft

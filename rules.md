@@ -139,4 +139,29 @@ Then update `identity.md`. The voice gets sharper over time.
 
 ---
 
-*Rules grow. When the SME catches a new AI tell, add it to Rule 2. When a structural pattern fails, add it to Rule 4. The folder is a living system.*
+## Rule 9: Voice check runs first, not last
+
+This is the rule that earns its keep. It exists because of a real failure: posts that pass every other voice check at the end can still read as generic business writing if the *first sentence* started in the wrong register. You can't sprinkle Reynolds tics on a Fractional CMO white paper and call it a voice match. The underlying tone is set in the first three lines. Fix it there or restart.
+
+**Before writing the first sentence of a draft:**
+
+1. **Re-read the SME's voice pillars and vocabulary section in `identity.md`.** Not the whole file. Just sections 5 and 6.
+2. **Pull 3-5 specific tics** from the vocab list. (Examples for Ruben's identity: "Okay, so" / "(Reader, ...)" / sentence fragments / parenthetical asides for humor / self-deprecating beat / Spanish only when it earns its setup.)
+3. **Pre-commit to forcing at least one tic into every paragraph as a hard constraint.** Not as a flourish to add later. As a structural rule that decides what the paragraph can and can't be.
+4. **Only then start drafting.**
+
+**Why this rule exists:** The voice check at the end (Rule 3) catches the wrong things. It can pass a draft that has the right words but the wrong register — because Rule 3 reads each line in isolation, not the underlying tone. By the time you're checking a finished draft, the tonal damage is done. You'd have to rewrite the whole thing anyway.
+
+**The voice check question that catches drift earliest:** Read the first three sentences out loud. Does it sound like a transcript of the SME at a coffee shop, on a podcast, or in a Zoom L10? Or does it sound like the SME's blog? If it sounds like the blog, **stop and restart from the first sentence**. Don't patch it.
+
+**Concrete signs you started in the wrong register:**
+- The opening sentence introduces a topic instead of dropping you into a scene
+- The first paragraph could have been written by any operator in the same niche
+- You're explaining what the post is about instead of just telling the story
+- A reader would have to read 3+ paragraphs before hearing a sentence the SME would actually say out loud
+
+When any of those show up in the first draft, the fix is structural, not cosmetic. Rebuild from line one.
+
+---
+
+*Rules grow. When the SME catches a new AI tell, add it to Rule 2. When a structural pattern fails, add it to Rule 4 or Rule 9. The folder is a living system.*

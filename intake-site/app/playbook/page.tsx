@@ -7,7 +7,7 @@ export default function Playbook() {
         <div className="max-w-5xl mx-auto px-6 py-5 flex items-center justify-between">
           <Link href="/" className="flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-amber-700" />
-            <span className="serif text-xl">Signal Desk</span>
+            <span className="serif text-xl">Voiceprint</span>
           </Link>
           <nav className="flex items-center gap-6 text-sm">
             <Link href="/" className="text-stone-600 hover:text-stone-900">
@@ -272,7 +272,7 @@ export default function Playbook() {
             .
           </div>
           <Link href="/" className="text-stone-700 hover:text-stone-900">
-            ← Back to Signal Desk
+            ← Back to Voiceprint
           </Link>
         </div>
       </footer>

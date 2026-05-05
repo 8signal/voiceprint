@@ -2,7 +2,7 @@
 
 Twenty questions. Answer them honestly and specifically. Your answers become `identity.md`.
 
-The model will read your answers and generate a populated `identity.md` for you. You can also use the intake site at [signal-desk-eosin.vercel.app](https://signal-desk-eosin.vercel.app) which walks you through the same questions and gives you a downloadable file.
+The model will read your answers and generate a populated `identity.md` for you. You can also use the intake site at [voiceprint-eosin.vercel.app](https://voiceprint-eosin.vercel.app) which walks you through the same questions and gives you a downloadable file.
 
 **The rule:** specificity wins. "I help businesses grow" produces an AI-slop identity file. "I help EOS Integrators at $5M-$50M founder-led companies turn meeting chaos into pipeline" produces something usable.
 
@@ -87,7 +87,7 @@ Check all that apply: meeting transcripts (Fireflies/Otter/Zoom), V/TO, weekly r
 
 ## After you answer
 
-Paste your answers into a chat with the Signal Desk project loaded. Say:
+Paste your answers into a chat with the Voiceprint project loaded. Say:
 
 > "Generate my `identity.md` from these intake answers."
 
@@ -97,4 +97,4 @@ If you used the intake site, just download the file and drop it in.
 
 ---
 
-*The intake interview is the moat. Two SMEs in the same niche with the same job title can sound completely different — Signal Desk captures the difference. Answer the questions like the file is going to be the only thing standing between your voice and an AI hallucination. Because it is.*
+*The intake interview is the moat. Two SMEs in the same niche with the same job title can sound completely different — Voiceprint captures the difference. Answer the questions like the file is going to be the only thing standing between your voice and an AI hallucination. Because it is.*

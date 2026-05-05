@@ -2,7 +2,7 @@
 
 > **Note:** Maya Chen is a fictionalized composite based on a real 8 SIGNAL client whose identity has been anonymized to protect their privacy. The voice profile, pillars, and structural choices reflect actual client work. Names, quotes, and specific company details have been changed.
 >
-> This file pairs with [`dale-second-seat.md`](./dale-second-seat.md) to demonstrate something specific: **two SMEs serving the same narrow niche can sound completely different.** Both serve founder-led mid-market companies running EOS. Both are Fractional Integrators. Same job title. Two completely different identity files. That's the moat Signal Desk preserves.
+> This file pairs with [`dale-second-seat.md`](./dale-second-seat.md) to demonstrate something specific: **two SMEs serving the same narrow niche can sound completely different.** Both serve founder-led mid-market companies running EOS. Both are Fractional Integrators. Same job title. Two completely different identity files. That's the moat Voiceprint preserves.
 
 ---
 

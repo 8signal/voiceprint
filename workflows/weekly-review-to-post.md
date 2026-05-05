@@ -2,7 +2,7 @@
 
 Convert the SME's weekly review or preview into 1-2 LinkedIn posts.
 
-This is the **highest-frequency workflow** in Signal Desk. The SME does the weekly review anyway — for their own clarity, not for content. Signal Desk treats the review as a content artifact and harvests posts from it.
+This is the **highest-frequency workflow** in Voiceprint. The SME does the weekly review anyway — for their own clarity, not for content. Voiceprint treats the review as a content artifact and harvests posts from it.
 
 The reference implementation lives at [mytinta.app](https://mytinta.app) — Ruben's personal weekly preview/review app. The workflow assumes a similar structure: wins, learnings, what would you do differently, what's coming.
 
@@ -18,7 +18,7 @@ The reference implementation lives at [mytinta.app](https://mytinta.app) — Rub
 
 ## What the review should include
 
-For Signal Desk to extract good posts, the weekly review needs at minimum:
+For Voiceprint to extract good posts, the weekly review needs at minimum:
 
 1. **Wins from the past week** (with specifics — clients, numbers, named patterns)
 2. **What I learned** (the meta-insight)

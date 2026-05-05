@@ -1,8 +1,8 @@
-# Signal Desk
+# Voiceprint
 
 **A folder-based AI specialist that turns subject matter experts into LinkedIn authorities — without sounding like AI.**
 
-Signal Desk is not a LinkedIn copywriter. It refuses to write from a blank page. It only writes from artifacts you already produce: meeting transcripts, V/TO documents, weekly reviews, client wins. That constraint is the whole point.
+Voiceprint is not a LinkedIn copywriter. It refuses to write from a blank page. It only writes from artifacts you already produce: meeting transcripts, V/TO documents, weekly reviews, client wins. That constraint is the whole point.
 
 If you're looking for a tool that hallucinates posts about "leveraging synergy in today's fast-paced business environment," close this tab. This is for operators who already have a point of view and need to operationalize it on LinkedIn.
 
@@ -19,7 +19,7 @@ If it took longer than that, the folder is broken. Open an issue.
 ## What's in here
 
 ```
-signal-desk/
+voiceprint/
 ├── README.md                    ← you are here
 ├── identity.md                  ← BLANK template. Fill this first.
 ├── rules.md                     ← voice rules + banned AI-slop phrases
@@ -52,10 +52,10 @@ signal-desk/
 
 ### Option 2 — Use the intake site (10 minutes, recommended)
 
-1. Visit **[signal-desk-eosin.vercel.app](https://signal-desk-eosin.vercel.app)** (or run the `intake-site/` Next.js app locally).
+1. Visit **[voiceprint-eosin.vercel.app](https://voiceprint-eosin.vercel.app)** (or run the `intake-site/` Next.js app locally).
 2. Answer the 20-question interview.
 3. Download your generated `identity.md`.
-4. Drop it into your Signal Desk project folder.
+4. Drop it into your Voiceprint project folder.
 
 The intake site is a guided version of `reference/intake-interview.md`. Either path works.
 
@@ -65,7 +65,7 @@ The intake site is a guided version of `reference/intake-interview.md`. Either p
 
 Maya Chen and Dale Brennan are **fictionalized composites** based on real 8 SIGNAL clients whose identities have been anonymized to protect their privacy. The voice profiles, pillars, and structural choices reflect actual client work. Names, branded terms, and specific company details have been changed.
 
-These two examples exist on purpose: they serve nearly the same audience (founder-led mid-market companies running EOS) and hold the same job title (Fractional Integrator / COO), but their voices are completely different. That's the demonstration. **Two SMEs in the same niche, competing for the same clients, can — and should — sound nothing alike.** Signal Desk preserves that difference. A generic AI tool would flatten them into one indistinguishable voice.
+These two examples exist on purpose: they serve nearly the same audience (founder-led mid-market companies running EOS) and hold the same job title (Fractional Integrator / COO), but their voices are completely different. That's the demonstration. **Two SMEs in the same niche, competing for the same clients, can — and should — sound nothing alike.** Voiceprint preserves that difference. A generic AI tool would flatten them into one indistinguishable voice.
 
 ---
 
@@ -84,7 +84,7 @@ Specifically built around Fractional Integrators, Fractional CMOs, founders, ope
 
 ## What makes this different
 
-Most AI LinkedIn tools start from "give me a topic." Signal Desk starts from "give me what already happened." The artifact is the source of truth. The model's job is voice and structure, not invention.
+Most AI LinkedIn tools start from "give me a topic." Voiceprint starts from "give me what already happened." The artifact is the source of truth. The model's job is voice and structure, not invention.
 
 Three principles:
 

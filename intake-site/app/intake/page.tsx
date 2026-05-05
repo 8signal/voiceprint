@@ -5,7 +5,7 @@ import Link from "next/link";
 import { sections, totalQuestions } from "@/lib/questions";
 import { generateIdentityMarkdown } from "@/lib/generateIdentity";
 
-const STORAGE_KEY = "signal-desk-intake-v1";
+const STORAGE_KEY = "voiceprint-intake-v1";
 
 export default function IntakePage() {
   const [step, setStep] = useState(0);
@@ -91,7 +91,7 @@ export default function IntakePage() {
           </div>
           <h1 className="serif text-5xl mb-6">Your identity file is ready.</h1>
           <p className="text-lg text-stone-600 mb-10 leading-relaxed">
-            Download it, drop it into your Signal Desk folder as{" "}
+            Download it, drop it into your Voiceprint folder as{" "}
             <code className="mono bg-stone-100 px-2 py-0.5 rounded text-sm">
               identity.md
             </code>
@@ -106,7 +106,7 @@ export default function IntakePage() {
               ↓ Download identity.md
             </button>
             <a
-              href="https://github.com/8signal/signal-desk"
+              href="https://github.com/8signal/voiceprint"
               target="_blank"
               rel="noreferrer"
               className="border border-stone-300 px-6 py-3 rounded-full hover:border-stone-900 transition-colors"
@@ -248,7 +248,7 @@ function Header() {
       <div className="max-w-5xl mx-auto px-6 py-5 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
           <span className="w-2 h-2 rounded-full bg-amber-700" />
-          <span className="serif text-xl">Signal Desk</span>
+          <span className="serif text-xl">Voiceprint</span>
         </Link>
         <Link
           href="/"

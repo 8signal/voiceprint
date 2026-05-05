@@ -2,7 +2,7 @@
 
 > **Note:** Dale Brennan is a fictionalized composite based on a real 8 SIGNAL client whose identity has been anonymized to protect their privacy. The voice profile was distilled from a comprehensive analysis of the original client's content (hundreds of LinkedIn posts, video transcripts, podcast appearances). Names, branded terms, and specific company details have been changed.
 >
-> This file pairs with [`maya-fulcrum.md`](./maya-fulcrum.md) to demonstrate something specific: **two SMEs serving the same narrow niche can sound completely different.** Both Maya and Dale are Fractional Integrators / COOs serving founder-led mid-market companies running EOS. Same niche. Same job title. Different humans. Different voices. Signal Desk preserves the difference.
+> This file pairs with [`maya-fulcrum.md`](./maya-fulcrum.md) to demonstrate something specific: **two SMEs serving the same narrow niche can sound completely different.** Both Maya and Dale are Fractional Integrators / COOs serving founder-led mid-market companies running EOS. Same niche. Same job title. Different humans. Different voices. Voiceprint preserves the difference.
 
 ---
 
@@ -214,7 +214,7 @@ Both serve founder-led mid-market EOS-driven companies. Both are Fractional Inte
 | **Tonal register** | Warm directness, threads the needle | Direct coaching, leans forward |
 | **Vulnerability mode** | Names the loneliness of the visionary | Shares specific personal lessons learned |
 
-Same job. Two different humans. Two different voices. **That difference is the moat Signal Desk preserves.** A generic LinkedIn AI tool would flatten Maya and Dale into the same indistinguishable "Fractional COO Voice." The folder protects the difference.
+Same job. Two different humans. Two different voices. **That difference is the moat Voiceprint preserves.** A generic LinkedIn AI tool would flatten Maya and Dale into the same indistinguishable "Fractional COO Voice." The folder protects the difference.
 
 ---
 

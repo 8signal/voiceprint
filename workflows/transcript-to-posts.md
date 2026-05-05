@@ -2,7 +2,7 @@
 
 Convert a meeting transcript (Fireflies, Otter, Zoom, internal recording) into 3-5 LinkedIn-ready posts in the SME's voice.
 
-This is the highest-leverage workflow in Signal Desk. SMEs already produce hours of transcripts every week. The transcripts are the gold mine.
+This is the highest-leverage workflow in Voiceprint. SMEs already produce hours of transcripts every week. The transcripts are the gold mine.
 
 ---
 
@@ -22,7 +22,7 @@ This is the highest-leverage workflow in Signal Desk. SMEs already produce hours
 
 ## The prompt
 
-In a Claude project with Signal Desk loaded, paste:
+In a Claude project with Voiceprint loaded, paste:
 
 ```
 Run the transcript-to-posts workflow.

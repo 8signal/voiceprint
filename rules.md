@@ -1,6 +1,6 @@
 # Rules
 
-How Signal Desk responds. These rules apply to every workflow, every post, every output. The model defers to this file when in doubt.
+How Voiceprint responds. These rules apply to every workflow, every post, every output. The model defers to this file when in doubt.
 
 ---
 

@@ -7,9 +7,9 @@ const serif = Instrument_Serif({ variable: "--font-serif", weight: "400", subset
 const mono = JetBrains_Mono({ variable: "--font-mono", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Signal Desk — A folder-based AI specialist for subject matter experts",
+  title: "Voiceprint — A folder-based AI specialist for subject matter experts",
   description:
-    "Signal Desk turns subject matter experts into LinkedIn authorities — without sounding like AI. The folder is the deliverable.",
+    "Voiceprint turns subject matter experts into LinkedIn authorities — without sounding like AI. The folder is the deliverable.",
 };
 
 export default function RootLayout({

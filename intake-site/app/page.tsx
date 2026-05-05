@@ -7,7 +7,7 @@ export default function Home() {
         <div className="max-w-5xl mx-auto px-6 py-5 flex items-center justify-between">
           <Link href="/" className="flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-amber-700" />
-            <span className="serif text-xl">Signal Desk</span>
+            <span className="serif text-xl">Voiceprint</span>
           </Link>
           <nav className="flex items-center gap-6 text-sm">
             <a href="#how-it-works" className="text-stone-600 hover:text-stone-900">
@@ -20,7 +20,7 @@ export default function Home() {
               Done with you
             </Link>
             <a
-              href="https://github.com/8signal/signal-desk"
+              href="https://github.com/8signal/voiceprint"
               target="_blank"
               rel="noreferrer"
               className="text-stone-600 hover:text-stone-900"
@@ -47,7 +47,7 @@ export default function Home() {
           <span className="text-stone-500">Not a copywriter&apos;s.</span>
         </h1>
         <p className="text-xl text-stone-600 max-w-2xl leading-relaxed mb-10">
-          Signal Desk is a folder you drop into a Claude project. It turns the
+          Voiceprint is a folder you drop into a Claude project. It turns the
           artifacts you already produce — meeting transcripts, V/TO documents,
           weekly reviews, client wins — into LinkedIn posts that sound like you.
           Not the AI version of you.
@@ -60,7 +60,7 @@ export default function Home() {
             Build my identity file →
           </Link>
           <a
-            href="https://github.com/8signal/signal-desk"
+            href="https://github.com/8signal/voiceprint"
             target="_blank"
             rel="noreferrer"
             className="border border-stone-300 px-6 py-3 rounded-full hover:border-stone-900 transition-colors text-base"
@@ -93,7 +93,7 @@ export default function Home() {
             Most AI LinkedIn tools start from{" "}
             <em className="text-amber-300">&ldquo;give me a topic.&rdquo;</em>
             <br />
-            Signal Desk starts from{" "}
+            Voiceprint starts from{" "}
             <em className="text-amber-300">&ldquo;give me what already happened.&rdquo;</em>
           </h2>
           <div className="grid md:grid-cols-2 gap-12 mt-16">
@@ -107,7 +107,7 @@ export default function Home() {
               </p>
             </div>
             <div>
-              <div className="text-amber-400 text-sm mb-3 mono">// Signal Desk</div>
+              <div className="text-amber-400 text-sm mb-3 mono">// Voiceprint</div>
               <p className="text-stone-100 leading-relaxed">
                 Source-grounded posts in your actual voice. Pulled from your
                 Fireflies transcript, your weekly review, the client moment that
@@ -136,7 +136,7 @@ export default function Home() {
             {
               n: "02",
               title: "Download identity.md",
-              body: "We generate a populated identity file from your answers. It joins the rest of the Signal Desk folder: rules, examples, post formats, and three workflows.",
+              body: "We generate a populated identity file from your answers. It joins the rest of the Voiceprint folder: rules, examples, post formats, and three workflows.",
             },
             {
               n: "03",
@@ -168,7 +168,7 @@ export default function Home() {
             the whole point.
           </p>
           <pre className="bg-stone-900 text-stone-100 p-8 rounded-xl overflow-x-auto text-sm leading-relaxed mono">
-{`signal-desk/
+{`voiceprint/
 ├── README.md                    ← cold-start in <5 min
 ├── identity.md                  ← who you are (generate this here)
 ├── rules.md                     ← banned AI-slop, voice check

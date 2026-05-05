@@ -52,7 +52,7 @@ signal-desk/
 
 ### Option 2 — Use the intake site (10 minutes, recommended)
 
-1. Visit [signal-desk.vercel.app](https://signal-desk.vercel.app) (or run the `intake-site/` Next.js app locally).
+1. Visit **[signal-desk-eosin.vercel.app](https://signal-desk-eosin.vercel.app)** (or run the `intake-site/` Next.js app locally).
 2. Answer the 20-question interview.
 3. Download your generated `identity.md`.
 4. Drop it into your Signal Desk project folder.

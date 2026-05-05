@@ -2,7 +2,7 @@
 
 Twenty questions. Answer them honestly and specifically. Your answers become `identity.md`.
 
-The model will read your answers and generate a populated `identity.md` for you. You can also use the intake site at [signal-desk.vercel.app](https://signal-desk.vercel.app) which walks you through the same questions and gives you a downloadable file.
+The model will read your answers and generate a populated `identity.md` for you. You can also use the intake site at [signal-desk-eosin.vercel.app](https://signal-desk-eosin.vercel.app) which walks you through the same questions and gives you a downloadable file.
 
 **The rule:** specificity wins. "I help businesses grow" produces an AI-slop identity file. "I help EOS Integrators at $5M-$50M founder-led companies turn meeting chaos into pipeline" produces something usable.
 

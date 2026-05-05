@@ -2,7 +2,7 @@
 
 > **This file is the heart of Signal Desk.** Fill it out before running any workflow. The model will read this every time it generates a post and will refuse to invent voice details that aren't here.
 >
-> **Two ways to fill it:** (1) answer `reference/intake-interview.md` and paste the answers into the sections below, or (2) use the intake site at [signal-desk.vercel.app](https://signal-desk.vercel.app) and download the generated file.
+> **Two ways to fill it:** (1) answer `reference/intake-interview.md` and paste the answers into the sections below, or (2) use the intake site at [signal-desk-eosin.vercel.app](https://signal-desk-eosin.vercel.app) and download the generated file.
 >
 > Delete this blockquote when you're done.
 

@@ -170,6 +170,18 @@ export default function IntakePage() {
       </div>
 
       <div className="max-w-3xl mx-auto px-6 py-16">
+        <div className="mb-8 inline-flex items-center gap-2 text-xs text-stone-600 bg-amber-50 border border-amber-200 px-3 py-2 rounded-full">
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+            <path
+              d="M7 1.5L2 3.5v3.5c0 3 2.13 5.5 5 6 2.87-.5 5-3 5-6V3.5L7 1.5z"
+              stroke="currentColor"
+              strokeWidth="1.2"
+              strokeLinejoin="round"
+            />
+            <path d="M5 7l1.5 1.5L9 6" stroke="currentColor" strokeWidth="1.2" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+          Your answers stay in your browser. Nothing is sent to a server.
+        </div>
         <div className="text-xs uppercase tracking-[0.2em] text-amber-800 mb-4">
           {section.title}
         </div>
@@ -225,10 +237,6 @@ export default function IntakePage() {
           </button>
         </div>
 
-        <p className="text-xs text-stone-400 mt-8 text-center">
-          Your answers are saved locally in your browser. Nothing is sent to a
-          server.
-        </p>
       </div>
     </main>
   );

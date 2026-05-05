@@ -52,7 +52,7 @@ voiceprint/
 
 ### Option 2 — Use the intake site (10 minutes, recommended)
 
-1. Visit **[voiceprint-eosin.vercel.app](https://voiceprint-eosin.vercel.app)** (or run the `intake-site/` Next.js app locally).
+1. Visit **[voiceprint-app.vercel.app](https://voiceprint-app.vercel.app)** (or run the `intake-site/` Next.js app locally).
 2. Answer the 20-question interview.
 3. Download your generated `identity.md`.
 4. Drop it into your Voiceprint project folder.

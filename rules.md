@@ -164,4 +164,24 @@ When any of those show up in the first draft, the fix is structural, not cosmeti
 
 ---
 
-*Rules grow. When the SME catches a new AI tell, add it to Rule 2. When a structural pattern fails, add it to Rule 4 or Rule 9. The folder is a living system.*
+## Rule 10: Re-read the neighborhood after every edit
+
+When you change a line in a draft, **re-read the surrounding paragraph (and the post's overall arc) for two specific kinds of breakage**: tense consistency and relevancy.
+
+**Why this rule exists:** edits change the local sentence but rarely the model's awareness of context. A fix to one line can leave a tense mismatch two sentences later, or invalidate a claim that was valid in the original paragraph but no longer fits after the edit.
+
+**Real example (caught 2026-05-04):** A draft included "A LinkedIn voice tool I shipped last week. A Latin Mass app I launched for a niche audience nobody else was serving." The SME flagged it: the voice tool had shipped that same day (not last week), and the niche audience is *still* underserved (present tense, not past). After-edit re-read would have caught both.
+
+**The two checks, run after every edit:**
+
+1. **Tense consistency.** Does the edited sentence agree with the verbs around it? Did the edit move the moment in time? If a paragraph mixes past narrative ("I was on a call this morning") with present claims ("nobody else is serving this niche"), each verb has to match the temporal logic of what it's describing — not the surrounding sentence.
+
+2. **Relevancy.** Did the edit invalidate something earlier or later in the post? If you removed a name, is there a callback that referenced it? If you changed a number, does the closer still make sense? If you cut a paragraph, does the paragraph after it still flow?
+
+**The protocol:** after any non-trivial edit, **read from one paragraph above to one paragraph below** the change. Don't trust that the edit is self-contained. Most edits aren't.
+
+**For batches of posts in a series:** the same rule applies across posts. Renaming a brand mid-series, changing a CTA, cutting a name — each edit can break a callback two posts away. Re-read the whole series after a structural edit.
+
+---
+
+*Rules grow. When the SME catches a new AI tell, add it to Rule 2. When a structural pattern fails, add it to Rule 4, Rule 9, or Rule 10. The folder is a living system.*

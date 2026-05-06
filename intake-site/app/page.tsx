@@ -48,8 +48,8 @@ export default function Home() {
         </h1>
         <p className="text-xl text-stone-600 max-w-2xl leading-relaxed mb-10">
           Voiceprint is a folder you drop into a Claude project. It turns the
-          artifacts you already produce — meeting transcripts, V/TO documents,
-          weekly reviews, client wins — into LinkedIn posts that sound like you.
+          artifacts you already produce (meeting transcripts, V/TO documents,
+          weekly reviews, client wins) into LinkedIn posts that sound like you.
           Not the AI version of you.
         </p>
         <div className="flex flex-wrap items-center gap-4">
@@ -164,7 +164,7 @@ export default function Home() {
           <p className="text-stone-600 leading-relaxed max-w-2xl mb-8">
             Maya and Dale are fictionalized composites based on real 8 SIGNAL
             clients, anonymized to protect their privacy. They serve the same
-            niche and hold the same job title but sound nothing alike — which is
+            niche and hold the same job title but sound nothing alike, which is
             the whole point.
           </p>
           <pre className="bg-stone-900 text-stone-100 p-8 rounded-xl overflow-x-auto text-sm leading-relaxed mono">

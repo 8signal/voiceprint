@@ -69,7 +69,7 @@ export default function Playbook() {
           </div>
           <h2 className="serif text-4xl md:text-5xl leading-tight mb-10 max-w-3xl">
             Subject matter experts who already have a point of view
-            <span className="text-stone-400"> — and don&apos;t have time to post.</span>
+            <span className="text-stone-400">, and don&apos;t have time to post.</span>
           </h2>
           <div className="grid md:grid-cols-3 gap-8 mt-16">
             {[
@@ -79,7 +79,7 @@ export default function Playbook() {
               },
               {
                 t: "Founder-led companies",
-                d: "CEOs and founders of $5M-$50M businesses who want their voice on LinkedIn as a credibility engine — not their assistant&apos;s voice.",
+                d: "CEOs and founders of $5M-$50M businesses who want their voice on LinkedIn as a credibility engine, not their assistant&apos;s voice.",
               },
               {
                 t: "Niche operators",
@@ -106,7 +106,7 @@ export default function Playbook() {
         <p className="text-lg text-stone-600 max-w-2xl leading-relaxed mb-16">
           Every Playbook engagement includes all eight. Some clients lean
           heavier on the Content Engine; others lean on Campaigns. We tune the
-          weight to your business — but the foundation is the foundation.
+          weight to your business, but the foundation is the foundation.
         </p>
 
         <div className="space-y-12">
@@ -283,7 +283,7 @@ export default function Playbook() {
 const modules = [
   {
     title: "The Voice System",
-    body: "Your voice on LinkedIn, protected from AI drift. We capture how you actually sound — vocabulary, sentence rhythm, banned phrases, gold-standard references — so every post passes for you, not for a generic LinkedIn ghostwriter.",
+    body: "Your voice on LinkedIn, protected from AI drift. We capture how you actually sound, vocabulary, sentence rhythm, banned phrases, gold-standard references, so every post passes for you, not for a generic LinkedIn ghostwriter.",
     includes: [
       "Voice profile distilled from real transcripts and writing samples",
       "Banned-phrase library specific to your voice",
@@ -303,7 +303,7 @@ const modules = [
   },
   {
     title: "The Audience Map",
-    body: "Your ideal client defined in plain language. Not a buyer persona deck. The version you'd describe to a stranger at a dinner party — what they say out loud, what keeps them up at night, what they actually want.",
+    body: "Your ideal client defined in plain language. Not a buyer persona deck. The version you'd describe to a stranger at a dinner party, what they say out loud, what keeps them up at night, what they actually want.",
     includes: [
       "Named persona with daily pain and desired outcome",
       "Verbatim language your audience uses (so your posts mirror it)",
@@ -313,7 +313,7 @@ const modules = [
   },
   {
     title: "The Compliance Layer",
-    body: "Industry-specific language guardrails. If you operate in EOS, finance, healthcare, or legal — there are words you can't say and frameworks you can't claim. We map them all so your content never gets flagged.",
+    body: "Industry-specific language guardrails. If you operate in EOS, finance, healthcare, or legal, there are words you can't say and frameworks you can't claim. We map them all so your content never gets flagged.",
     includes: [
       "Trademark and certification compliance review",
       "Approved vs. flagged terminology lists",
@@ -323,7 +323,7 @@ const modules = [
   },
   {
     title: "The Content Engine",
-    body: "The system that turns your meetings, planning documents, weekly reviews, and client wins into LinkedIn posts in your voice. No more staring at a blank page. The system requires source material — and you already have plenty.",
+    body: "The system that turns your meetings, planning documents, weekly reviews, and client wins into LinkedIn posts in your voice. No more staring at a blank page. The system requires source material, and you already have plenty.",
     includes: [
       "Transcript-to-posts conversion (Fireflies, Otter, Zoom)",
       "Weekly-review-to-posts conversion",
@@ -343,7 +343,7 @@ const modules = [
   },
   {
     title: "The Campaign Pack",
-    body: "Multi-week themed pushes with a story arc — not random posts. Each campaign opens with a hook, builds across 6-8 posts, and closes with a clear next step. Pairs with email sequences for the full nurture.",
+    body: "Multi-week themed pushes with a story arc, not random posts. Each campaign opens with a hook, builds across 6-8 posts, and closes with a clear next step. Pairs with email sequences for the full nurture.",
     includes: [
       "8-post campaign blueprint per quarter",
       "Paired email nurture sequence (6 emails, 14 days)",
@@ -353,7 +353,7 @@ const modules = [
   },
   {
     title: "The Engagement Strategy",
-    body: "The 30-minute daily routine that actually moves pipeline — without becoming an addiction. Targeted commenting on the right people's posts, passive and active DM strategy, and how to never pitch in a comment thread.",
+    body: "The 30-minute daily routine that actually moves pipeline, without becoming an addiction. Targeted commenting on the right people's posts, passive and active DM strategy, and how to never pitch in a comment thread.",
     includes: [
       "Target list of 25-50 people to engage with weekly",
       "Comment templates and rules (no 'Great post!')",

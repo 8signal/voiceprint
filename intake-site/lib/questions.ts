@@ -18,7 +18,7 @@ export const sections: Section[] = [
     id: "who-you-are",
     title: "Who you are",
     intro:
-      "Five questions to ground the identity. Specificity wins — pretend you're explaining yourself to a writer who's never met you.",
+      "Five questions to ground the identity. Specificity wins, pretend you're explaining yourself to a writer who's never met you.",
     questions: [
       {
         id: "name",
@@ -42,7 +42,7 @@ export const sections: Section[] = [
       {
         id: "ideal_client",
         label: "Who is your ideal client? Give them a name, title, company size, daily pain.",
-        hint: "Bad: 'small business owners.' Good: 'Scott — entrepreneurial CEO, 50s, $5-50M revenue, has read Rocket Fuel and recognizes himself as a textbook visionary.'",
+        hint: "Bad: 'small business owners.' Good: 'Scott, entrepreneurial CEO, 50s, $5-50M revenue, has read Rocket Fuel and recognizes himself as a textbook visionary.'",
         rows: 4,
       },
       {
@@ -88,7 +88,7 @@ export const sections: Section[] = [
     id: "how-you-sound",
     title: "How you sound",
     intro:
-      "The voice section. This is where most identity files fail — they stay generic. Get specific.",
+      "The voice section. This is where most identity files fail, they stay generic. Get specific.",
     questions: [
       {
         id: "voice_one_sentence",
@@ -110,7 +110,7 @@ export const sections: Section[] = [
       },
       {
         id: "phrases_close",
-        label: "10 words or phrases that sound like you but aren't quite right — the close cousins.",
+        label: "10 words or phrases that sound like you but aren't quite right, the close cousins.",
         hint: "Things that read AI-generated when applied to you specifically.",
         rows: 5,
       },
@@ -132,12 +132,12 @@ export const sections: Section[] = [
     id: "what-you-write",
     title: "What you write about",
     intro:
-      "Three questions to map your themes — the topics you have permanent authority on.",
+      "Three questions to map your themes, the topics you have permanent authority on.",
     questions: [
       {
         id: "themes",
         label: "List 3-6 content themes you have permanent authority on.",
-        hint: "Not 'leadership' — that's a category. 'The financial fog — most CEOs don't actually know where their money is going' is a theme.",
+        hint: "Not 'leadership', that's a category. 'The financial fog, most CEOs don't actually know where their money is going' is a theme.",
         rows: 6,
       },
       {

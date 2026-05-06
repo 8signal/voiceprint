@@ -2,9 +2,9 @@
 
 Convert the SME's weekly review or preview into 1-2 LinkedIn posts.
 
-This is the **highest-frequency workflow** in Voiceprint. The SME does the weekly review anyway — for their own clarity, not for content. Voiceprint treats the review as a content artifact and harvests posts from it.
+This is the **highest-frequency workflow** in Voiceprint. The SME does the weekly review anyway, for their own clarity, not for content. Voiceprint treats the review as a content artifact and harvests posts from it.
 
-The reference implementation lives at [mytinta.app](https://mytinta.app) — Ruben's personal weekly preview/review app. The workflow assumes a similar structure: wins, learnings, what would you do differently, what's coming.
+The reference implementation lives at [mytinta.app](https://mytinta.app), Ruben's personal weekly preview/review app. The workflow assumes a similar structure: wins, learnings, what would you do differently, what's coming.
 
 ---
 
@@ -20,9 +20,9 @@ The reference implementation lives at [mytinta.app](https://mytinta.app) — Rub
 
 For Voiceprint to extract good posts, the weekly review needs at minimum:
 
-1. **Wins from the past week** (with specifics — clients, numbers, named patterns)
+1. **Wins from the past week** (with specifics, clients, numbers, named patterns)
 2. **What I learned** (the meta-insight)
-3. **What I'd do differently** (the lesson — usually the strongest post material)
+3. **What I'd do differently** (the lesson, usually the strongest post material)
 4. **What surprised me** (often the best hook)
 5. **What's coming next week** (seeds the next review)
 
@@ -66,7 +66,7 @@ Weekly review:
 ## What the model does
 
 1. **Reads `identity.md`, `rules.md`, recent `examples.md`.**
-2. **Scans the review for the strongest moment** — the post with the highest specificity, vulnerability, or pattern-recognition value.
+2. **Scans the review for the strongest moment**, the post with the highest specificity, vulnerability, or pattern-recognition value.
 3. **Identifies 1-2 candidate posts**, prioritizing:
    - "What I'd do differently" entries (highest authenticity, built-in vulnerability)
    - Specific wins with named clients (anonymized) and numbers
@@ -89,7 +89,7 @@ Weekly review:
 **Why this one this week:**
 [1-2 sentences on what made this the strongest moment]
 
-**Source:** Weekly review, [section] — "[verbatim line that seeded the post]"
+**Source:** Weekly review, [section], "[verbatim line that seeded the post]"
 
 ---
 

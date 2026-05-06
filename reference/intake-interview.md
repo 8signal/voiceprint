@@ -8,14 +8,14 @@ The model will read your answers and generate a populated `identity.md` for you.
 
 ---
 
-## Section A — Who you are (questions 1-5)
+## Section A, Who you are (questions 1-5)
 
 **1. What's your name, title, and company?**
 
 **2. Write a one-sentence positioning statement that you'd actually say out loud at a dinner party.**
 Not the version on your website. The version you say to your brother-in-law. (e.g., "I'm a Fractional CMO who specializes in AI for EOS-driven companies.")
 
-**3. Who is your ideal client? Be specific — give them a name, a title, a company size, a daily pain.**
+**3. Who is your ideal client? Be specific, give them a name, a title, a company size, a daily pain.**
 Bad answer: "Small business owners." Good answer: "Amy, EOS Integrator at a 30-person founder-led company doing $15M, who owns marketing because nobody else will."
 
 **4. What does your ideal client say (in their own words) before they hire you?**
@@ -26,7 +26,7 @@ Real testimonial language if you have it. If you don't, what would you want them
 
 ---
 
-## Section B — What you do (questions 6-9)
+## Section B, What you do (questions 6-9)
 
 **6. What's the hard problem you solve? Not the deliverable. The underlying pain.**
 "I run their L10" is a deliverable. "Founders hit a structural ceiling at $15M and don't know it's a structural ceiling, not a sales problem" is a pain.
@@ -42,7 +42,7 @@ Specific stories. Not generalizations. ("A CEO at a $25M staffing firm told me h
 
 ---
 
-## Section C — How you sound (questions 10-15)
+## Section C, How you sound (questions 10-15)
 
 **10. Describe your voice in one sentence. Pretend you're explaining it to a writer who's never met you.**
 
@@ -52,8 +52,8 @@ Maya's pillars: Direct Not Harsh, Concrete Not Conceptual, Present Not Distant, 
 **12. Drop in 10-15 phrases you actually say. From transcripts, Slack, real conversations.**
 Not invented. If you've never said it out loud, it doesn't go here.
 
-**13. Drop in 10 words or phrases that sound like you but aren't quite right — the close cousins.**
-Things that read AI-generated when applied to you specifically. (e.g., Maya's "heads-down" — close to her, not her.)
+**13. Drop in 10 words or phrases that sound like you but aren't quite right, the close cousins.**
+Things that read AI-generated when applied to you specifically. (e.g., Maya's "heads-down", close to her, not her.)
 
 **14. What words or phrases do you ban?**
 Beyond the universal AI-slop list. Personal to your voice. (e.g., Ruben bans em dashes and "here's the thing.")
@@ -63,10 +63,10 @@ Maya's: the testimonials. Ruben's: the way he talks to a fellow founder over tac
 
 ---
 
-## Section D — What you write about (questions 16-18)
+## Section D, What you write about (questions 16-18)
 
 **16. List 3-6 content themes you have permanent authority on.**
-Not "leadership." That's a category. "The financial fog — most CEOs don't actually know where their money is going" is a theme.
+Not "leadership." That's a category. "The financial fog, most CEOs don't actually know where their money is going" is a theme.
 
 **17. For each theme, why do YOU specifically have a take?**
 Your lived experience. Your unique angle. The thing nobody else can write about quite like you.
@@ -76,7 +76,7 @@ Check all that apply: meeting transcripts (Fireflies/Otter/Zoom), V/TO, weekly r
 
 ---
 
-## Section E — How you ship (questions 19-20)
+## Section E, How you ship (questions 19-20)
 
 **19. How do you sign your LinkedIn posts?**
 "Maya at Fulcrum," "Ruben at 8 SIGNAL," no sign-off, etc.
@@ -97,4 +97,4 @@ If you used the intake site, just download the file and drop it in.
 
 ---
 
-*The intake interview is the moat. Two SMEs in the same niche with the same job title can sound completely different — Voiceprint captures the difference. Answer the questions like the file is going to be the only thing standing between your voice and an AI hallucination. Because it is.*
+*The intake interview is the moat. Two SMEs in the same niche with the same job title can sound completely different, Voiceprint captures the difference. Answer the questions like the file is going to be the only thing standing between your voice and an AI hallucination. Because it is.*

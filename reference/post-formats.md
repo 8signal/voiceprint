@@ -11,15 +11,15 @@ The formats are voice-agnostic. The voice comes from `identity.md`. The structur
 A specific scene. A real conversation. A look on someone's face.
 
 ```
-[Open with a specific scene — phone call, meeting, line a client said]
+[Open with a specific scene, phone call, meeting, line a client said]
 
-[1-2 sentences of context — who, company size, what was happening]
+[1-2 sentences of context, who, company size, what was happening]
 
-[What was said or done — concrete and human]
+[What was said or done, concrete and human]
 
-[The result — one sentence, factual]
+[The result, one sentence, factual]
 
-[The takeaway — one line, no moralizing]
+[The takeaway, one line, no moralizing]
 ```
 
 **Best for:** transcript-to-post workflows. Client moments that landed during a meeting.
@@ -31,13 +31,13 @@ A specific scene. A real conversation. A look on someone's face.
 A vivid before, a concrete shift, a factual after, a reframe.
 
 ```
-[Before — specific, emotional, in client's words if possible]
+[Before, specific, emotional, in client's words if possible]
 
-[The shift — what changed. One concrete action.]
+[The shift, what changed. One concrete action.]
 
-[After — result. Factual + emotional.]
+[After, result. Factual + emotional.]
 
-[Close — one sentence that reframes the whole thing.]
+[Close, one sentence that reframes the whole thing.]
 ```
 
 **Best for:** client win posts. Multi-month engagements with measurable outcomes.
@@ -51,11 +51,11 @@ State a belief most readers hold. Acknowledge why. Break it. Reframe.
 ```
 [The belief most CEOs / founders / readers hold]
 
-[Empathy — why they hold it]
+[Empathy, why they hold it]
 
-[Break it — specific example or question]
+[Break it, specific example or question]
 
-[The reframe — one or two sentences]
+[The reframe, one or two sentences]
 ```
 
 **Best for:** opinion posts. Pillar content from V/TO themes.
@@ -99,11 +99,11 @@ Open with the question they asked. Reveal the question they actually need to ans
 A specific number. The story behind it.
 
 ```
-[A surprising or specific number — out of context]
+[A surprising or specific number, out of context]
 
 [Reveal what the number means]
 
-[The mechanism — how / why]
+[The mechanism, how / why]
 
 [What it cost to figure this out]
 ```
@@ -139,7 +139,7 @@ The first line is everything. LinkedIn cuts the post at line 2-3 on mobile.
 - A one-line reframe of the opening
 - A specific question rooted in the post (not generic)
 - A punch that lands the insight in fewer words
-- Silence — sometimes no closer is the closer
+- Silence, sometimes no closer is the closer
 
 ### Weak closers (banned)
 - Generic engagement bait: *"What do YOU think? Drop it in the comments!"*

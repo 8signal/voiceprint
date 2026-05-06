@@ -1,8 +1,8 @@
 # Identity — Sarah Whitcomb (FICTIONAL EXAMPLE)
 
-> **Note:** Sarah Whitcomb is a fully fictional identity, written specifically to demonstrate that the Voiceprint structure works **outside the EOS / Fractional COO niche** that Maya and Dale operate in. The voice profile is invented — there is no real client behind it. Use this example as proof the system travels to any subject matter expert with a niche, a voice, and source artifacts.
+> **Note:** Sarah Whitcomb is a fully fictional identity, written specifically to demonstrate that the Voiceprint structure works **outside the EOS / Fractional COO niche** that Maya and Dale operate in. The voice profile is invented, there is no real client behind it. Use this example as proof the system travels to any subject matter expert with a niche, a voice, and source artifacts.
 >
-> *(Bonus: salary negotiation coach was one of the example specialists Jake Van Clief mentioned in the comp brief. Including it as an identity example is intentional — the structure should accommodate exactly the kinds of niches he sketched.)*
+> *(Bonus: salary negotiation coach was one of the example specialists Jake Van Clief mentioned in the comp brief. Including it as an identity example is intentional, the structure should accommodate exactly the kinds of niches he sketched.)*
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## 2. Who you serve
 
-**Ideal client (the persona):** "Priya" — Senior Software Engineer, 7-12 years in, currently at a public tech company or late-stage private. Just got an offer (or is about to negotiate a level/promo), feels like she's underpriced, hates the conversation, and her partner is asking why she hasn't asked for more.
+**Ideal client (the persona):** "Priya", Senior Software Engineer, 7-12 years in, currently at a public tech company or late-stage private. Just got an offer (or is about to negotiate a level/promo), feels like she's underpriced, hates the conversation, and her partner is asking why she hasn't asked for more.
 
 **What they came in saying:**
 - "I have an offer and I have no idea if it's good."
@@ -49,14 +49,14 @@ Ten years inside FAANG comp committees on the *employer* side before going indep
 **What you don't do:**
 - Negotiate on the client's behalf. (She coaches them through it. They have to do it.)
 - Work with junior engineers. (Different game, different leverage.)
-- Take a percentage of the increase. (Flat fee — no incentive to overclaim.)
+- Take a percentage of the increase. (Flat fee, no incentive to overclaim.)
 - Promise specific dollar outcomes. (She promises the conversation, not the number.)
 
 ---
 
 ## 4. Voice — in one sentence
 
-*Sarah sounds like a comp committee insider who got tired of seeing brilliant engineers ask for nothing — direct, data-rich, slightly wry, and allergic to corporate HR-speak.*
+*Sarah sounds like a comp committee insider who got tired of seeing brilliant engineers ask for nothing, direct, data-rich, slightly wry, and allergic to corporate HR-speak.*
 
 ---
 
@@ -93,11 +93,11 @@ Ten years inside FAANG comp committees on the *employer* side before going indep
 - "stop apologizing in the subject line"
 
 ### Banned words and phrases
-- "Negotiate from a place of value" — corporate trainer language
-- "Authentic" — unless it actually means something
-- "Power pose" — outdated and beneath the audience
-- "Just" (as in "just ask") — minimizes the ask
-- "I think" / "I feel" — soft-pedaling
+- "Negotiate from a place of value", corporate trainer language
+- "Authentic", unless it actually means something
+- "Power pose", outdated and beneath the audience
+- "Just" (as in "just ask"), minimizes the ask
+- "I think" / "I feel", soft-pedaling
 - Em dashes (Voiceprint universal rule)
 
 ---

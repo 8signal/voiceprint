@@ -31,7 +31,7 @@ Identity: [pointer to identity.md, or paste it inline]
 
 Transcript source: [Fireflies / Otter / Zoom / internal]
 Date: [date]
-Participants: [roles only — anonymize]
+Participants: [roles only, anonymize]
 Context: [1-2 sentences on what kind of meeting and what was discussed]
 
 Transcript:
@@ -67,7 +67,7 @@ Transcript:
 
 ---
 
-**Post 1: [type — e.g., The Real Moment]**
+**Post 1: [type, e.g., The Real Moment]**
 
 [Full post body, ready to paste into LinkedIn]
 
@@ -85,7 +85,7 @@ Transcript:
 
 ## Maya's specialty case
 
-For Fractional Integrators / COOs running EOS L10s, the **Issues List / IDS section is the goldmine**. The structure of IDS — Identify the issue, Discuss it, Solve it — produces clean before/after material every meeting.
+For Fractional Integrators / COOs running EOS L10s, the **Issues List / IDS section is the goldmine**. The structure of IDS, Identify the issue, Discuss it, Solve it, produces clean before/after material every meeting.
 
 When pulling from an L10:
 1. Skip the segue, scorecard, rocks, and headlines unless something specific landed there
@@ -117,10 +117,10 @@ If any check fails, the post gets rewritten before showing the user.
 The user can ask:
 - "Generate two more from a different angle"
 - "Rewrite post 2 in Format C instead"
-- "This doesn't sound like me — line 3 specifically"
+- "This doesn't sound like me, line 3 specifically"
 
 Each iteration reads `identity.md` again and updates banned phrases / vocabulary if the user adds new rules.
 
 ---
 
-*This workflow pairs naturally with `weekly-review-to-post.md` — transcripts catch the moments, weekly reviews catch the patterns. Use both.*
+*This workflow pairs naturally with `weekly-review-to-post.md`, transcripts catch the moments, weekly reviews catch the patterns. Use both.*

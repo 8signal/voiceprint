@@ -28,9 +28,9 @@ A 30-day calendar built this way produces:
 
 ## What you need
 
-1. **The SME's V/TO** — at minimum: core values, three uniques, target market, marketing strategy. BHAG and 10-year target are bonus.
-2. **3 recent client wins** — specific outcomes from the past 60-90 days. Each win should include: client size, the problem before, the action taken, the result, the lesson.
-3. **The SME's `identity.md`** — for voice and theme alignment.
+1. **The SME's V/TO**, at minimum: core values, three uniques, target market, marketing strategy. BHAG and 10-year target are bonus.
+2. **3 recent client wins**, specific outcomes from the past 60-90 days. Each win should include: client size, the problem before, the action taken, the result, the lesson.
+3. **The SME's `identity.md`**, for voice and theme alignment.
 
 ---
 
@@ -69,11 +69,11 @@ A 4-week × 5-weekday calendar = 20 posts.
 - **Week 4 theme:** Three Unique #3 (or back to Core Value #3)
 
 Within each week:
-- Day 1: Format A (Real Moment) — anchored to one of the 3 wins
-- Day 2: Format C (Uncomfortable Truth) — pillar opinion post
-- Day 3: Format D (One-Liner) — sharpening a theme
-- Day 4: Format B or F (Before/After or Receipt) — anchored to a different win or metric
-- Day 5: **Live capture slot** — reserved for whatever happens that week
+- Day 1: Format A (Real Moment), anchored to one of the 3 wins
+- Day 2: Format C (Uncomfortable Truth), pillar opinion post
+- Day 3: Format D (One-Liner), sharpening a theme
+- Day 4: Format B or F (Before/After or Receipt), anchored to a different win or metric
+- Day 5: **Live capture slot**, reserved for whatever happens that week
 
 The Live Capture slot is non-negotiable. It keeps the calendar from going stale and lets the SME respond to current events / current client moments.
 
@@ -82,25 +82,25 @@ The Live Capture slot is non-negotiable. It keeps the calendar from going stale 
 ## Output format
 
 ```
-# 30-Day Calendar — [SME Name] — Starting [Date]
+# 30-Day Calendar, [SME Name], Starting [Date]
 
-## Week 1: [Theme — e.g., Core Value: First, We Serve]
+## Week 1: [Theme, e.g., Core Value: First, We Serve]
 
 ### Day 1 (Mon, May 5)
-- **Format:** A — The Real Moment
+- **Format:** A, The Real Moment
 - **Source:** Win #2 (the AI-stack story for the $15M staffing CEO)
 - **Hook draft:** "Okay, so a CEO told me he's working 70 hours a week."
 - **Status:** ready-for-draft
 
 ### Day 2 (Tue, May 6)
-- **Format:** C — The Uncomfortable Truth
+- **Format:** C, The Uncomfortable Truth
 - **Source:** V/TO Core Value #1 ("First, We Serve")
 - **Hook draft:** "Most agencies pitch their process before they understand your goals. That's why most agencies lose."
 - **Status:** ready-for-draft
 
 [...continues for all 20 days]
 
-## Live Capture Slots (5 total — one per week, Friday)
+## Live Capture Slots (5 total, one per week, Friday)
 
 - Week 1 Friday: [reserved]
 - Week 2 Friday: [reserved]
@@ -115,7 +115,7 @@ The Live Capture slot is non-negotiable. It keeps the calendar from going stale 
 - Core Value coverage: [✓ all 3 hit]
 - Three Uniques coverage: [✓ all 3 hit]
 - Wins anchored: [✓ 3/3 used as source artifacts]
-- Format mix: [A x 5, B x 4, C x 5, D x 3, F x 3] — balanced
+- Format mix: [A x 5, B x 4, C x 5, D x 3, F x 3], balanced
 - Hashtag rotation: [primary set + 2 rotation posts per week]
 
 ```
@@ -147,4 +147,4 @@ The calendar is a skeleton. The transcripts and weekly reviews are the muscle. T
 
 ---
 
-*Calendar entries with `Status: ready-for-draft` get pulled into the SME's drafting workflow. When a draft is finished and approved, the entry status becomes `scheduled`. When the post ships, it becomes `published` and gets logged in the wins file (which feeds the next quarter's V/TO update — the loop closes).*
+*Calendar entries with `Status: ready-for-draft` get pulled into the SME's drafting workflow. When a draft is finished and approved, the entry status becomes `scheduled`. When the post ships, it becomes `published` and gets logged in the wins file (which feeds the next quarter's V/TO update, the loop closes).*

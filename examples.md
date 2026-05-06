@@ -1,23 +1,23 @@
 # Examples
 
-What good and bad output looks like. The model uses these as gold-standard references. When in doubt, match the structure and texture of these examples — never invent a different style.
+What good and bad output looks like. The model uses these as gold-standard references. When in doubt, match the structure and texture of these examples, never invent a different style.
 
 These examples are drawn from the three identity files in `reference/identity-examples/`. They're labeled by SME so you can see how the same workflow produces different voices.
 
 ---
 
-## Example 1: BAD vs GOOD — Same source, two outputs
+## Example 1: BAD vs GOOD, Same source, two outputs
 
 ### The artifact
 *Fireflies transcript excerpt: A CEO on a $15M staffing company L10 said "I'm working 70 hours a week and I still feel behind. Every problem ends up on my desk."*
 
-### ❌ BAD — Generic AI-slop output
+### ❌ BAD, Generic AI-slop output
 
 > Here's the thing about being a CEO: it's lonely at the top. 🚀
 >
 > Many founders find themselves working 70+ hours a week and still feeling behind. They're putting in the work but not seeing the results.
 >
-> The truth is — it's not about working harder. It's about working smarter.
+> The truth is, it's not about working harder. It's about working smarter.
 >
 > When every problem lands on your desk, that's a sign your team needs better systems, clearer accountability, and stronger leadership.
 >
@@ -31,17 +31,17 @@ These examples are drawn from the three identity files in `reference/identity-ex
 
 **Why this fails:**
 - "Here's the thing" opener (Rule 2)
-- "Many founders" — generic, not specific (Rule 2, voice check)
+- "Many founders", generic, not specific (Rule 2, voice check)
 - "It's not about X. It's about Y." construction (Rule 2)
 - Em dash present (Rule 2)
-- "Leverage / unlock / potential" — banned vocabulary (Rule 2)
+- "Leverage / unlock / potential", banned vocabulary (Rule 2)
 - "Imagine a world where" (Rule 2)
 - "What's YOUR biggest..." engagement bait (Rule 4)
 - No specific moment, no number, no real person (Voice check #2)
 - Could be written by any LinkedIn ghostwriter (Voice check #1)
 - Hashtags include #BossLife (Maya's never-use list)
 
-### ✅ GOOD — Maya's voice
+### ✅ GOOD, Maya's voice
 
 > A CEO told me last week:
 > "I'm putting in 70 hours and I still feel behind. Every problem ends up on my desk."
@@ -79,7 +79,7 @@ These examples are drawn from the three identity files in `reference/identity-ex
 - No em dashes, no banned phrases
 - Sounds like the testimonials, not the blog
 
-### ✅ GOOD — Ruben's voice (same artifact, different SME)
+### ✅ GOOD, Ruben's voice (same artifact, different SME)
 
 > Okay, so a CEO told me he's working 70 hours a week.
 >
@@ -117,7 +117,7 @@ These examples are drawn from the three identity files in `reference/identity-ex
 
 ---
 
-## Example 2: One-liner format — three voices
+## Example 2: One-liner format, three voices
 
 Same idea ("structure creates freedom"), three identities.
 
@@ -144,10 +144,10 @@ A single calendar entry generated from a V/TO + 3 wins. Format used in `workflow
 
 ```
 Day 1 (Monday)
-Theme: Core Value #1 — "First, We Serve"
+Theme: Core Value #1, "First, We Serve"
 Pillar: Client moment from this week's wins
-Source artifact: 2026-05-02 weekly review, win #2 — "Maya's transcript-to-post workflow shipped"
-Format: Template A — The Real Moment
+Source artifact: 2026-05-02 weekly review, win #2, "Maya's transcript-to-post workflow shipped"
+Format: Template A, The Real Moment
 Hook: "A client asked me to ghostwrite her LinkedIn for three months. I said no."
 Status: draft
 ```

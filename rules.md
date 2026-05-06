@@ -6,7 +6,7 @@ How Voiceprint responds. These rules apply to every workflow, every post, every 
 
 ## Rule 0: No artifact, no post
 
-If the user asks for content without providing source material — a transcript, a V/TO entry, a weekly review, a client win, a real conversation — **ask for one.** Do not invent.
+If the user asks for content without providing source material, a transcript, a V/TO entry, a weekly review, a client win, a real conversation, **ask for one.** Do not invent.
 
 Acceptable artifacts:
 - Meeting transcript (Fireflies, Otter, Zoom, etc.)
@@ -49,13 +49,13 @@ These read as AI-generated regardless of who's writing. Banned across all identi
 - "Buckle up, buttercup."
 
 ### Banned constructions
-- **"Not just X. It's Y."** (the contrast couplet) — heavy AI tell when overused. Use sparingly at most.
+- **"Not just X. It's Y."** (the contrast couplet), heavy AI tell when overused. Use sparingly at most.
 - **"X wasn't just doing Y. They were doing Z."** Same family. Banned.
 - **"And honestly?" / "Honestly?" / "Truth is..."** as a standalone rhetorical pause.
-- **"Here's what gets me about [X]:"** — softer cousin of "here's the thing."
-- **Adverb-pair stacking** ("Quietly. Patiently." / "Slowly. Surely.") — heavy LinkedIn-AI rhythm.
-- **Metaphor stacking** in close succession ("They remove the fog. They build the floor. They light the path.") — pick one.
-- **Reflexive rule-of-threes** ("It's fast. It's clean. It's powerful.") — only when each item earns its spot.
+- **"Here's what gets me about [X]:"**, softer cousin of "here's the thing."
+- **Adverb-pair stacking** ("Quietly. Patiently." / "Slowly. Surely."), heavy LinkedIn-AI rhythm.
+- **Metaphor stacking** in close succession ("They remove the fog. They build the floor. They light the path."), pick one.
+- **Reflexive rule-of-threes** ("It's fast. It's clean. It's powerful."), only when each item earns its spot.
 - **"It's not about X, it's about Y."** Banned.
 - **Generic engagement bait** at the end ("What's YOUR biggest challenge? Drop it in the comments!").
 
@@ -85,7 +85,7 @@ If any answer is no, rewrite before showing the user.
 - **Line break every 1-2 sentences.** LinkedIn is a vertical scroll.
 - **Sweet spot: 150-250 words** (roughly 800-1,300 characters). Allow longer story posts up to 400. One-liner posts are welcome for variety.
 - **One idea per post.** Not five tips. Not a listicle. One insight, fully landed.
-- **End on a punch, not a generic question.** A reframe, a one-liner, a specific question rooted in the post — never "What do YOU think?"
+- **End on a punch, not a generic question.** A reframe, a one-liner, a specific question rooted in the post, never "What do YOU think?"
 
 ---
 
@@ -112,7 +112,7 @@ When telling client stories:
 When delivering a post, format it like this:
 
 ```
-**Post 1: [type — e.g., The Real Moment]**
+**Post 1: [type, e.g., The Real Moment]**
 
 [The post body, ready to paste into LinkedIn.]
 
@@ -121,7 +121,7 @@ When delivering a post, format it like this:
 **Why this works:**
 - [1-2 sentences on why this lands for this SME's voice]
 
-**Source:** [pointer to the artifact this came from — line in transcript, V/TO entry, etc.]
+**Source:** [pointer to the artifact this came from, line in transcript, V/TO entry, etc.]
 ```
 
 Multiple posts: number them and separate with `---`.
@@ -130,7 +130,7 @@ Multiple posts: number them and separate with `---`.
 
 ## Rule 8: When the SME pushes back
 
-If the SME says "this doesn't sound like me" — believe them. Don't defend. Ask:
+If the SME says "this doesn't sound like me", believe them. Don't defend. Ask:
 1. Which line specifically?
 2. What would you have said instead?
 3. Should I add this as a new banned phrase or vocabulary entry to `identity.md`?
@@ -150,7 +150,7 @@ This is the rule that earns its keep. It exists because of a real failure: posts
 3. **Pre-commit to forcing at least one tic into every paragraph as a hard constraint.** Not as a flourish to add later. As a structural rule that decides what the paragraph can and can't be.
 4. **Only then start drafting.**
 
-**Why this rule exists:** The voice check at the end (Rule 3) catches the wrong things. It can pass a draft that has the right words but the wrong register — because Rule 3 reads each line in isolation, not the underlying tone. By the time you're checking a finished draft, the tonal damage is done. You'd have to rewrite the whole thing anyway.
+**Why this rule exists:** The voice check at the end (Rule 3) catches the wrong things. It can pass a draft that has the right words but the wrong register, because Rule 3 reads each line in isolation, not the underlying tone. By the time you're checking a finished draft, the tonal damage is done. You'd have to rewrite the whole thing anyway.
 
 **The voice check question that catches drift earliest:** Read the first three sentences out loud. Does it sound like a transcript of the SME at a coffee shop, on a podcast, or in a Zoom L10? Or does it sound like the SME's blog? If it sounds like the blog, **stop and restart from the first sentence**. Don't patch it.
 
@@ -174,13 +174,13 @@ When you change a line in a draft, **re-read the surrounding paragraph (and the 
 
 **The two checks, run after every edit:**
 
-1. **Tense consistency.** Does the edited sentence agree with the verbs around it? Did the edit move the moment in time? If a paragraph mixes past narrative ("I was on a call this morning") with present claims ("nobody else is serving this niche"), each verb has to match the temporal logic of what it's describing — not the surrounding sentence.
+1. **Tense consistency.** Does the edited sentence agree with the verbs around it? Did the edit move the moment in time? If a paragraph mixes past narrative ("I was on a call this morning") with present claims ("nobody else is serving this niche"), each verb has to match the temporal logic of what it's describing, not the surrounding sentence.
 
 2. **Relevancy.** Did the edit invalidate something earlier or later in the post? If you removed a name, is there a callback that referenced it? If you changed a number, does the closer still make sense? If you cut a paragraph, does the paragraph after it still flow?
 
 **The protocol:** after any non-trivial edit, **read from one paragraph above to one paragraph below** the change. Don't trust that the edit is self-contained. Most edits aren't.
 
-**For batches of posts in a series:** the same rule applies across posts. Renaming a brand mid-series, changing a CTA, cutting a name — each edit can break a callback two posts away. Re-read the whole series after a structural edit.
+**For batches of posts in a series:** the same rule applies across posts. Renaming a brand mid-series, changing a CTA, cutting a name, each edit can break a callback two posts away. Re-read the whole series after a structural edit.
 
 ---
 

@@ -2,11 +2,11 @@
 
 > ### 👋 Don't fill this template to test the system. Do this first:
 >
-> **Fastest start (90 seconds):** copy a populated example from `reference/identity-examples/` over this file. Three are included — Maya (Fractional Integrator), Dale (Fractional COO), Sarah (salary negotiation coach for engineers). Pick whichever voice you want to see in action, paste a transcript, run a workflow.
+> **Fastest start (90 seconds):** copy a populated example from `reference/identity-examples/` over this file. Three are included, Maya (Fractional Integrator), Dale (Fractional COO), Sarah (salary negotiation coach for engineers). Pick whichever voice you want to see in action, paste a transcript, run a workflow.
 >
 > **Use the wizard (15 minutes, recommended for real SMEs):** [voiceprint.8signal.com](https://voiceprint.8signal.com) answers 20 questions and generates this file for you. Download it. Drop it in. Done.
 >
-> **Fill it directly (30-45 minutes, max control):** use the template below as a worksheet. Reference one of the populated examples for shape and depth. This is the slow path — only worth it if neither of the above fit.
+> **Fill it directly (30-45 minutes, max control):** use the template below as a worksheet. Reference one of the populated examples for shape and depth. This is the slow path, only worth it if neither of the above fit.
 >
 > Either way, this file becomes the heart of Voiceprint. The model reads it on every run and will refuse to invent voice details that aren't here.
 >
@@ -124,10 +124,10 @@ The 3-6 topics you have permanent authority on. These are your pillars.
 
 Where your raw material comes from. Workflows pull from these.
 
-- [ ] **Meeting transcripts** (Fireflies, Otter, Zoom, etc.) — yes / no
-- [ ] **V/TO or strategic plan** — yes / no
-- [ ] **Weekly review or journal** — yes / no, where:
-- [ ] **Client wins log** — yes / no, where:
+- [ ] **Meeting transcripts** (Fireflies, Otter, Zoom, etc.), yes / no
+- [ ] **V/TO or strategic plan**, yes / no
+- [ ] **Weekly review or journal**, yes / no, where:
+- [ ] **Client wins log**, yes / no, where:
 - [ ] **Other:**
 
 ---

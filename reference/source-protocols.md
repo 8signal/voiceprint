@@ -10,11 +10,11 @@ How to convert each kind of artifact into post material. The model uses these pr
 
 **Steps:**
 
-1. **Skim the transcript for moments, not topics.** A "moment" is a specific exchange — a question someone asked, a phrase someone used, a realization someone had, a pushback that changed the meeting's direction.
+1. **Skim the transcript for moments, not topics.** A "moment" is a specific exchange, a question someone asked, a phrase someone used, a realization someone had, a pushback that changed the meeting's direction.
 
 2. **Pull 3-5 candidate moments.** For each, capture:
    - The verbatim line or exchange
-   - Who said it (anonymized — "a CEO," "a founder," "a manager")
+   - Who said it (anonymized, "a CEO," "a founder," "a manager")
    - The context in one sentence
    - The before/after (what shifted)
 
@@ -30,7 +30,7 @@ How to convert each kind of artifact into post material. The model uses these pr
 
 6. **Output** in the format from Rule 7.
 
-**Maya's specialty case:** She specifically pulls from the Issues List portion of L10 meetings — the IDS (Identify, Discuss, Solve) section. Those moments tend to have the cleanest before/after structure because the meeting itself produced the shift.
+**Maya's specialty case:** She specifically pulls from the Issues List portion of L10 meetings, the IDS (Identify, Discuss, Solve) section. Those moments tend to have the cleanest before/after structure because the meeting itself produced the shift.
 
 ---
 
@@ -53,7 +53,7 @@ How to convert each kind of artifact into post material. The model uses these pr
    - Each week: 1 pillar theme (rotates through core values + uniques)
    - Within a week: mix formats from `post-formats.md` so the feed has texture
    - Anchor 2-3 posts per week to the wins (those become Format A, B, or F)
-   - Leave 1 post per week as "live capture" — a slot reserved for whatever happens that week
+   - Leave 1 post per week as "live capture", a slot reserved for whatever happens that week
 
 4. **For each post in the skeleton, generate:**
    - Day + theme
@@ -62,7 +62,7 @@ How to convert each kind of artifact into post material. The model uses these pr
    - Hook (first line draft)
    - Status: `draft | needs-source | scheduled`
 
-5. **Output as a table or calendar view.** Don't draft full posts yet — that's a separate workflow. The calendar is the plan.
+5. **Output as a table or calendar view.** Don't draft full posts yet, that's a separate workflow. The calendar is the plan.
 
 **Why this works:** Core values become recurring themes (so the audience hears the same drumbeat). Three uniques become signature angles (so the SME builds positioning over time). Wins become proof. The mix prevents the feed from going stale.
 
@@ -77,21 +77,21 @@ How to convert each kind of artifact into post material. The model uses these pr
 **Steps:**
 
 1. **Extract from the review:**
-   - **Wins** (with specifics — numbers, names anonymized, before/after)
-   - **What I learned** (the meta-insight — the pattern or realization)
-   - **What I'd do differently** (the lesson — usually the strongest post material)
+   - **Wins** (with specifics, numbers, names anonymized, before/after)
+   - **What I learned** (the meta-insight, the pattern or realization)
+   - **What I'd do differently** (the lesson, usually the strongest post material)
    - **What surprised me** (often the best hook)
 
 2. **Each wins, learning, or lesson becomes a candidate post.**
 
-3. **The "what I'd do differently" entries are usually the most authentic — they have built-in vulnerability and specificity.** Lean on those.
+3. **The "what I'd do differently" entries are usually the most authentic, they have built-in vulnerability and specificity.** Lean on those.
 
-4. **Generate 1-2 posts** (not more — the weekly review is for cadence, not a content firehose):
+4. **Generate 1-2 posts** (not more, the weekly review is for cadence, not a content firehose):
    - Pick the strongest moment from the week
    - Pair with a learning if relevant
    - Use Format A (Real Moment), D (One-Liner), or E (Question Behind the Question)
 
-5. **The "what's coming next week" section seeds the following week's intake** — the model can flag candidate post topics for next week's review.
+5. **The "what's coming next week" section seeds the following week's intake**, the model can flag candidate post topics for next week's review.
 
 ---
 
@@ -124,7 +124,7 @@ How to convert each kind of artifact into post material. The model uses these pr
 
 2. **Use Format C (Uncomfortable Truth) or E (Question Behind the Question).**
 
-3. **Anchor the abstract pattern to a specific opener** — even if the post is about the pattern, the hook is one specific instance.
+3. **Anchor the abstract pattern to a specific opener**, even if the post is about the pattern, the hook is one specific instance.
 
 ---
 

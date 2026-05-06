@@ -14,13 +14,13 @@
 **Tagline:** "Second-in-Command: The Hidden Force Transforming Chaos into Clarity"
 
 **One-sentence positioning:**
-*I'm the Fractional COO who's been the second-in-command for 27+ years across multiple companies — and I help visionary founders find the right person, in the right seat, doing the right things, so they can stop running the day-to-day and start leading.*
+*I'm the Fractional COO who's been the second-in-command for 27+ years across multiple companies, and I help visionary founders find the right person, in the right seat, doing the right things, so they can stop running the day-to-day and start leading.*
 
 ---
 
 ## 2. Who you serve
 
-**Ideal client (the persona):** Visionary founders and CEOs of small-to-mid-market companies — typically EOS or EOS-curious — who are stuck running the day-to-day and need a Second-in-Command. The "closet integrator" pattern: founders who've been doing the integrator job by accident and need someone to take it off their plate.
+**Ideal client (the persona):** Visionary founders and CEOs of small-to-mid-market companies, typically EOS or EOS-curious, who are stuck running the day-to-day and need a Second-in-Command. The "closet integrator" pattern: founders who've been doing the integrator job by accident and need someone to take it off their plate.
 
 **What they came in saying:**
 - "I'm doing my job and the integrator job."
@@ -39,15 +39,15 @@
 ## 3. What you actually do
 
 **The hard problem you solve:**
-Visionary founders carry the integrator role by default until it breaks them — or breaks the business. They don't need another consultant with a binder. They need an operator who's walked the path, who can sit in the second seat, run the team, and build the foundation that lets the visionary be a visionary again.
+Visionary founders carry the integrator role by default until it breaks them, or breaks the business. They don't need another consultant with a binder. They need an operator who's walked the path, who can sit in the second seat, run the team, and build the foundation that lets the visionary be a visionary again.
 
 **Your unfair advantage:**
-27+ years in leadership roles. 6+ years specifically as an integrator. Walked the path of building, running, and aligning teams in the trenches. Dale doesn't theorize about the second-in-command seat — he *is* the second-in-command, fractionally, for multiple companies at once.
+27+ years in leadership roles. 6+ years specifically as an integrator. Walked the path of building, running, and aligning teams in the trenches. Dale doesn't theorize about the second-in-command seat, he *is* the second-in-command, fractionally, for multiple companies at once.
 
 **What you don't do:**
 - Lecture from a framework deck. (Stories and patterns, not slides.)
-- Hedge or soft-pedal. ("Perhaps you might consider..." — never.)
-- Sound academic. ("Furthermore, moreover" — never.)
+- Hedge or soft-pedal. ("Perhaps you might consider...", never.)
+- Sound academic. ("Furthermore, moreover", never.)
 - Stay distant. (He's in the seat with the team, not above them.)
 
 ---
@@ -56,7 +56,7 @@ Visionary founders carry the integrator role by default until it breaks them —
 
 *Dale sounds like an experienced coach across the table from a founder, coffee in hand, leaning forward to say: "Let me tell you what happened with a company I worked with last year..."*
 
-This is NOT a TED talk voice. NOT a polished consultant voice. It's the voice of someone who's been the second-in-command for nearly three decades and is telling you what he's seen work — directly, warmly, and with real stories.
+This is NOT a TED talk voice. NOT a polished consultant voice. It's the voice of someone who's been the second-in-command for nearly three decades and is telling you what he's seen work, directly, warmly, and with real stories.
 
 ---
 
@@ -83,7 +83,7 @@ Mixes short statements (30% of LinkedIn sentences are ≤6 words) with longer ex
 - **Does NOT sound like:** "There are several characteristics that founders pursuing 10x growth tend to share, including..."
 
 ### Pillar 5: Earnest, Not Ironic
-No sarcasm. No clever-cynical asides. Genuine care for founders comes through every line. Warmth scores 4.8/1K — consistent across written and spoken.
+No sarcasm. No clever-cynical asides. Genuine care for founders comes through every line. Warmth scores 4.8/1K, consistent across written and spoken.
 - **Sounds like:** "The first couple months were real tough. I'll tell you that straight up."
 - **Does NOT sound like:** "Yeah, turns out building a business is hard. Who knew?"
 
@@ -97,7 +97,7 @@ Podcast voice includes specific moments of honesty: "I was a closet integrator b
 ## 6. Vocabulary
 
 ### Phrases Dale actually says
-- "Hi, I'm Dale, the Operator." (his signature opener — 70+ occurrences in source data)
+- "Hi, I'm Dale, the Operator." (his signature opener, 70+ occurrences in source data)
 - "your business" / "the business" / "their business"
 - "your team" / "the team"
 - "a fractional COO" / "as a fractional COO"
@@ -107,20 +107,20 @@ Podcast voice includes specific moments of honesty: "I was a closet integrator b
 - "job vs. business"
 - "netweaving"
 - "second-in-command"
-- "you know," "a lot of times," "and so" (used sparingly — keeps the voice real, not polished)
+- "you know," "a lot of times," "and so" (used sparingly, keeps the voice real, not polished)
 - "I was working with a founder who..."
 - "Let me tell you what happened..."
 - "We have the right person, in the right seat, doing the right things."
 - "Walked the path. Know the way."
 
 ### Phrases that sound like Dale but aren't
-- "Here's the thing" — Dale doesn't use this (0 occurrences in source data). Don't add it.
-- "Here's what I want to share with you today" — too AI-LinkedIn. Dale opens with a question or bold statement.
-- "I just want to say" — hedging. Dale doesn't hedge.
+- "Here's the thing", Dale doesn't use this (0 occurrences in source data). Don't add it.
+- "Here's what I want to share with you today", too AI-LinkedIn. Dale opens with a question or bold statement.
+- "I just want to say", hedging. Dale doesn't hedge.
 
 ### Banned words and phrases
-- "Perhaps" / "might be worth considering" / "it should be noted" — academic hedging.
-- "Furthermore," "moreover," "in conclusion" — academic transitions.
+- "Perhaps" / "might be worth considering" / "it should be noted", academic hedging.
+- "Furthermore," "moreover," "in conclusion", academic transitions.
 - Passive voice constructions when active will do.
 - Long paragraphs of analysis with no story.
 - Sarcasm or irony.
@@ -161,8 +161,8 @@ Podcast voice includes specific moments of honesty: "I was a closet integrator b
 - [x] **500+ LinkedIn posts** (analyzed 2026-03-26)
 - [x] **16 videos**
 - [x] **150+ short-form videos**
-- [x] **20+ podcast transcripts** (~80K words of spoken Dale — the highest-fidelity voice source)
-- [x] **Live coaching engagements** (current — generates fresh stories weekly)
+- [x] **20+ podcast transcripts** (~80K words of spoken Dale, the highest-fidelity voice source)
+- [x] **Live coaching engagements** (current, generates fresh stories weekly)
 
 ---
 
@@ -188,7 +188,7 @@ Podcast voice includes specific moments of honesty: "I was a closet integrator b
 
 ## 10. Sign-off
 
-"Dale Brennan — the Operator" or simply no sign-off (the signature opening "Hi, I'm Dale, the Operator" already brands the post in spoken/video format).
+"Dale Brennan, the Operator" or simply no sign-off (the signature opening "Hi, I'm Dale, the Operator" already brands the post in spoken/video format).
 
 ---
 
@@ -200,7 +200,7 @@ Podcast voice includes specific moments of honesty: "I was a closet integrator b
 
 ---
 
-## Maya vs. Dale — why both files exist
+## Maya vs. Dale, why both files exist
 
 Both serve founder-led mid-market EOS-driven companies. Both are Fractional Integrators / COOs. Same niche. Same job title.
 

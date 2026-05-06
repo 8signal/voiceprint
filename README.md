@@ -14,19 +14,19 @@ I read that as one sentence with two parts. The literal part says no copywriting
 
 1. **I used it on myself first.** I'm a Fractional CMO with no time to write LinkedIn. I built Voiceprint over the weekend, populated my own identity file Monday morning, and shipped two posts under my real name by Monday afternoon. Both [live](https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-aiadoption-share-7457497718450552832-zsW7) [now](https://www.linkedin.com/feed/update/urn:li:activity:7457580393890836480/), with engagement, in my actual voice.
 
-2. **I deployed it on a real client.** ACP Enlightening — a Fractional Integrator we serve at 8 SIGNAL. Same folder. Different identity file. Different voice. Different posts. Same system, no rebuild.
+2. **I deployed it on a real client.** ACP Enlightening, a Fractional Integrator we serve at 8 SIGNAL. Same folder. Different identity file. Different voice. Different posts. Same system, no rebuild.
 
 3. **I packaged it as a paid service.** [voiceprint.8signal.com/playbook](https://voiceprint.8signal.com/playbook) is the public sales page for the eight-module Done-with-You engagement we're now selling. Voiceprint is the open-source tier. The Playbook is the paid tier. Both shipped this week.
 
 If "pick something you'd actually use" was the test, here's the receipt: I used it three different ways before clicking submit. That's not a copywriter. That's a methodology I'm betting my own pipeline on.
 
-If the literal rule outranks the spirit, fair call — disqualify, and I'll see you on Comp #4. I built it anyway, because I needed it.
+If the literal rule outranks the spirit, fair call. Disqualify and I'll see you on Comp #4. I built it anyway, because I needed it.
 
 ---
 
 ## What it is (and what it isn't)
 
-Voiceprint is **not** a LinkedIn copywriter. It refuses to write from a blank page. It only writes from artifacts you already produce: meeting transcripts, V/TO documents, weekly reviews, client wins. That constraint — Rule 0, *no artifact, no post* — is the whole product.
+Voiceprint is **not** a LinkedIn copywriter. It refuses to write from a blank page. It only writes from artifacts you already produce: meeting transcripts, V/TO documents, weekly reviews, client wins. That constraint is Rule 0: *no artifact, no post*. It's the whole product.
 
 It's built for subject matter experts who already have a point of view and need to operationalize it on LinkedIn without losing their voice to a ghostwriter or to generic AI. The output is LinkedIn posts. The specialty is **anti-AI-slop voice fidelity for operators with existing artifacts.**
 
@@ -73,7 +73,7 @@ voiceprint/
 If you're a judge or a developer who just wants to see the system run, use this path. No questionnaire, no setup work.
 
 1. Clone this repo.
-2. Copy `reference/identity-examples/maya-fulcrum.md` over `identity.md`. (Or `dale-second-seat.md` or `sarah-whitcomb-negotiation.md` — pick whichever voice you'd rather see in action.)
+2. Copy `reference/identity-examples/maya-fulcrum.md` over `identity.md`. (Or `dale-second-seat.md` or `sarah-whitcomb-negotiation.md`, pick whichever voice you'd rather see in action.)
 3. Drop the folder into a [Claude project](https://claude.ai/projects).
 4. Paste a meeting transcript, weekly review, or specific client moment.
 5. Get posts in that voice.
@@ -84,7 +84,7 @@ That's it. Ninety seconds, no template to fill out.
 
 If you want to use the system on yourself (not test it), you need your own `identity.md`. Two paths:
 
-**Path A — Use the intake wizard (15 minutes, recommended for SMEs).** Visit **[voiceprint.8signal.com](https://voiceprint.8signal.com)**. Answer 20 questions. Download the generated `identity.md`. Drop it in. The wizard is a guided version of `reference/intake-interview.md` — same questions, smoother UX.
+**Path A — Use the intake wizard (15 minutes, recommended for SMEs).** Visit **[voiceprint.8signal.com](https://voiceprint.8signal.com)**. Answer 20 questions. Download the generated `identity.md`. Drop it in. The wizard is a guided version of `reference/intake-interview.md`, same questions, smoother UX.
 
 **Path B — Fill `identity.md` directly.** Use it as a worksheet. Reference one of the populated examples in `reference/identity-examples/` as a template. ~30-45 minutes, full control.
 
@@ -96,9 +96,9 @@ If you want to use the system on yourself (not test it), you need your own `iden
 
 **Sarah Whitcomb** is a fully fictional identity (no real client behind it), included to demonstrate that the Voiceprint structure travels outside the EOS / Fractional COO niche where Maya and Dale operate.
 
-The Maya/Dale pair exists on purpose: they serve nearly the same audience (founder-led mid-market companies running EOS) and hold the same job title (Fractional Integrator / COO), but their voices are completely different. That's the demonstration. **Two SMEs in the same niche, competing for the same clients, can — and should — sound nothing alike.** Voiceprint preserves that difference. A generic AI tool would flatten them into one indistinguishable voice.
+The Maya/Dale pair exists on purpose: they serve nearly the same audience (founder-led mid-market companies running EOS) and hold the same job title (Fractional Integrator / COO), but their voices are completely different. That's the demonstration. **Two SMEs in the same niche, competing for the same clients, can and should sound nothing alike.** Voiceprint preserves that difference. A generic AI tool would flatten them into one indistinguishable voice.
 
-**My own (Ruben's) production identity file is intentionally not in this repo.** The methodology is open-source. Specific operator voices are not. A populated identity file is a voice fingerprint — sharing one is the difference between giving away a methodology and handing competitors a clone-able instruction set. The two LinkedIn posts I shipped this week (linked above) are the receipt that the system works on me; you don't need my identity file to verify that.
+**My own (Ruben's) production identity file is intentionally not in this repo.** The methodology is open-source. Specific operator voices are not. A populated identity file is a voice fingerprint. Sharing one is the difference between giving away a methodology and handing competitors a clone-able instruction set. The two LinkedIn posts I shipped this week (linked above) are the receipt that the system works on me; you don't need my identity file to verify that.
 
 ---
 
@@ -111,7 +111,7 @@ Subject matter experts who:
 - Don't have time to write LinkedIn posts from scratch
 - Hate generic AI-generated content and want their voice protected
 
-Specifically built around Fractional Integrators, Fractional CMOs, founders, operators, and consultants — but the structure works for any expert with a niche and a voice.
+Specifically built around Fractional Integrators, Fractional CMOs, founders, operators, and consultants, but the structure works for any expert with a niche and a voice.
 
 ---
 
@@ -142,7 +142,7 @@ Three principles:
 
 Folders as architecture. Identity, rules, examples, reference, README. Each file does one job. The folder is reusable, shareable, and portable across Claude projects.
 
-This was built for Comp #3 of Jake Van Clief's community — the specialist comp.
+This was built for Comp #3 of Jake Van Clief's community, the specialist comp.
 
 ---
 
@@ -154,4 +154,4 @@ MIT. Fork it. Build your own. Send me what you make.
 
 ---
 
-*v0.1 — initial public release for Comp #3 submission, 2026-05-05.*
+*v0.1, initial public release for Comp #3 submission, 2026-05-05.*

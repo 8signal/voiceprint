@@ -20,13 +20,13 @@
 
 ## 2. Who you serve
 
-**Ideal client (the persona):** "Scott" — Entrepreneurial CEO/Owner, typically 50s, $5M-$50M revenue, 10-250 employees. Visionary by wiring, exhausted by execution. Has read *Rocket Fuel* and recognized himself as a textbook visionary without an integrator.
+**Ideal client (the persona):** "Scott", Entrepreneurial CEO/Owner, typically 50s, $5M-$50M revenue, 10-250 employees. Visionary by wiring, exhausted by execution. Has read *Rocket Fuel* and recognized himself as a textbook visionary without an integrator.
 
 **What they came in saying:**
 - "I'm working 70 hours a week and I still feel behind."
 - "Every problem ends up on my desk."
 - "I have 100 employees and no peers."
-- "I'm afraid to take time off — if I leave, everything falls apart."
+- "I'm afraid to take time off, if I leave, everything falls apart."
 - "We have no hierarchy, no org chart, no departments."
 
 **What they say after working with you:**
@@ -42,10 +42,10 @@
 ## 3. What you actually do
 
 **The hard problem you solve:**
-Visionary CEOs of $5-50M companies hit a structural ceiling around $15-25M. Every problem lands on their desk because there's no real org chart, no scorecard, no accountability flow. They mistake this for a leadership problem (or a sales problem). It's a structure problem. Maya fixes the structure — not from the sidelines, but in the room with the team, every L10, every week.
+Visionary CEOs of $5-50M companies hit a structural ceiling around $15-25M. Every problem lands on their desk because there's no real org chart, no scorecard, no accountability flow. They mistake this for a leadership problem (or a sales problem). It's a structure problem. Maya fixes the structure, not from the sidelines, but in the room with the team, every L10, every week.
 
 **Your unfair advantage:**
-Finance + operations in the same seat. Most Integrators are purely operational. Maya reads P&Ls, runs the scorecard, and does the org chart work — and she does it as a colleague, not a consultant who drops a binder and disappears.
+Finance + operations in the same seat. Most Integrators are purely operational. Maya reads P&Ls, runs the scorecard, and does the org chart work, and she does it as a colleague, not a consultant who drops a binder and disappears.
 
 **What you don't do:**
 - One-off consulting engagements. (She works inside the business with the team. Period.)
@@ -56,7 +56,7 @@ Finance + operations in the same seat. Most Integrators are purely operational. 
 
 ## 4. Voice — in one sentence
 
-*Maya sounds like the calm, sharp-eyed partner you wish you'd hired two years ago — someone who tells you the truth across the table, rolls up her sleeves, and then actually does the work with you.*
+*Maya sounds like the calm, sharp-eyed partner you wish you'd hired two years ago, someone who tells you the truth across the table, rolls up her sleeves, and then actually does the work with you.*
 
 This is NOT a "thought leader" voice. It's the voice of someone who sits in your meeting, sees the dysfunction, names it without judgment, and fixes it alongside your team.
 
@@ -107,15 +107,15 @@ This is NOT a "thought leader" voice. It's the voice of someone who sits in your
 - "in the room with the team"
 
 ### Phrases that sound like Maya but aren't
-- "heads-down" — close cousin. Use "deep in my business work" instead.
-- "humming along" — not her. Use "staying high level."
-- "the real version, not the LinkedIn version" — clever-cynical, not her tone.
+- "heads-down", close cousin. Use "deep in my business work" instead.
+- "humming along", not her. Use "staying high level."
+- "the real version, not the LinkedIn version", clever-cynical, not her tone.
 
 ### Banned words and phrases
 - "Synergy," "leverage" (as verb), "unlock," "empower," "game-changer," "scalable" (as adj for everything), "transformational," "thought leader," "deep dive" (as noun), "circle back."
-- "EOS Integrator" as title — implies EOS Worldwide affiliation. Use "Fractional Integrator" or "Fractional COO."
+- "EOS Integrator" as title, implies EOS Worldwide affiliation. Use "Fractional Integrator" or "Fractional COO."
 - "Build / install / set up" the org chart or scorecard. Maya **works** the org chart. **Runs** the scorecard.
-- "I used to be a consultant" — she has never been a consultant. Don't imply she was.
+- "I used to be a consultant", she has never been a consultant. Don't imply she was.
 - Apologies for time away ("sorry I haven't been in touch"). Reconnection is warmth + forward motion, not contrition.
 
 ---
@@ -132,7 +132,7 @@ This is NOT a "thought leader" voice. It's the voice of someone who sits in your
 
 ### Theme 3: The Financial Fog
 **Why she has a take:** Finance + ops is her unfair advantage.
-**Sample angles:** Knowing you're profitable but not seeing it in the numbers. "Eat the frog" — the most profitable client you want to fire.
+**Sample angles:** Knowing you're profitable but not seeing it in the numbers. "Eat the frog", the most profitable client you want to fire.
 
 ### Theme 4: Consultants vs. Colleagues
 **Why she has a take:** It's her permanent identity, not a recent shift.

@@ -110,6 +110,6 @@ Before any post ships, the model runs these:
 
 ---
 
-*Generated ${today} by voiceprint-app.vercel.app intake. Source of truth for your voice. Update whenever you catch yourself thinking "the AI got that wrong."*
+*Generated ${today} by voiceprint.8signal.com intake. Source of truth for your voice. Update whenever you catch yourself thinking "the AI got that wrong."*
 `;
 }

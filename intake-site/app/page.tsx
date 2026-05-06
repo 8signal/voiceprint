@@ -178,9 +178,9 @@ export default function Home() {
 │   ├── post-formats.md          ← 6 formats + hooks
 │   ├── source-protocols.md      ← artifact → post
 │   └── identity-examples/
-│       ├── ruben-8signal.md
-│       ├── maya-fulcrum.md       (fictionalized)
-│       └── dale-second-seat.md   (fictionalized)
+│       ├── maya-fulcrum.md               (fictionalized)
+│       ├── dale-second-seat.md           (fictionalized)
+│       └── sarah-whitcomb-negotiation.md (fully fictional)
 └── workflows/
     ├── transcript-to-posts.md
     ├── vto-to-30-day-calendar.md

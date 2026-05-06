@@ -2,7 +2,7 @@
 
 > ### 👋 Don't fill this template to test the system. Do this first:
 >
-> **Fastest start (90 seconds):** copy a populated example from `reference/identity-examples/` over this file. Three are included — Ruben (Fractional CMO + AI), Maya (Fractional Integrator), Dale (Fractional COO). Pick whichever voice you want to see in action, paste a transcript, run a workflow.
+> **Fastest start (90 seconds):** copy a populated example from `reference/identity-examples/` over this file. Three are included — Maya (Fractional Integrator), Dale (Fractional COO), Sarah (salary negotiation coach for engineers). Pick whichever voice you want to see in action, paste a transcript, run a workflow.
 >
 > **Use the wizard (15 minutes, recommended for real SMEs):** [voiceprint.8signal.com](https://voiceprint.8signal.com) answers 20 questions and generates this file for you. Download it. Drop it in. Done.
 >

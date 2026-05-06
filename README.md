@@ -55,10 +55,9 @@ voiceprint/
 │   ├── post-formats.md          ← hook patterns + post archetypes
 │   ├── source-protocols.md      ← how to convert transcripts / V/TO / wins → posts
 │   └── identity-examples/
-│       ├── ruben-8signal.md             ← Fractional CMO with AI specialty
-│       ├── maya-fulcrum.md              ← Fractional Integrator (fictionalized)
-│       ├── dale-second-seat.md          ← Fractional COO / "the Operator" (fictionalized)
-│       └── sarah-whitcomb-negotiation.md ← Salary negotiation coach for engineers (fictional, proves structure travels)
+│       ├── maya-fulcrum.md               ← Fractional Integrator (fictionalized composite)
+│       ├── dale-second-seat.md           ← Fractional COO / "the Operator" (fictionalized composite)
+│       └── sarah-whitcomb-negotiation.md ← Salary negotiation coach for engineers (fully fictional, proves structure travels)
 └── workflows/
     ├── transcript-to-posts.md   ← Fireflies / Zoom transcript → 3-5 posts
     ├── vto-to-30-day-calendar.md ← V/TO + 3 wins → 30-day calendar
@@ -74,7 +73,7 @@ voiceprint/
 If you're a judge or a developer who just wants to see the system run, use this path. No questionnaire, no setup work.
 
 1. Clone this repo.
-2. Copy `reference/identity-examples/ruben-8signal.md` over `identity.md`. (Or use `maya-fulcrum.md` or `dale-second-seat.md` — pick whichever voice you'd rather see in action.)
+2. Copy `reference/identity-examples/maya-fulcrum.md` over `identity.md`. (Or `dale-second-seat.md` or `sarah-whitcomb-negotiation.md` — pick whichever voice you'd rather see in action.)
 3. Drop the folder into a [Claude project](https://claude.ai/projects).
 4. Paste a meeting transcript, weekly review, or specific client moment.
 5. Get posts in that voice.
@@ -93,9 +92,13 @@ If you want to use the system on yourself (not test it), you need your own `iden
 
 ## A note on the identity examples
 
-Maya Chen and Dale Brennan are **fictionalized composites** based on real 8 SIGNAL clients whose identities have been anonymized to protect their privacy. The voice profiles, pillars, and structural choices reflect actual client work. Names, branded terms, and specific company details have been changed.
+**Maya Chen** and **Dale Brennan** are fictionalized composites based on real 8 SIGNAL clients whose identities have been anonymized to protect their privacy. The voice profiles, pillars, and structural choices reflect actual client work. Names, branded terms, and specific company details have been changed.
 
-These two examples exist on purpose: they serve nearly the same audience (founder-led mid-market companies running EOS) and hold the same job title (Fractional Integrator / COO), but their voices are completely different. That's the demonstration. **Two SMEs in the same niche, competing for the same clients, can — and should — sound nothing alike.** Voiceprint preserves that difference. A generic AI tool would flatten them into one indistinguishable voice.
+**Sarah Whitcomb** is a fully fictional identity (no real client behind it), included to demonstrate that the Voiceprint structure travels outside the EOS / Fractional COO niche where Maya and Dale operate.
+
+The Maya/Dale pair exists on purpose: they serve nearly the same audience (founder-led mid-market companies running EOS) and hold the same job title (Fractional Integrator / COO), but their voices are completely different. That's the demonstration. **Two SMEs in the same niche, competing for the same clients, can — and should — sound nothing alike.** Voiceprint preserves that difference. A generic AI tool would flatten them into one indistinguishable voice.
+
+**My own (Ruben's) production identity file is intentionally not in this repo.** The methodology is open-source. Specific operator voices are not. A populated identity file is a voice fingerprint — sharing one is the difference between giving away a methodology and handing competitors a clone-able instruction set. The two LinkedIn posts I shipped this week (linked above) are the receipt that the system works on me; you don't need my identity file to verify that.
 
 ---
 

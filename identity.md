@@ -1,10 +1,16 @@
 # Identity — [Your Name]
 
-> **This file is the heart of Voiceprint.** Fill it out before running any workflow. The model will read this every time it generates a post and will refuse to invent voice details that aren't here.
+> ### 👋 Don't fill this template to test the system. Do this first:
 >
-> **Two ways to fill it:** (1) answer `reference/intake-interview.md` and paste the answers into the sections below, or (2) use the intake site at [voiceprint.8signal.com](https://voiceprint.8signal.com) and download the generated file.
+> **Fastest start (90 seconds):** copy a populated example from `reference/identity-examples/` over this file. Three are included — Ruben (Fractional CMO + AI), Maya (Fractional Integrator), Dale (Fractional COO). Pick whichever voice you want to see in action, paste a transcript, run a workflow.
 >
-> Delete this blockquote when you're done.
+> **Use the wizard (15 minutes, recommended for real SMEs):** [voiceprint.8signal.com](https://voiceprint.8signal.com) answers 20 questions and generates this file for you. Download it. Drop it in. Done.
+>
+> **Fill it directly (30-45 minutes, max control):** use the template below as a worksheet. Reference one of the populated examples for shape and depth. This is the slow path — only worth it if neither of the above fit.
+>
+> Either way, this file becomes the heart of Voiceprint. The model reads it on every run and will refuse to invent voice details that aren't here.
+>
+> Delete this banner when you're done.
 
 ---
 

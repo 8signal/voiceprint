@@ -55,9 +55,10 @@ voiceprint/
 │   ├── post-formats.md          ← hook patterns + post archetypes
 │   ├── source-protocols.md      ← how to convert transcripts / V/TO / wins → posts
 │   └── identity-examples/
-│       ├── ruben-8signal.md     ← Fractional CMO with AI specialty
-│       ├── maya-fulcrum.md      ← Fractional Integrator (fictionalized)
-│       └── dale-second-seat.md  ← Fractional COO / "the Operator" (fictionalized)
+│       ├── ruben-8signal.md             ← Fractional CMO with AI specialty
+│       ├── maya-fulcrum.md              ← Fractional Integrator (fictionalized)
+│       ├── dale-second-seat.md          ← Fractional COO / "the Operator" (fictionalized)
+│       └── sarah-whitcomb-negotiation.md ← Salary negotiation coach for engineers (fictional, proves structure travels)
 └── workflows/
     ├── transcript-to-posts.md   ← Fireflies / Zoom transcript → 3-5 posts
     ├── vto-to-30-day-calendar.md ← V/TO + 3 wins → 30-day calendar
@@ -123,6 +124,17 @@ Three principles:
 
 ---
 
+## Limitations (the things this folder won't do)
+
+- **It won't write from a topic.** "Generate me a thought-leadership post about AI" gets refused. Rule 0 means no artifact, no post.
+- **It won't replace your voice.** It preserves yours. If `identity.md` is generic, the output is generic.
+- **It won't ghostwrite for someone else's voice file.** The folder is per-SME. One identity, one voice. Don't share folders across operators.
+- **It won't generate non-LinkedIn formats out of the box.** Workflows ship for posts and 30-day calendars. Email, blog, video scripts are extensions you'd add as new workflow files.
+- **It won't write Spanish-mode for an English-only identity** (or any cross-language move) without explicit identity-file rules. Voice is monolingual unless you make it bilingual on purpose.
+- **It won't replace human judgment on what's worth posting.** You still pick the artifact. The system runs from there.
+
+---
+
 ## Built with ICM methodology
 
 Folders as architecture. Identity, rules, examples, reference, README. Each file does one job. The folder is reusable, shareable, and portable across Claude projects.
@@ -136,3 +148,7 @@ This was built for Comp #3 of Jake Van Clief's community — the specialist comp
 MIT. Fork it. Build your own. Send me what you make.
 
 — Ruben at 8 SIGNAL ([8signal.com](https://www.8signal.com))
+
+---
+
+*v0.1 — initial public release for Comp #3 submission, 2026-05-05.*

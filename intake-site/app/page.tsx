@@ -108,17 +108,15 @@ export default function Home() {
                 source: "Fireflies meeting recording",
                 body: (
                   <>
-                    I said: &ldquo;We are ALL Tony Stark now.&rdquo;
+                    I was on a working call with my copywriter this morning.
+                    We&apos;d already broken into stories about an alligator
+                    cake (her, weekend-baking masterpiece) and a pizza oven
+                    (mine, courtesy of the parish priest who showed up
+                    mid-meeting).
                     <br />
                     <br />
-                    She said: &ldquo;Yeah... if we want to be.&rdquo;
-                    <br />
-                    <br />
-                    I said: &ldquo;Or we could be the chubby bunnies from
-                    Wall-E.&rdquo;
-                    <br />
-                    <br />
-                    She paused. &ldquo;I mean, it&apos;s tempting...&rdquo;
+                    Then I started showing her the things I&apos;ve been
+                    building.
                   </>
                 ),
                 reactions: 47,
@@ -130,15 +128,11 @@ export default function Home() {
                 source: "Client L10 meeting",
                 body: (
                   <>
-                    Some weeks I&apos;m the marketing seat.
+                    &ldquo;Honestly, I don&apos;t have great news.&rdquo;
                     <br />
                     <br />
-                    Some weeks I&apos;m the seat next to a founder who needs
-                    to hear she&apos;s not the nurse who has to help everyone
-                    but herself.
-                    <br />
-                    <br />
-                    Both are the job. The scorecard only tracks one.
+                    That&apos;s how a client opened our marketing Level 10
+                    meeting last month.
                   </>
                 ),
                 reactions: 38,
@@ -150,18 +144,13 @@ export default function Home() {
                 source: "Client marketing L10",
                 body: (
                   <>
-                    Most fractional executives are sitting on the influence
-                    layer they need.
+                    Cold email is supposed to be hard. A client of mine
+                    apparently didn&apos;t get the memo.
                     <br />
                     <br />
-                    They keep trying to be the talent instead of building the
-                    show around their clients.
-                    <br />
-                    <br />
-                    Stop trying to be the reviewer.
-                    <br />
-                    <br />
-                    Become the producer.
+                    He sent one last month to the founder of an eight-figure
+                    SaaS company. Two hours later: &ldquo;100%, let&apos;s
+                    meet up.&rdquo; No emoji. No throat-clearing.
                   </>
                 ),
                 reactions: 54,

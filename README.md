@@ -12,7 +12,7 @@ The brief said: *"Don't pick copywriting. That's Sarah's example. Pick something
 
 I read that as one sentence with two parts. The literal part says no copywriting. The spirit part says **build something you'd actually use.** I bet on the spirit, on purpose. Then I ran the test in three rounds before this submission landed in your queue:
 
-1. **I used it on myself first.** I'm a Fractional CMO with no time to write LinkedIn. I built Voiceprint over the weekend, populated my own identity file Monday morning, and shipped two posts under my real name by Monday afternoon. Both [live](https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-aiadoption-share-7457497718450552832-zsW7) [now](https://www.linkedin.com/feed/update/urn:li:activity:7457580393890836480/), with engagement, in my actual voice.
+1. **I used it on myself first.** I'm a Fractional CMO with no time to write LinkedIn. I built Voiceprint over the weekend, populated my own identity file Monday morning, and have been shipping a post a day under my real name since (see "Real-world examples" below).
 
 2. **I deployed it on a real client.** ACP Enlightening, a Fractional Integrator we serve at 8 SIGNAL. Same folder. Different identity file. Different voice. Different posts. Same system, no rebuild.
 
@@ -21,6 +21,21 @@ I read that as one sentence with two parts. The literal part says no copywriting
 If "pick something you'd actually use" was the test, here's the receipt: I used it three different ways before clicking submit. That's not a copywriter. That's a methodology I'm betting my own pipeline on.
 
 If the literal rule outranks the spirit, fair call. Disqualify and I'll see you on Comp #4. I built it anyway, because I needed it.
+
+---
+
+## Real-world examples
+
+Six posts written by Voiceprint from real artifacts, all published under Ruben's name, all passed the voice check on the first run. Four live, two shipping by Friday.
+
+| # | Post | Source artifact | Live |
+|---|---|---|---|
+| 1 | [Tony Stark or Chubby Bunnies](https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-aiadoption-share-7457497718450552832-zsW7) | Fireflies meeting recording | 2026-05-05 |
+| 2 | [The Marketing Seat Beyond Marketing](https://www.linkedin.com/feed/update/urn:li:activity:7457580393890836480/) | Client L10 meeting | 2026-05-05 |
+| 3 | [Stop Trying to Be the Reviewer](https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-b2bmarketing-influencermarketing-share-7457814725477916672-9tB9) | Client marketing L10 | 2026-05-06 |
+| 4 | [The Apprenticeship Tax](https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-aiadoption-firstweserve-activity-7457933244555165696-RAwl) | Team training call | 2026-05-07 |
+| 5 | Tuition for a Marketing Seat | Client kickoff call | *publishing this week* |
+| 6 | The Tool That Refuses to Write | Building Voiceprint itself | *publishing this week* |
 
 ---
 

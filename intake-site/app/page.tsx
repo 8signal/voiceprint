@@ -91,16 +91,16 @@ export default function Home() {
             It already works
           </div>
           <h2 className="serif text-4xl md:text-5xl mb-6 max-w-3xl">
-            Two posts shipped in the wild this week.
+            Six posts shipping in the wild this week.
           </h2>
           <p className="text-lg text-stone-600 max-w-2xl leading-relaxed mb-12">
-            Both written by Voiceprint from real artifacts. Both published under
-            Ruben&apos;s name on LinkedIn. Both passed the voice check on the
+            All written by Voiceprint from real artifacts. All published under
+            Ruben&apos;s name on LinkedIn. Each passed the voice check on the
             first run. Read them, then come back if you want to see how they
             were made.
           </p>
 
-          <div className="grid md:grid-cols-2 gap-6">
+          <div className="grid md:grid-cols-3 gap-6">
             <a
               href="https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-aiadoption-share-7457497718450552832-zsW7"
               target="_blank"
@@ -152,6 +152,96 @@ export default function Home() {
                 Read on LinkedIn →
               </div>
             </a>
+
+            <a
+              href="https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-b2bmarketing-influencermarketing-share-7457814725477916672-9tB9"
+              target="_blank"
+              rel="noreferrer"
+              className="block bg-white border border-stone-200 rounded-xl p-6 hover:border-stone-900 transition-colors group"
+            >
+              <div className="flex items-center gap-3 mb-4">
+                <div className="w-10 h-10 rounded-full bg-stone-900 text-stone-50 flex items-center justify-center text-sm font-medium">
+                  RA
+                </div>
+                <div>
+                  <div className="font-medium text-stone-900">Ruben Aguirre</div>
+                  <div className="text-xs text-stone-500">Source: client marketing L10</div>
+                </div>
+              </div>
+              <p className="text-stone-700 leading-relaxed mb-3">
+                &ldquo;Most fractional executives are sitting on the influence
+                layer they need. They keep trying to be the talent instead of
+                building the show around their clients. Stop trying to be the
+                reviewer. Become the producer.&rdquo;
+              </p>
+              <div className="text-sm text-amber-800 group-hover:text-amber-900">
+                Read on LinkedIn →
+              </div>
+            </a>
+
+            <a
+              href="https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-aiadoption-firstweserve-activity-7457933244555165696-RAwl"
+              target="_blank"
+              rel="noreferrer"
+              className="block bg-white border border-stone-200 rounded-xl p-6 hover:border-stone-900 transition-colors group"
+            >
+              <div className="flex items-center gap-3 mb-4">
+                <div className="w-10 h-10 rounded-full bg-stone-900 text-stone-50 flex items-center justify-center text-sm font-medium">
+                  RA
+                </div>
+                <div>
+                  <div className="font-medium text-stone-900">Ruben Aguirre</div>
+                  <div className="text-xs text-stone-500">Source: team training call</div>
+                </div>
+              </div>
+              <p className="text-stone-700 leading-relaxed mb-3">
+                &ldquo;Most leaders pushing AI adoption right now think the
+                bottleneck is willingness. It&apos;s not. It&apos;s vocabulary.
+                And the leader&apos;s job is to be the one who pays the tax in
+                public.&rdquo;
+              </p>
+              <div className="text-sm text-amber-800 group-hover:text-amber-900">
+                Read on LinkedIn →
+              </div>
+            </a>
+
+            <div className="block bg-white/60 border border-dashed border-stone-300 rounded-xl p-6">
+              <div className="flex items-center gap-3 mb-4">
+                <div className="w-10 h-10 rounded-full bg-stone-300 text-stone-500 flex items-center justify-center text-sm font-medium">
+                  RA
+                </div>
+                <div>
+                  <div className="font-medium text-stone-500">Ruben Aguirre</div>
+                  <div className="text-xs text-stone-400">Source: client kickoff call</div>
+                </div>
+              </div>
+              <p className="text-stone-500 leading-relaxed mb-3 italic">
+                Tuition for a Marketing Seat. A 90-day sprint, a college-aged
+                kid, and what parents actually pay for when they pay 8 SIGNAL.
+              </p>
+              <div className="text-sm text-stone-400 mono">
+                Publishing this week →
+              </div>
+            </div>
+
+            <div className="block bg-white/60 border border-dashed border-stone-300 rounded-xl p-6">
+              <div className="flex items-center gap-3 mb-4">
+                <div className="w-10 h-10 rounded-full bg-stone-300 text-stone-500 flex items-center justify-center text-sm font-medium">
+                  RA
+                </div>
+                <div>
+                  <div className="font-medium text-stone-500">Ruben Aguirre</div>
+                  <div className="text-xs text-stone-400">Source: building Voiceprint itself</div>
+                </div>
+              </div>
+              <p className="text-stone-500 leading-relaxed mb-3 italic">
+                The Tool That Refuses to Write. Why Rule 0 — &ldquo;no
+                artifact, no post&rdquo; — is the whole product.
+              </p>
+              <div className="text-sm text-stone-400 mono">
+                Publishing this week →
+              </div>
+            </div>
           </div>
         </div>
       </section>

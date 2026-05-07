@@ -173,15 +173,14 @@ export default function Home() {
                 source: "Team training call",
                 body: (
                   <>
-                    Most leaders pushing AI adoption right now think the
-                    bottleneck is willingness.
+                    I almost made the classic founder mistake on a team
+                    training call last week.
                     <br />
                     <br />
-                    It&apos;s not. It&apos;s vocabulary.
-                    <br />
-                    <br />
-                    And the leader&apos;s job is to be the one who pays the
-                    tax in public.
+                    A copywriter on my team was telling the group why she was
+                    stuck on an AI foundations course. The course assumed a
+                    baseline tech vocabulary she didn&apos;t have. Every video
+                    had her pausing with her husband to Google acronyms.
                   </>
                 ),
                 reactions: 21,

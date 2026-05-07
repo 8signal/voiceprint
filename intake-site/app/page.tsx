@@ -71,16 +71,14 @@ export default function Home() {
 
       {/* VIDEO */}
       <section className="max-w-5xl mx-auto px-6 pb-24">
-        <div className="aspect-video bg-stone-100 border border-stone-200 rounded-2xl overflow-hidden flex items-center justify-center relative">
-          <div className="text-center">
-            <div className="w-16 h-16 rounded-full bg-stone-900 mx-auto mb-4 flex items-center justify-center">
-              <svg width="20" height="20" viewBox="0 0 20 20" fill="none" className="ml-1">
-                <path d="M5 3l12 7-12 7V3z" fill="white" />
-              </svg>
-            </div>
-            <div className="text-stone-500 text-sm">60-second intro from Ruben</div>
-            <div className="text-stone-400 text-xs mt-1 mono">[video coming soon]</div>
-          </div>
+        <div className="aspect-video bg-stone-100 border border-stone-200 rounded-2xl overflow-hidden">
+          <iframe
+            src="https://www.youtube.com/embed/YfaSZLCCn1Y"
+            title="Voiceprint — intro from Ruben"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            className="w-full h-full"
+          />
         </div>
       </section>
 

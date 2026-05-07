@@ -101,147 +101,229 @@ export default function Home() {
           </p>
 
           <div className="grid md:grid-cols-3 gap-6">
-            <a
-              href="https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-aiadoption-share-7457497718450552832-zsW7"
-              target="_blank"
-              rel="noreferrer"
-              className="block bg-white border border-stone-200 rounded-xl p-6 hover:border-stone-900 transition-colors group"
-            >
-              <div className="flex items-center gap-3 mb-4">
-                <div className="w-10 h-10 rounded-full bg-stone-900 text-stone-50 flex items-center justify-center text-sm font-medium">
-                  RA
+            {[
+              {
+                href: "https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-aiadoption-share-7457497718450552832-zsW7",
+                ago: "2d",
+                source: "Fireflies meeting recording",
+                body: (
+                  <>
+                    I said: &ldquo;We are ALL Tony Stark now.&rdquo;
+                    <br />
+                    <br />
+                    She said: &ldquo;Yeah... if we want to be.&rdquo;
+                    <br />
+                    <br />
+                    I said: &ldquo;Or we could be the chubby bunnies from
+                    Wall-E.&rdquo;
+                    <br />
+                    <br />
+                    She paused. &ldquo;I mean, it&apos;s tempting...&rdquo;
+                  </>
+                ),
+                reactions: 47,
+                comments: 12,
+              },
+              {
+                href: "https://www.linkedin.com/feed/update/urn:li:activity:7457580393890836480/",
+                ago: "2d",
+                source: "Client L10 meeting",
+                body: (
+                  <>
+                    Some weeks I&apos;m the marketing seat.
+                    <br />
+                    <br />
+                    Some weeks I&apos;m the seat next to a founder who needs
+                    to hear she&apos;s not the nurse who has to help everyone
+                    but herself.
+                    <br />
+                    <br />
+                    Both are the job. The scorecard only tracks one.
+                  </>
+                ),
+                reactions: 38,
+                comments: 9,
+              },
+              {
+                href: "https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-b2bmarketing-influencermarketing-share-7457814725477916672-9tB9",
+                ago: "1d",
+                source: "Client marketing L10",
+                body: (
+                  <>
+                    Most fractional executives are sitting on the influence
+                    layer they need.
+                    <br />
+                    <br />
+                    They keep trying to be the talent instead of building the
+                    show around their clients.
+                    <br />
+                    <br />
+                    Stop trying to be the reviewer.
+                    <br />
+                    <br />
+                    Become the producer.
+                  </>
+                ),
+                reactions: 54,
+                comments: 14,
+              },
+              {
+                href: "https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-aiadoption-firstweserve-activity-7457933244555165696-RAwl",
+                ago: "1h",
+                source: "Team training call",
+                body: (
+                  <>
+                    Most leaders pushing AI adoption right now think the
+                    bottleneck is willingness.
+                    <br />
+                    <br />
+                    It&apos;s not. It&apos;s vocabulary.
+                    <br />
+                    <br />
+                    And the leader&apos;s job is to be the one who pays the
+                    tax in public.
+                  </>
+                ),
+                reactions: 21,
+                comments: 4,
+              },
+            ].map((p) => (
+              <a
+                key={p.href}
+                href={p.href}
+                target="_blank"
+                rel="noreferrer"
+                className="block bg-white border border-stone-300 rounded-lg overflow-hidden hover:shadow-lg transition-shadow group"
+              >
+                {/* Card header — LinkedIn-style */}
+                <div className="px-4 pt-4 pb-2">
+                  <div className="flex items-start gap-2">
+                    <div className="w-12 h-12 rounded-full bg-gradient-to-br from-[#0a66c2] to-[#004182] text-white flex items-center justify-center text-base font-semibold flex-shrink-0">
+                      RA
+                    </div>
+                    <div className="min-w-0 flex-1">
+                      <div className="font-semibold text-[#000000e6] text-sm leading-tight hover:text-[#0a66c2] hover:underline cursor-pointer">
+                        Ruben Aguirre
+                      </div>
+                      <div className="text-xs text-[#00000099] leading-tight mt-0.5 truncate">
+                        Fractional CMO at 8 SIGNAL · Building marketing teams
+                      </div>
+                      <div className="text-xs text-[#00000099] leading-tight mt-0.5 flex items-center gap-1">
+                        <span>{p.ago} •</span>
+                        <svg width="12" height="12" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+                          <path d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM3 8a5 5 0 0 1 .9-2.86l1.34 1.34a3 3 0 0 0 .76 3.02l1 1V11a1 1 0 0 0 1 1v1.93A5 5 0 0 1 3 8zm9.36 3.86l-.96-.96a2.99 2.99 0 0 0-1.79-.86A2 2 0 0 0 8 9H7V8a1 1 0 0 1 1-1h.5a.5.5 0 0 0 .5-.5V6a1 1 0 0 1 1-1h.59A4.98 4.98 0 0 1 13 8a5 5 0 0 1-.64 3.86z" />
+                        </svg>
+                      </div>
+                    </div>
+                  </div>
                 </div>
-                <div>
-                  <div className="font-medium text-stone-900">Ruben Aguirre</div>
-                  <div className="text-xs text-stone-500">Source: Fireflies meeting recording</div>
-                </div>
-              </div>
-              <p className="text-stone-700 leading-relaxed mb-3">
-                &ldquo;I said: &lsquo;We are ALL Tony Stark now.&rsquo; She
-                said: &lsquo;Yeah... if we want to be.&rsquo; I said:
-                &lsquo;Or we could be the chubby bunnies from Wall-E.&rsquo;
-                She paused. &lsquo;I mean, it&apos;s tempting...&rsquo;&rdquo;
-              </p>
-              <div className="text-sm text-amber-800 group-hover:text-amber-900">
-                Read on LinkedIn →
-              </div>
-            </a>
 
-            <a
-              href="https://www.linkedin.com/feed/update/urn:li:activity:7457580393890836480/"
-              target="_blank"
-              rel="noreferrer"
-              className="block bg-white border border-stone-200 rounded-xl p-6 hover:border-stone-900 transition-colors group"
-            >
-              <div className="flex items-center gap-3 mb-4">
-                <div className="w-10 h-10 rounded-full bg-stone-900 text-stone-50 flex items-center justify-center text-sm font-medium">
-                  RA
+                {/* Post body */}
+                <div className="px-4 pb-3 text-sm text-[#000000e6] leading-[1.5]">
+                  {p.body}
+                  <div className="mt-2 text-[#00000099] hover:text-[#0a66c2] hover:underline">
+                    ...see more
+                  </div>
                 </div>
-                <div>
-                  <div className="font-medium text-stone-900">Ruben Aguirre</div>
-                  <div className="text-xs text-stone-500">Source: client L10 meeting</div>
-                </div>
-              </div>
-              <p className="text-stone-700 leading-relaxed mb-3">
-                &ldquo;Some weeks I&apos;m the marketing seat. Some weeks
-                I&apos;m the seat next to a founder who needs to hear
-                she&apos;s not the nurse who has to help everyone but herself.
-                Both are the job. The scorecard only tracks one.&rdquo;
-              </p>
-              <div className="text-sm text-amber-800 group-hover:text-amber-900">
-                Read on LinkedIn →
-              </div>
-            </a>
 
-            <a
-              href="https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-b2bmarketing-influencermarketing-share-7457814725477916672-9tB9"
-              target="_blank"
-              rel="noreferrer"
-              className="block bg-white border border-stone-200 rounded-xl p-6 hover:border-stone-900 transition-colors group"
-            >
-              <div className="flex items-center gap-3 mb-4">
-                <div className="w-10 h-10 rounded-full bg-stone-900 text-stone-50 flex items-center justify-center text-sm font-medium">
-                  RA
+                {/* Reactions count */}
+                <div className="px-4 py-1.5 flex items-center justify-between text-xs text-[#00000099]">
+                  <div className="flex items-center gap-1">
+                    <span className="inline-flex">
+                      <span className="w-4 h-4 rounded-full bg-[#0a66c2] flex items-center justify-center text-white text-[10px]">
+                        👍
+                      </span>
+                      <span className="w-4 h-4 rounded-full bg-[#df704d] flex items-center justify-center text-white text-[10px] -ml-1">
+                        ❤️
+                      </span>
+                      <span className="w-4 h-4 rounded-full bg-[#6dae4f] flex items-center justify-center text-white text-[10px] -ml-1">
+                        💡
+                      </span>
+                    </span>
+                    <span className="ml-1 hover:text-[#0a66c2] hover:underline">
+                      {p.reactions}
+                    </span>
+                  </div>
+                  <div className="hover:text-[#0a66c2] hover:underline">
+                    {p.comments} comments
+                  </div>
                 </div>
-                <div>
-                  <div className="font-medium text-stone-900">Ruben Aguirre</div>
-                  <div className="text-xs text-stone-500">Source: client marketing L10</div>
-                </div>
-              </div>
-              <p className="text-stone-700 leading-relaxed mb-3">
-                &ldquo;Most fractional executives are sitting on the influence
-                layer they need. They keep trying to be the talent instead of
-                building the show around their clients. Stop trying to be the
-                reviewer. Become the producer.&rdquo;
-              </p>
-              <div className="text-sm text-amber-800 group-hover:text-amber-900">
-                Read on LinkedIn →
-              </div>
-            </a>
 
-            <a
-              href="https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-aiadoption-firstweserve-activity-7457933244555165696-RAwl"
-              target="_blank"
-              rel="noreferrer"
-              className="block bg-white border border-stone-200 rounded-xl p-6 hover:border-stone-900 transition-colors group"
-            >
-              <div className="flex items-center gap-3 mb-4">
-                <div className="w-10 h-10 rounded-full bg-stone-900 text-stone-50 flex items-center justify-center text-sm font-medium">
-                  RA
+                {/* Action bar */}
+                <div className="border-t border-stone-200 grid grid-cols-4 text-[#00000099] text-xs font-semibold">
+                  {[
+                    { icon: "👍", label: "Like" },
+                    { icon: "💬", label: "Comment" },
+                    { icon: "🔁", label: "Repost" },
+                    { icon: "➤", label: "Send" },
+                  ].map((a) => (
+                    <div
+                      key={a.label}
+                      className="flex items-center justify-center gap-1.5 py-2.5 hover:bg-stone-100 transition-colors"
+                    >
+                      <span className="text-sm">{a.icon}</span>
+                      <span>{a.label}</span>
+                    </div>
+                  ))}
                 </div>
-                <div>
-                  <div className="font-medium text-stone-900">Ruben Aguirre</div>
-                  <div className="text-xs text-stone-500">Source: team training call</div>
-                </div>
-              </div>
-              <p className="text-stone-700 leading-relaxed mb-3">
-                &ldquo;Most leaders pushing AI adoption right now think the
-                bottleneck is willingness. It&apos;s not. It&apos;s vocabulary.
-                And the leader&apos;s job is to be the one who pays the tax in
-                public.&rdquo;
-              </p>
-              <div className="text-sm text-amber-800 group-hover:text-amber-900">
-                Read on LinkedIn →
-              </div>
-            </a>
+              </a>
+            ))}
 
-            <div className="block bg-white/60 border border-dashed border-stone-300 rounded-xl p-6">
-              <div className="flex items-center gap-3 mb-4">
-                <div className="w-10 h-10 rounded-full bg-stone-300 text-stone-500 flex items-center justify-center text-sm font-medium">
-                  RA
+            {/* Placeholder cards — same shape, faded */}
+            {[
+              {
+                source: "Client kickoff call",
+                title: "Tuition for a Marketing Seat",
+                blurb:
+                  "A 90-day sprint, a college-aged kid, and what parents actually pay for when they pay 8 SIGNAL.",
+              },
+              {
+                source: "Building Voiceprint itself",
+                title: "The Tool That Refuses to Write",
+                blurb:
+                  "Why Rule 0 — &ldquo;no artifact, no post&rdquo; — is the whole product.",
+              },
+            ].map((p) => (
+              <div
+                key={p.title}
+                className="bg-white border border-dashed border-stone-300 rounded-lg overflow-hidden opacity-70"
+              >
+                <div className="px-4 pt-4 pb-2">
+                  <div className="flex items-start gap-2">
+                    <div className="w-12 h-12 rounded-full bg-stone-300 text-stone-500 flex items-center justify-center text-base font-semibold flex-shrink-0">
+                      RA
+                    </div>
+                    <div className="min-w-0 flex-1">
+                      <div className="font-semibold text-stone-500 text-sm leading-tight">
+                        Ruben Aguirre
+                      </div>
+                      <div className="text-xs text-stone-400 leading-tight mt-0.5 truncate">
+                        Fractional CMO at 8 SIGNAL · Building marketing teams
+                      </div>
+                      <div className="text-xs text-stone-400 leading-tight mt-0.5">
+                        Publishing this week •
+                      </div>
+                    </div>
+                  </div>
                 </div>
-                <div>
-                  <div className="font-medium text-stone-500">Ruben Aguirre</div>
-                  <div className="text-xs text-stone-400">Source: client kickoff call</div>
+                <div className="px-4 pb-4 text-sm text-stone-500 leading-[1.5]">
+                  <div className="font-medium mb-1 text-stone-600">
+                    {p.title}
+                  </div>
+                  <p className="italic" dangerouslySetInnerHTML={{ __html: p.blurb }} />
+                </div>
+                <div className="border-t border-stone-200 grid grid-cols-4 text-stone-400 text-xs font-semibold">
+                  {["Like", "Comment", "Repost", "Send"].map((label) => (
+                    <div
+                      key={label}
+                      className="flex items-center justify-center gap-1.5 py-2.5"
+                    >
+                      <span>{label}</span>
+                    </div>
+                  ))}
                 </div>
               </div>
-              <p className="text-stone-500 leading-relaxed mb-3 italic">
-                Tuition for a Marketing Seat. A 90-day sprint, a college-aged
-                kid, and what parents actually pay for when they pay 8 SIGNAL.
-              </p>
-              <div className="text-sm text-stone-400 mono">
-                Publishing this week →
-              </div>
-            </div>
-
-            <div className="block bg-white/60 border border-dashed border-stone-300 rounded-xl p-6">
-              <div className="flex items-center gap-3 mb-4">
-                <div className="w-10 h-10 rounded-full bg-stone-300 text-stone-500 flex items-center justify-center text-sm font-medium">
-                  RA
-                </div>
-                <div>
-                  <div className="font-medium text-stone-500">Ruben Aguirre</div>
-                  <div className="text-xs text-stone-400">Source: building Voiceprint itself</div>
-                </div>
-              </div>
-              <p className="text-stone-500 leading-relaxed mb-3 italic">
-                The Tool That Refuses to Write. Why Rule 0 — &ldquo;no
-                artifact, no post&rdquo; — is the whole product.
-              </p>
-              <div className="text-sm text-stone-400 mono">
-                Publishing this week →
-              </div>
-            </div>
+            ))}
           </div>
         </div>
       </section>

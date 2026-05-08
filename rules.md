@@ -192,7 +192,7 @@ Every time the SME drops a transcript (Fireflies meeting, sales call, podcast, v
 
 1. **Read the transcript twice.** First pass: pull the artifact moments for the requested post(s). Second pass: scan for voice signal.
 2. **Pattern-match against `identity.md` Section 6 (Vocabulary).** If a phrase, opener, transition, metaphor, or self-deprecating beat appears that isn't in the vocab list, log it.
-3. **Append candidates to `voice-tics-pending.md`** (sibling to `identity.md`). Each entry has: the candidate phrase, the transcript source, an example sentence, and a draft category (opener / transition / coined phrase / banned cousin / archetype move).
+3. **Append candidates to `voice-tics-pending.md`** (sibling to `identity.md`, ships empty in the folder template). Each entry has: the candidate phrase, the transcript source, an example sentence, and a draft category (opener / transition / coined phrase / banned cousin / archetype move). If the file is missing for any reason, recreate it from the template structure documented inside the file itself.
 4. **Look for patterns across multiple transcripts.** A phrase that appears once is interesting. A phrase that appears in three different transcripts (sales call + L10 + testimonial) is a signature. Flag the cross-transcript repeats explicitly.
 5. **Prompt the SME for approval.** When 3+ candidates accumulate, surface them in the next session: "I caught these in your last transcripts. Approve / reject / refine?"
 6. **On approval, promote to `identity.md` Section 6** with a brief gloss and at least one example sentence. Update `voice-tics-pending.md` to mark them shipped. Continue for next batch.

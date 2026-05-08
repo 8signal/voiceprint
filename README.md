@@ -64,6 +64,7 @@ voiceprint/
 ├── README.md                    ← you are here
 ├── identity.md                  ← BLANK template. Fill this first.
 ├── rules.md                     ← voice rules + banned AI-slop phrases
+├── voice-tics-pending.md        ← empty catch file. Voiceprint logs new tics here from your transcripts (Rule 11)
 ├── examples.md                  ← what good and bad output looks like
 ├── reference/
 │   ├── intake-interview.md      ← 20 questions that build your identity.md

@@ -156,7 +156,7 @@ export default function Home() {
               },
               {
                 href: "https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-aiadoption-firstweserve-activity-7457933244555165696-RAwl",
-                ago: "1h",
+                ago: "8h",
                 source: "Team training call",
                 body: (
                   <>
@@ -172,6 +172,27 @@ export default function Home() {
                 ),
                 reactions: 21,
                 comments: 4,
+              },
+              {
+                href: "https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-ai-buildinpublic-share-7458245599344209921-Karj",
+                ago: "1h",
+                source: "Voiceprint launch",
+                body: (
+                  <>
+                    Okay, so I built an AI tool this week that refuses to do
+                    its job.
+                    <br />
+                    <br />
+                    Ask it to write a LinkedIn post about leadership. It says
+                    no. Ask it for a thought leadership piece on the future
+                    of B2B marketing. Again, it says no. Ask it to
+                    &ldquo;generate content about EOS.&rdquo; It says no
+                    (politely, like a Catholic school librarian) and tells
+                    you to come back with a transcript.
+                  </>
+                ),
+                reactions: 18,
+                comments: 3,
               },
             ].map((p) => (
               <a

@@ -174,25 +174,23 @@ export default function Home() {
                 comments: 4,
               },
               {
-                href: "https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-ai-buildinpublic-share-7458245599344209921-Karj",
-                ago: "1h",
-                source: "Voiceprint launch",
+                href: "https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-marketingleadership-firstweserve-activity-7458183944102895616-VvRK",
+                ago: "4h",
+                source: "Nelson Hill engagement",
                 body: (
                   <>
-                    Okay, so I built an AI tool this week that refuses to do
-                    its job.
+                    Most LinkedIn brags involve the writer (yours truly)
+                    being in the room. This one&apos;s the opposite.
                     <br />
                     <br />
-                    Ask it to write a LinkedIn post about leadership. It says
-                    no. Ask it for a thought leadership piece on the future
-                    of B2B marketing. Again, it says no. Ask it to
-                    &ldquo;generate content about EOS.&rdquo; It says no
-                    (politely, like a Catholic school librarian) and tells
-                    you to come back with a transcript.
+                    A young filmmaker came into our pipeline last month. He
+                    wants to scale to 2-4 commercial projects a month. Wants
+                    the cash flow to fund the feature films he actually
+                    cares about.
                   </>
                 ),
-                reactions: 18,
-                comments: 3,
+                reactions: 29,
+                comments: 7,
               },
             ].map((p) => (
               <a
@@ -276,9 +274,9 @@ export default function Home() {
               </a>
             ))}
 
-            {/* Tuition for a Marketing Seat — added live */}
+            {/* Voiceprint launch — last, the climax */}
             <a
-              href="https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-marketingleadership-firstweserve-activity-7458183944102895616-VvRK"
+              href="https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-ai-buildinpublic-share-7458245599344209921-Karj"
               target="_blank"
               rel="noreferrer"
               className="block bg-white border border-stone-300 rounded-lg overflow-hidden hover:shadow-lg transition-shadow group"
@@ -296,7 +294,7 @@ export default function Home() {
                       Fractional CMO at 8 SIGNAL · Building marketing teams
                     </div>
                     <div className="text-xs text-[#00000099] leading-tight mt-0.5 flex items-center gap-1">
-                      <span>4h •</span>
+                      <span>1h •</span>
                       <svg width="12" height="12" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
                         <path d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM3 8a5 5 0 0 1 .9-2.86l1.34 1.34a3 3 0 0 0 .76 3.02l1 1V11a1 1 0 0 0 1 1v1.93A5 5 0 0 1 3 8zm9.36 3.86l-.96-.96a2.99 2.99 0 0 0-1.79-.86A2 2 0 0 0 8 9H7V8a1 1 0 0 1 1-1h.5a.5.5 0 0 0 .5-.5V6a1 1 0 0 1 1-1h.59A4.98 4.98 0 0 1 13 8a5 5 0 0 1-.64 3.86z" />
                       </svg>
@@ -305,14 +303,16 @@ export default function Home() {
                 </div>
               </div>
               <div className="px-4 pb-3 text-sm text-[#000000e6] leading-[1.5]">
-                Most LinkedIn brags involve the writer (yours truly) being
-                in the room. This one&apos;s the opposite.
+                Okay, so I built an AI tool this week that refuses to do
+                its job.
                 <br />
                 <br />
-                A young filmmaker came into our pipeline last month. He
-                wants to scale to 2-4 commercial projects a month. Wants
-                the cash flow to fund the feature films he actually cares
-                about.
+                Ask it to write a LinkedIn post about leadership. It says
+                no. Ask it for a thought leadership piece on the future of
+                B2B marketing. Again, it says no. Ask it to &ldquo;generate
+                content about EOS.&rdquo; It says no (politely, like a
+                Catholic school librarian) and tells you to come back with
+                a transcript.
                 <div className="mt-2 text-[#00000099] hover:text-[#0a66c2] hover:underline">
                   ...see more
                 </div>
@@ -324,9 +324,9 @@ export default function Home() {
                     <span className="w-4 h-4 rounded-full bg-[#df704d] flex items-center justify-center text-white text-[10px] -ml-1">❤️</span>
                     <span className="w-4 h-4 rounded-full bg-[#6dae4f] flex items-center justify-center text-white text-[10px] -ml-1">💡</span>
                   </span>
-                  <span className="ml-1 hover:text-[#0a66c2] hover:underline">29</span>
+                  <span className="ml-1 hover:text-[#0a66c2] hover:underline">18</span>
                 </div>
-                <div className="hover:text-[#0a66c2] hover:underline">7 comments</div>
+                <div className="hover:text-[#0a66c2] hover:underline">3 comments</div>
               </div>
               <div className="border-t border-stone-200 grid grid-cols-4 text-[#00000099] text-xs font-semibold">
                 {[

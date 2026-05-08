@@ -427,6 +427,44 @@ export default function Home() {
         </div>
       </section>
 
+      {/* CONTINUOUS IMPROVEMENT */}
+      <section className="max-w-5xl mx-auto px-6 py-24">
+        <div className="text-xs uppercase tracking-[0.2em] text-amber-800 mb-6">
+          The voice gets sharper every week
+        </div>
+        <h2 className="serif text-4xl md:text-5xl mb-6 max-w-3xl">
+          Drop a transcript. Voiceprint reads it twice.
+        </h2>
+        <p className="text-lg text-stone-600 max-w-3xl leading-relaxed mb-16">
+          First pass for the post material you asked for. Second pass for the voice tics, signature phrases, and AI-slop cousins it spots inside your own words. New patterns get logged, cross-referenced across transcripts, and surfaced for your approval. Approve them and they fold into your identity file automatically. The voice gets sharper without you having to maintain it.
+        </p>
+        <div className="grid md:grid-cols-3 gap-10">
+          {[
+            {
+              n: "Read",
+              title: "Every transcript, twice",
+              body: "Once for the artifact moments. Once for the voice signal. Openers, transitions, coined phrases, banned cousins, archetype moves. Each candidate logged with source pointer and example sentence.",
+            },
+            {
+              n: "Pattern",
+              title: "Cross-transcript repeats",
+              body: "A phrase in one transcript is interesting. A phrase in three transcripts (sales call + L10 + testimonial) is a signature. Cross-transcript repeats get flagged as high-confidence additions.",
+            },
+            {
+              n: "Approve",
+              title: "You stay in the loop",
+              body: "When candidates accumulate, Voiceprint surfaces them: approve, reject, refine. Approved tics ship into your identity file. The voice tunes itself in real time. You never have to remember to update it.",
+            },
+          ].map((step) => (
+            <div key={step.n}>
+              <div className="mono text-amber-700 text-sm mb-4">{step.n}</div>
+              <h3 className="serif text-2xl mb-3">{step.title}</h3>
+              <p className="text-stone-600 leading-relaxed">{step.body}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
       {/* HOW YOU USE IT */}
       <section className="bg-stone-100 border-y border-stone-200">
         <div className="max-w-5xl mx-auto px-6 py-24">
@@ -441,7 +479,7 @@ export default function Home() {
               {
                 n: "01",
                 title: "Build your identity",
-                body: "Twenty questions, one downloadable file. Done in 15 minutes. The wizard pulls voice pillars and vocabulary specific to you, not a template.",
+                body: "Drop in 1-5 transcripts (testimonials, L10s, client calls, parody clips) and Voiceprint populates your identity file from the source material in minutes. No transcript handy? The 20-question wizard works as a fallback.",
               },
               {
                 n: "02",

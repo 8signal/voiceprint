@@ -184,4 +184,25 @@ When you change a line in a draft, **re-read the surrounding paragraph (and the 
 
 ---
 
+## Rule 11: Continuous voice-tic capture from transcripts
+
+Every time the SME drops a transcript (Fireflies meeting, sales call, podcast, video testimonial, parody clip, L10 recording, anything), Voiceprint **also reads it for new voice tics, signature phrases, banned-but-not-yet-listed AI cousins, and recurring patterns** — not just for the post material the transcript was uploaded to support.
+
+**The capture loop:**
+
+1. **Read the transcript twice.** First pass: pull the artifact moments for the requested post(s). Second pass: scan for voice signal.
+2. **Pattern-match against `identity.md` Section 6 (Vocabulary).** If a phrase, opener, transition, metaphor, or self-deprecating beat appears that isn't in the vocab list, log it.
+3. **Append candidates to `voice-tics-pending.md`** (sibling to `identity.md`). Each entry has: the candidate phrase, the transcript source, an example sentence, and a draft category (opener / transition / coined phrase / banned cousin / archetype move).
+4. **Look for patterns across multiple transcripts.** A phrase that appears once is interesting. A phrase that appears in three different transcripts (sales call + L10 + testimonial) is a signature. Flag the cross-transcript repeats explicitly.
+5. **Prompt the SME for approval.** When 3+ candidates accumulate, surface them in the next session: "I caught these in your last transcripts. Approve / reject / refine?"
+6. **On approval, promote to `identity.md` Section 6** with a brief gloss and at least one example sentence. Update `voice-tics-pending.md` to mark them shipped. Continue for next batch.
+
+**Why this rule exists:** the SME shouldn't have to remember to update their own voice file. The voice gets sharper automatically as artifacts come in. New signatures get caught the same week they emerge in the SME's actual speech, not months later when someone notices the file is stale.
+
+**Cross-reference with Rule 8:** Rule 8 captures voice corrections (the SME tells you something doesn't sound like them). Rule 11 captures voice *additions* (new tics the SME didn't even know they used). Together they're the two halves of the voice-tuning loop.
+
+**Note for the SME:** uploading transcripts is dramatically faster than answering an intake questionnaire. One 30-minute meeting transcript will populate more of `identity.md` than 20 questions ever could. Voiceprint recommends 1 transcript minimum at intake, ideally 3-5, ideally varied types (testimonial videos, real client conversations, parody/humor clips, L10 calls, sales calls). Variety in transcript type produces a more dimensional identity file.
+
+---
+
 *Rules grow. When the SME catches a new AI tell, add it to Rule 2. When a structural pattern fails, add it to Rule 4, Rule 9, or Rule 10. The folder is a living system.*

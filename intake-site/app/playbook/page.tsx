@@ -149,7 +149,7 @@ export default function Playbook() {
               {
                 phase: "Phase 1 · Build",
                 weeks: "Weeks 1-4",
-                body: "We interview you, study your transcripts, audit your profile, and build all eight modules. By week four, you have a complete system and a 30-day calendar ready to run.",
+                body: "Drop us 3-5 transcripts (testimonials, L10s, sales calls, parody clips). We populate your identity file from the source material in days, not weeks. Then we build all eight modules around it. By week four, you have a complete system and a 30-day calendar ready to run.",
               },
               {
                 phase: "Phase 2 · Launch",
@@ -159,7 +159,7 @@ export default function Playbook() {
               {
                 phase: "Phase 3 · Compound",
                 weeks: "Month 3+",
-                body: "Monthly retainer keeps the engine running. New transcripts and weekly reviews feed the system. We compound authority over time, not in bursts.",
+                body: "Monthly retainer keeps the engine running. Every new transcript gets read twice — once for post material, once for new voice tics. Approved tics fold into your identity file automatically. The voice gets sharper every month without you maintaining it.",
               },
             ].map((p) => (
               <div key={p.phase}>
@@ -169,6 +169,54 @@ export default function Playbook() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Continuous voice tuning */}
+      <section className="max-w-5xl mx-auto px-6 py-24">
+        <div className="text-xs uppercase tracking-[0.2em] text-amber-800 mb-6">
+          The voice tunes itself
+        </div>
+        <h2 className="serif text-4xl md:text-5xl mb-6 max-w-3xl">
+          Drop transcripts. We read them twice.
+        </h2>
+        <p className="text-lg text-stone-600 max-w-3xl leading-relaxed mb-10">
+          Most voice systems get stale the day they ship. Voiceprint doesn&apos;t.
+          Every transcript you drop into the system gets read twice. First pass
+          for the post material you asked for. Second pass for the voice tics,
+          signature openers, and AI-slop cousins hiding inside your own words.
+        </p>
+        <p className="text-lg text-stone-600 max-w-3xl leading-relaxed mb-16">
+          New patterns get logged. Cross-transcript repeats get flagged as
+          high-confidence signatures. Every month we surface the candidates: approve,
+          reject, or refine. Approved tics fold into your identity file automatically.
+          Your voice on LinkedIn keeps catching up to your voice in real life,
+          without you ever having to maintain a doc.
+        </p>
+        <div className="grid md:grid-cols-3 gap-10">
+          {[
+            {
+              n: "Transcripts in",
+              title: "Bring what already happened",
+              body: "Fireflies meetings, sales calls, podcast appearances, video testimonials, parody clips, L10s. The more variety, the more dimensional the identity file gets.",
+            },
+            {
+              n: "Voice signal out",
+              title: "New tics caught automatically",
+              body: "Openers, transitions, coined phrases, banned-AI cousins, archetype moves. Each candidate logged with source pointer and example sentence in your private voice-tics file.",
+            },
+            {
+              n: "You stay in the loop",
+              title: "Approve, reject, refine",
+              body: "Once a month we walk you through the candidates. The ones that survive ship into your identity file. The voice keeps tuning itself in real time, with one human still in the driver&apos;s seat.",
+            },
+          ].map((step) => (
+            <div key={step.n}>
+              <div className="mono text-amber-700 text-sm mb-4">{step.n}</div>
+              <h3 className="serif text-2xl mb-3">{step.title}</h3>
+              <p className="text-stone-600 leading-relaxed">{step.body}</p>
+            </div>
+          ))}
         </div>
       </section>
 

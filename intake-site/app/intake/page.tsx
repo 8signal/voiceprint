@@ -182,6 +182,35 @@ export default function IntakePage() {
           </svg>
           Your answers stay in your browser. Nothing is sent to a server.
         </div>
+
+        {step === 0 && (
+          <div className="mb-12 border border-stone-300 bg-stone-50 rounded-2xl p-6 md:p-8">
+            <div className="text-xs uppercase tracking-[0.2em] text-amber-800 mb-3">
+              Faster path · Recommended
+            </div>
+            <h2 className="serif text-2xl md:text-3xl mb-3 leading-tight">
+              Skip the questionnaire. Drop a transcript instead.
+            </h2>
+            <p className="text-stone-600 leading-relaxed mb-4">
+              Voiceprint reads transcripts dramatically faster than you can answer 20 questions. One 30-minute meeting transcript will populate more of your <code className="mono text-sm bg-white px-1.5 py-0.5 rounded border border-stone-200">identity.md</code> than this form ever could.
+            </p>
+            <p className="text-stone-700 font-medium mb-2">For best results, drop 1 transcript at minimum. Ideally 3 to 5. Ideally varied:</p>
+            <ul className="text-stone-600 leading-relaxed list-disc pl-5 space-y-1 mb-4">
+              <li>A video testimonial (yours or a client's about you)</li>
+              <li>A real client conversation</li>
+              <li>A parody or humor clip (catches your playful register)</li>
+              <li>A team L10 or strategy meeting</li>
+              <li>A sales call</li>
+            </ul>
+            <p className="text-stone-600 leading-relaxed text-sm">
+              Variety in transcript type produces a more dimensional identity file. Voiceprint also reads each transcript twice: first for the post material, second for new voice tics it folds into <code className="mono text-xs bg-white px-1.5 py-0.5 rounded border border-stone-200">identity.md</code> automatically over time.
+            </p>
+            <p className="text-stone-500 leading-relaxed text-sm mt-4">
+              Don't have a transcript handy? The questionnaire below works fine as a fallback. You can always come back and feed transcripts later — the identity file keeps getting sharper either way.
+            </p>
+          </div>
+        )}
+
         <div className="text-xs uppercase tracking-[0.2em] text-amber-800 mb-4">
           {section.title}
         </div>

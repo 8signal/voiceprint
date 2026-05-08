@@ -89,7 +89,7 @@ export default function Home() {
             It already works
           </div>
           <h2 className="serif text-4xl md:text-5xl mb-6 max-w-3xl">
-            Six posts shipping in the wild this week.
+            Six posts. Six days. All in the wild.
           </h2>
           <p className="text-lg text-stone-600 max-w-2xl leading-relaxed mb-12">
             All written by Voiceprint from real artifacts. All published under
@@ -276,61 +276,75 @@ export default function Home() {
               </a>
             ))}
 
-            {/* Placeholder cards — same shape, faded */}
-            {[
-              {
-                source: "Client kickoff call",
-                title: "Tuition for a Marketing Seat",
-                blurb:
-                  "A 90-day sprint, a college-aged kid, and what parents actually pay for when they pay 8 SIGNAL.",
-              },
-              {
-                source: "Building Voiceprint itself",
-                title: "The Tool That Refuses to Write",
-                blurb:
-                  "Why Rule 0 — &ldquo;no artifact, no post&rdquo; — is the whole product.",
-              },
-            ].map((p) => (
-              <div
-                key={p.title}
-                className="bg-white border border-dashed border-stone-300 rounded-lg overflow-hidden opacity-70"
-              >
-                <div className="px-4 pt-4 pb-2">
-                  <div className="flex items-start gap-2">
-                    <div className="w-12 h-12 rounded-full bg-stone-300 text-stone-500 flex items-center justify-center text-base font-semibold flex-shrink-0">
-                      RA
+            {/* Tuition for a Marketing Seat — added live */}
+            <a
+              href="https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-marketingleadership-firstweserve-activity-7458183944102895616-VvRK"
+              target="_blank"
+              rel="noreferrer"
+              className="block bg-white border border-stone-300 rounded-lg overflow-hidden hover:shadow-lg transition-shadow group"
+            >
+              <div className="px-4 pt-4 pb-2">
+                <div className="flex items-start gap-2">
+                  <div className="w-12 h-12 rounded-full bg-gradient-to-br from-[#0a66c2] to-[#004182] text-white flex items-center justify-center text-base font-semibold flex-shrink-0">
+                    RA
+                  </div>
+                  <div className="min-w-0 flex-1">
+                    <div className="font-semibold text-[#000000e6] text-sm leading-tight hover:text-[#0a66c2] hover:underline cursor-pointer">
+                      Ruben Aguirre
                     </div>
-                    <div className="min-w-0 flex-1">
-                      <div className="font-semibold text-stone-500 text-sm leading-tight">
-                        Ruben Aguirre
-                      </div>
-                      <div className="text-xs text-stone-400 leading-tight mt-0.5 truncate">
-                        Fractional CMO at 8 SIGNAL · Building marketing teams
-                      </div>
-                      <div className="text-xs text-stone-400 leading-tight mt-0.5">
-                        Publishing this week •
-                      </div>
+                    <div className="text-xs text-[#00000099] leading-tight mt-0.5 truncate">
+                      Fractional CMO at 8 SIGNAL · Building marketing teams
+                    </div>
+                    <div className="text-xs text-[#00000099] leading-tight mt-0.5 flex items-center gap-1">
+                      <span>4h •</span>
+                      <svg width="12" height="12" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+                        <path d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM3 8a5 5 0 0 1 .9-2.86l1.34 1.34a3 3 0 0 0 .76 3.02l1 1V11a1 1 0 0 0 1 1v1.93A5 5 0 0 1 3 8zm9.36 3.86l-.96-.96a2.99 2.99 0 0 0-1.79-.86A2 2 0 0 0 8 9H7V8a1 1 0 0 1 1-1h.5a.5.5 0 0 0 .5-.5V6a1 1 0 0 1 1-1h.59A4.98 4.98 0 0 1 13 8a5 5 0 0 1-.64 3.86z" />
+                      </svg>
                     </div>
                   </div>
-                </div>
-                <div className="px-4 pb-4 text-sm text-stone-500 leading-[1.5]">
-                  <div className="font-medium mb-1 text-stone-600">
-                    {p.title}
-                  </div>
-                  <p className="italic" dangerouslySetInnerHTML={{ __html: p.blurb }} />
-                </div>
-                <div className="border-t border-stone-200 grid grid-cols-4 text-stone-400 text-xs font-semibold">
-                  {["Like", "Comment", "Repost", "Send"].map((label) => (
-                    <div
-                      key={label}
-                      className="flex items-center justify-center gap-1.5 py-2.5"
-                    >
-                      <span>{label}</span>
-                    </div>
-                  ))}
                 </div>
               </div>
-            ))}
+              <div className="px-4 pb-3 text-sm text-[#000000e6] leading-[1.5]">
+                Most LinkedIn brags involve the writer (yours truly) being
+                in the room. This one&apos;s the opposite.
+                <br />
+                <br />
+                A young filmmaker came into our pipeline last month. He
+                wants to scale to 2-4 commercial projects a month. Wants
+                the cash flow to fund the feature films he actually cares
+                about.
+                <div className="mt-2 text-[#00000099] hover:text-[#0a66c2] hover:underline">
+                  ...see more
+                </div>
+              </div>
+              <div className="px-4 py-1.5 flex items-center justify-between text-xs text-[#00000099]">
+                <div className="flex items-center gap-1">
+                  <span className="inline-flex">
+                    <span className="w-4 h-4 rounded-full bg-[#0a66c2] flex items-center justify-center text-white text-[10px]">👍</span>
+                    <span className="w-4 h-4 rounded-full bg-[#df704d] flex items-center justify-center text-white text-[10px] -ml-1">❤️</span>
+                    <span className="w-4 h-4 rounded-full bg-[#6dae4f] flex items-center justify-center text-white text-[10px] -ml-1">💡</span>
+                  </span>
+                  <span className="ml-1 hover:text-[#0a66c2] hover:underline">29</span>
+                </div>
+                <div className="hover:text-[#0a66c2] hover:underline">7 comments</div>
+              </div>
+              <div className="border-t border-stone-200 grid grid-cols-4 text-[#00000099] text-xs font-semibold">
+                {[
+                  { icon: "👍", label: "Like" },
+                  { icon: "💬", label: "Comment" },
+                  { icon: "🔁", label: "Repost" },
+                  { icon: "➤", label: "Send" },
+                ].map((a) => (
+                  <div
+                    key={a.label}
+                    className="flex items-center justify-center gap-1.5 py-2.5 hover:bg-stone-100 transition-colors"
+                  >
+                    <span className="text-sm">{a.icon}</span>
+                    <span>{a.label}</span>
+                  </div>
+                ))}
+              </div>
+            </a>
           </div>
         </div>
       </section>

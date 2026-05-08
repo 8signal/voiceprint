@@ -26,7 +26,7 @@ If the literal rule outranks the spirit, fair call. Disqualify and I'll see you 
 
 ## Real-world examples
 
-Six posts written by Voiceprint from real artifacts, all published under Ruben's name, all passed the voice check on the first run. Four live, two shipping by Friday.
+Six posts written by Voiceprint from real artifacts, all published under Ruben's name, all passed the voice check on the first run. All live.
 
 | # | Post | Source artifact | Live |
 |---|---|---|---|
@@ -34,8 +34,8 @@ Six posts written by Voiceprint from real artifacts, all published under Ruben's
 | 2 | [The Marketing Seat Beyond Marketing](https://www.linkedin.com/feed/update/urn:li:activity:7457580393890836480/) | Client L10 meeting | 2026-05-05 |
 | 3 | [Stop Trying to Be the Reviewer](https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-b2bmarketing-influencermarketing-share-7457814725477916672-9tB9) | Client marketing L10 | 2026-05-06 |
 | 4 | [The Apprenticeship Tax](https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-aiadoption-firstweserve-activity-7457933244555165696-RAwl) | Team training call | 2026-05-07 |
-| 5 | Tuition for a Marketing Seat | Client kickoff call | *publishing this week* |
-| 6 | The Tool That Refuses to Write | Building Voiceprint itself | *publishing this week* |
+| 5 | [Tuition for a Marketing Seat](https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-marketingleadership-firstweserve-activity-7458183944102895616-VvRK) | Nelson Hill engagement | 2026-05-07 |
+| 6 | [The Tool That Refuses to Write](https://www.linkedin.com/posts/ruben-aguirre_fractionalcmo-ai-buildinpublic-share-7458245599344209921-Karj) | Building Voiceprint itself | 2026-05-07 |
 
 ---
 

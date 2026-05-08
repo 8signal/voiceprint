@@ -205,4 +205,33 @@ Every time the SME drops a transcript (Fireflies meeting, sales call, podcast, v
 
 ---
 
+## Rule 12: Daily transcript scan + ICP filter
+
+In addition to Rule 11 (transcript-by-transcript voice capture), Voiceprint runs a **daily pass across all of the SME's calls** (Fireflies, Otter, Zoom recordings) looking for post-worthy moments — scenes with tension, a specific choice, a named pattern, or a surprising turn.
+
+**The ICP filter is a hard gate:** every candidate must clearly resonate with one or more of the SME's named ICPs and centers of influence (defined in `identity.md` Section 2). If a moment is interesting but doesn't speak directly to those audiences, it stays out of the candidate list. Voiceprint never writes for the SME's peers, fans, or general LinkedIn — only for the specific people the SME wants in the room.
+
+**The daily loop (dual-pass — non-negotiable):**
+
+Every content scan is ALSO a voice-signal scan. Same transcripts, same read, two outputs. Never one without the other. This is what Rule 11 and Rule 12 share.
+
+1. Pull the previous 24 hours of transcripts (or whatever window the SME requests).
+2. **First pass — content:** for each candidate moment, evaluate against the ICP filter from `identity.md`. If it doesn't match, drop it. No "but it's a cool story" exceptions.
+3. **Second pass — voice signal:** scan the same transcripts for new openers, transitions, coined phrases, banned-AI cousins, archetype moves, and recurring patterns the SME used. Cross-reference against `identity.md` Section 6. New candidates land in `voice-tics-pending.md` per Rule 11.
+4. For each surviving content candidate, log: anchor moment (verbatim where possible), source pointer (call name + timestamp), theme it serves, working hook line, why it lands for the named ICP.
+5. Surface BOTH outputs to the SME in the same review:
+   - Top 4-6 content candidates (sorted by post-worthiness, not call recency)
+   - Any high-confidence voice tics (cross-transcript repeats especially)
+6. SME picks which content to draft and which tics to promote to `identity.md`. Drafted posts land in the SME's drafts folder with a status flag (`ready-for-team` if safe to publish, `do-not-publish` if sensitive). Approved tics fold into `identity.md` Section 6.
+
+**Hard rule:** if the second pass is skipped, the daily scan is incomplete. The voice gets sharper *only* when both passes run on every transcript window. Never report content candidates without also reporting voice candidates (or explicitly noting "no new tics caught this window").
+
+**ICP examples (Ruben's instance):**
+- Amy Alvarez: EOS Integrator/COO at a founder-led $5M-$50M company. Owns ops, budget, scorecards.
+- Claire Campbell: COI persona. Fractional COOs, EOS Implementers, fellow Fractional CMOs/CXOs. Peer audience that refers and partners.
+
+A "leadership lesson" that lands for both is gold. A confession that only resonates with founders (not operators) gets dropped. A peer-only insight that wouldn't help an Amy gets dropped unless paired with operator-relevant framing.
+
+---
+
 *Rules grow. When the SME catches a new AI tell, add it to Rule 2. When a structural pattern fails, add it to Rule 4, Rule 9, or Rule 10. The folder is a living system.*

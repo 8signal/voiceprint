@@ -69,6 +69,34 @@ export default function Home() {
         </div>
       </section>
 
+      {/* TRANSCRIPTS-FIRST CALLOUT */}
+      <section className="max-w-5xl mx-auto px-6 pb-20">
+        <div className="border border-stone-300 bg-stone-50 rounded-2xl p-8 md:p-10">
+          <div className="text-xs uppercase tracking-[0.2em] text-amber-800 mb-4">
+            The fastest path · Recommended
+          </div>
+          <h2 className="serif text-3xl md:text-4xl mb-4 leading-tight max-w-3xl">
+            Drop transcripts. Skip the questionnaire.
+          </h2>
+          <p className="text-lg text-stone-600 max-w-3xl leading-relaxed mb-6">
+            The 20-question wizard works. Transcripts work dramatically better. One
+            30-minute meeting transcript populates more of your identity file than
+            the wizard ever could. Voiceprint reads it twice — once for the post
+            material, once for the voice tics it catches and folds back in.
+          </p>
+          <div className="flex flex-wrap gap-3">
+            <span className="bg-white border border-stone-300 px-3 py-1.5 rounded-full text-sm text-stone-700">Video testimonials</span>
+            <span className="bg-white border border-stone-300 px-3 py-1.5 rounded-full text-sm text-stone-700">Client conversations</span>
+            <span className="bg-white border border-stone-300 px-3 py-1.5 rounded-full text-sm text-stone-700">Parody / humor clips</span>
+            <span className="bg-white border border-stone-300 px-3 py-1.5 rounded-full text-sm text-stone-700">L10 meetings</span>
+            <span className="bg-white border border-stone-300 px-3 py-1.5 rounded-full text-sm text-stone-700">Sales calls</span>
+          </div>
+          <p className="text-sm text-stone-500 mt-5">
+            Variety beats volume. 5 varied transcripts &gt; 25 of one type.
+          </p>
+        </div>
+      </section>
+
       {/* VIDEO */}
       <section className="max-w-5xl mx-auto px-6 pb-24">
         <div className="aspect-video bg-stone-100 border border-stone-200 rounded-2xl overflow-hidden">
@@ -89,13 +117,15 @@ export default function Home() {
             It already works
           </div>
           <h2 className="serif text-4xl md:text-5xl mb-6 max-w-3xl">
-            Six posts. Six days. All in the wild.
+            Six posts in three days.
           </h2>
           <p className="text-lg text-stone-600 max-w-2xl leading-relaxed mb-12">
-            All written by Voiceprint from real artifacts. All published under
-            Ruben&apos;s name on LinkedIn. Each passed the voice check on the
-            first run. Read them, then come back if you want to see how they
-            were made.
+            All written by Voiceprint from real artifacts (Fireflies meeting
+            transcripts, client L10s, training calls). All published under
+            Ruben&apos;s name on LinkedIn. Drafts went through edits — and
+            those edits got fed back into the identity file, so each round
+            shipped with fewer corrections than the last. The voice tunes
+            itself in real time.
           </p>
 
           <div className="grid md:grid-cols-3 gap-6">
@@ -546,10 +576,11 @@ export default function Home() {
 {`voiceprint/
 ├── README.md                    ← cold-start in <5 min
 ├── identity.md                  ← who you are (generate this here)
-├── rules.md                     ← banned AI-slop, voice check
+├── rules.md                     ← banned AI-slop, voice check, Rule 11
+├── voice-tics-pending.md        ← new tics caught from your transcripts
 ├── examples.md                  ← what good looks like
 ├── reference/
-│   ├── intake-interview.md      ← 20 questions
+│   ├── intake-interview.md      ← 20 questions (fallback)
 │   ├── post-formats.md          ← 6 formats + hooks
 │   ├── source-protocols.md      ← artifact → post
 │   └── identity-examples/

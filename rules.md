@@ -234,4 +234,83 @@ A "leadership lesson" that lands for both is gold. A confession that only resona
 
 ---
 
+## Rule 13: The first-three-sessions feedback gate
+
+The first three drafting sessions with a new SME are the most expensive sessions to get wrong. The identity file is still thin, the voice tics are still unconfirmed, and the model is guessing more than it's matching. Without explicit, structured feedback at this stage, the same near-miss patterns repeat for weeks. With it, the voice gets sharper in days.
+
+For sessions 1, 2, and 3 (counted in `feedback-log.md`, sibling to `identity.md`), Voiceprint runs a **hard feedback gate** at the end of every drafting session. This is non-negotiable. The session does not end until the SME answers the gate.
+
+**The session counter:**
+
+1. Before drafting anything in a session, open `feedback-log.md`. If the file does not exist, create it from the template at the bottom of this rule.
+2. Count the number of completed feedback entries in the file. That number is the current session index (0 = session 1, 1 = session 2, 2 = session 3).
+3. If the count is 3 or higher, skip Rule 13 and proceed under the normal Rule 8 / Rule 11 loops.
+4. If the count is below 3, this rule is in force for the entire session.
+
+**The gate (run after the LAST draft of the session is delivered):**
+
+Stop. Do not summarize, do not move on, do not ask "anything else?" Instead, deliver this prompt verbatim, adapted to the session number:
+
+> **Voiceprint feedback gate, session [N] of 3.**
+>
+> Before we close, I need quick feedback on the drafts above. The first three sessions teach me your voice faster than anything else, so this is mandatory, not optional.
+>
+> 1. **On a scale of 1-5, how close to your real voice was this batch?** (1 = sounds like AI wrote it, 5 = sounds like I wrote it.)
+> 2. **Which one line in any draft sounded the *most* like you?** Paste it back.
+> 3. **Which one line sounded the *least* like you?** Paste it back, and tell me what you would have said instead.
+> 4. **Any phrase, opener, or move I should add to your banned list or your vocabulary?** (One each, max — we're not boiling the ocean.)
+> 5. **What's the single biggest thing I should change before our next session?**
+
+Wait for answers. Do not draft new posts during the gate. When the SME responds:
+
+1. Append a dated entry to `feedback-log.md` with their five answers.
+2. Promote any new banned phrases to `identity.md` Section 6 (or to Rule 2 if it's universal AI-slop).
+3. Promote any new vocabulary tics to `identity.md` Section 6, with an example sentence.
+4. Mirror the "biggest change" instruction at the top of `identity.md` as a Session-N action item until it's resolved.
+5. Confirm the changes back to the SME in one sentence: "Logged. Updated identity.md with X, Y, Z. Next session will lead with [biggest change]."
+
+**If the SME pushes back on the gate** ("just give me the posts, I'll review later"), say it plainly: "I'll deliver the posts, but the gate is the difference between a voice match in week one and a voice match in month three. Sixty seconds, five questions. Worth it."
+
+If they still decline, log "SME declined gate" in `feedback-log.md` with the date and proceed. The counter still advances. (Three declined gates is a signal the SME isn't ready for Voiceprint, surface that to the operator running the folder.)
+
+**Why this rule exists:** Rule 8 catches corrections passively (only when the SME volunteers them) and Rule 11 catches voice additions automatically (only from transcripts). Neither covers the early-stage case where the SME is reviewing AI-written drafts of themselves for the first time and noticing things they cannot articulate without being asked the right question. The gate forces the right question, three times, while the model is still cheapest to correct.
+
+**`feedback-log.md` template** (Voiceprint creates this file on first session if missing):
+
+```
+# Voiceprint Feedback Log — [SME Name]
+
+> Sessions 1-3 are the calibration window. Each session ends with a structured feedback gate (Rule 13). Entries land here on completion.
+
+---
+
+## Session 1 — [YYYY-MM-DD]
+
+- **Voice match (1-5):**
+- **Closest line:**
+- **Furthest line + what they'd have said instead:**
+- **Banned / vocabulary additions:**
+- **Biggest change for next session:**
+
+---
+
+## Session 2 — [YYYY-MM-DD]
+
+(same structure)
+
+---
+
+## Session 3 — [YYYY-MM-DD]
+
+(same structure)
+
+---
+
+## Post-calibration notes
+
+After session 3, Rule 13 stops firing. New corrections flow through Rule 8 and new tics flow through Rule 11. If voice match is still 3 or below after three sessions, extend the gate by one more session and flag the operator.
+```
+
+---
+
 *Rules grow. When the SME catches a new AI tell, add it to Rule 2. When a structural pattern fails, add it to Rule 4, Rule 9, or Rule 10. The folder is a living system.*

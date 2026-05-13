@@ -46,9 +46,12 @@ Transcript:
 2. **Skims the transcript for moments, not topics** (per `reference/source-protocols.md`, Protocol 1).
 3. **Pulls 3-5 candidate moments** with verbatim quotes, anonymized participants, before/after.
 4. **Scores each moment** for post potential (specific quote, theme alignment, SME comfort, has a punch).
-5. **Drafts 1-3 posts** for the strongest moments using formats from `reference/post-formats.md`.
-6. **Runs the voice check** (Rule 3) on each draft.
-7. **Outputs** in the format from Rule 7.
+5. **Opens an opener tracker** (Rule 14). One line per post-to-draft, opener type recorded as drafted.
+6. **Drafts post 1** using a format from `reference/post-formats.md`. Records its opener type in the tracker.
+7. **Before drafting post 2**, re-reads the tracker. Picks a different opener type. Drafts. Records.
+8. **Repeats for posts 3 through N**, picking an unused or recently-unused opener type each time (Rule 14).
+9. **Runs the voice check** (Rule 3) on each draft AND the batch-level smell test from Rule 14 (read all openers in sequence, out loud, before output).
+10. **Outputs** in the format from Rule 7.
 
 ---
 
@@ -107,8 +110,9 @@ Before output, the model checks:
 - [ ] Each post is 150-400 words
 - [ ] Hook is in line 1, no setup paragraph
 - [ ] Closer is a punch, not engagement bait
+- [ ] **Opener types rotate across the batch** (Rule 14). Read the openers of the batch in sequence; no two consecutive posts share an opener type. No default fallback template (e.g., *"A founder I work with..."*) repeated across the batch.
 
-If any check fails, the post gets rewritten before showing the user.
+If any check fails, the post gets rewritten before showing the user. If Rule 14 fails, the rebuild starts from post 2, not post N — the rotation is structural, not cosmetic.
 
 ---
 

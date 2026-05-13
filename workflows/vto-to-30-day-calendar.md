@@ -133,6 +133,9 @@ Before output, the model checks:
 - [ ] Each of the 3 wins anchors at least one post
 - [ ] At least 5 live capture slots remain unscheduled
 - [ ] Hooks pass the strong/weak test from `reference/post-formats.md`
+- [ ] **Opener types rotate across the 20-post calendar** (Rule 14). The "Hook draft" field for each post must rotate through opener categories (direct quote, confession, inverted observation, self-aware aside, specific number/scene, action triplet, object-led declarative, imperative quote, conversational pivot). No two consecutive scheduled days share an opener type. No default fallback opener (e.g., *"A founder I work with..."*) used more than once across the calendar.
+
+A 30-day calendar that violates Rule 14 reads as one voice repeated twenty times. The whole point of the calendar is texture — opener rotation is the texture mechanism.
 
 ---
 

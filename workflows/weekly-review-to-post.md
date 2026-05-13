@@ -119,6 +119,7 @@ If the SME's 30-day calendar has a Live Capture slot open this week, slot Post 1
 - [ ] No em dashes, no banned phrases
 - [ ] 150-400 words per post
 - [ ] Each post points back to the review section it came from
+- [ ] **If outputting 2 posts, their openers use different types** (Rule 14). Across consecutive weeks, also rotate — re-read the openers from the past 2-3 weeks' published posts before drafting this week's to avoid an unintentional pattern building over the month.
 
 ---
 

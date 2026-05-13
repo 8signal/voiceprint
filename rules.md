@@ -313,4 +313,43 @@ After session 3, Rule 13 stops firing. New corrections flow through Rule 8 and n
 
 ---
 
-*Rules grow. When the SME catches a new AI tell, add it to Rule 2. When a structural pattern fails, add it to Rule 4, Rule 9, or Rule 10. The folder is a living system.*
+## Rule 14: Batch openers rotate pre-write, not post-audit
+
+When drafting any batch of 3+ posts in a single session (a series, a campaign, an L10-to-posts run), opener types **must rotate across the batch**. The rotation is checked **before drafting each post**, not after the batch is finished.
+
+**Why this is its own rule:** Rule 9 already says voice check runs first, not last. But Rule 9 is about register inside a single post. Rule 14 extends the same principle across a batch. The failure mode is identical: drafting each post optimized in isolation, then discovering at the end that all five (or ten) opened with the same template. By then the tonal damage is done and the fix is a rebuild, not a polish.
+
+**The protocol — non-negotiable for batches of 3+:**
+
+1. **Before drafting post N**, re-read the openers of posts 1 through N-1.
+2. **Categorize each prior opener** by type (see list below).
+3. **Pick an opener type for post N that hasn't been used yet**, or hasn't been used in the most recent 2 posts.
+4. **Only then start drafting post N.**
+
+If step 1 takes more than thirty seconds, the batch is already too big to track in your head. Make an opener tracker at the top of the working file — a one-line entry per post with the opener type. Keep it current. Reference it.
+
+**Opener types to rotate across (generic to any SME voice):**
+
+1. **Direct quote** — opens with verbatim words from the SME, the client, or a third party in the scene.
+2. **Confession / self-roast** — leads with the SME naming something they did, didn't do, or missed.
+3. **Inverted observation** — turns a common belief on its head in the first line.
+4. **Self-aware aside** — names something the SME "isn't supposed to do" and then does it.
+5. **Specific number / scene** — opens cold with a concrete fact, object, or time-stamped detail.
+6. **Action triplet** — three short concrete actions painting a scene without first-person setup.
+7. **Object-led declarative** — a physical artifact's state (a P&L was four months old, a quote sat in drafts).
+8. **Imperative quote** — opens on the SME's instruction in quoted dialog.
+9. **The conversational pivot** (Reynolds voice has "Okay, so..."; other voices have their equivalents). Use sparingly and never on consecutive posts.
+
+**Banned across any batch:** any default fallback opener pattern that the model lazily reaches for. For Ruben (Reynolds voice), that includes "Okay, so..." on consecutive posts. For Andrea (ACP voice), that includes *"A founder I work with..."* as a default. The model's failure mode is to reach for the same template repeatedly when each individual post passes its own voice check. Rule 14 catches that.
+
+**The smell test** (also from Rule 9, applied at batch level):
+
+Read the openers of the batch in sequence. Out loud. Do they sound like a series of distinct moments, or like the same line repeated N times with the details swapped? If the latter, the rule wasn't applied pre-write. The fix isn't to edit each opener — it's to go back to post 2 and rebuild the opener-type sequence from there.
+
+**Real failure mode this rule was written to prevent (caught 2026-05-13):** Drafted 10 posts for ACP across a single session. Nine opened with *"A founder I work with..."* — exact template, defensible in isolation, indefensible as a batch. The rotation existed in memory as a post-hoc audit principle. It wasn't a pre-write constraint. Posts 2 through 10 should have been blocked at draft-time by a re-read of the prior openers. They weren't. By the time the user caught the pattern, every post needed an opener rewrite.
+
+The fix is the procedural change: rotation happens at the top of each post's draft, not at the end of the batch.
+
+---
+
+*Rules grow. When the SME catches a new AI tell, add it to Rule 2. When a structural pattern fails, add it to Rule 4, Rule 9, Rule 10, or Rule 14. The folder is a living system.*

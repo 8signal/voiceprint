@@ -352,4 +352,41 @@ The fix is the procedural change: rotation happens at the top of each post's dra
 
 ---
 
-*Rules grow. When the SME catches a new AI tell, add it to Rule 2. When a structural pattern fails, add it to Rule 4, Rule 9, Rule 10, or Rule 14. The folder is a living system.*
+## Rule 15: Run the post-draft checklist BEFORE output
+
+After every draft and before showing the SME (or operator) anything, run a deliberate six-item scan. Not "I'll check the rules" hand-wave. Each item gets a focused pass, in order.
+
+**Why this rule exists:** The rules of this folder ARE loaded in context when drafting. They still get violated — sometimes one or two per post, sometimes three or four. The failure mode is treating the rules as post-hoc audit instead of as a structured pre-output discipline. The model's natural generation defaults to certain patterns (X/Y contrast couplets are rhetorically powerful in English and one of the strongest AI tells; first-person drifts toward whichever speaker feels most natural; same-template openers happen across a batch). The checklist forces a deliberate counter-move on each one before output.
+
+**The checklist (in order):**
+
+1. **POV check.** Read line 1 out loud. Whose mouth is talking? It must be the SME's. If line 1 is anyone else's voice (a coached founder, a client, an interviewer), the POV has drifted. Rewrite line 1, then re-read the whole post for "I/me/my" referring to the SME vs anyone else.
+
+2. **Anonymization check.** Per Rule 6 — every client, founder, third party named in the post should be anonymized appropriately for the SME's audience. Different SMEs have different anonymization defaults (some name their clients with permission; some never do). Apply the SME's standard from `identity.md`.
+
+3. **Opener rotation check** (Rule 14). If this post is one of a batch of 3+, what opener type is it? Re-read the prior openers. Same type used in the prior 2 posts? Rewrite. The opener-type list lives in Rule 14.
+
+4. **Banned constructions scan** (Rule 2). Search every sentence pair for these patterns and rewrite to declarative:
+   - *"X isn't Y. It's Z."* / *"X is not Y. It is Z."*
+   - *"Not because X. Because Y."*
+   - *"You don't X. You Y."* / *"Don't X. Do Y."*
+   - *"The question isn't X. The question is Y."*
+   - *"It's not about X. It's about Y."*
+   - *"X wasn't just Y. It was Z."*
+   - Triple-negation rule-of-three followed by a positive (*"Not A. Not B. Not C. It's D."*)
+
+   The model defaults to these because they're rhetorically powerful in good writing. The audit step has to actively catch each instance, not pattern-match-and-miss. Multiple instances per post are common.
+
+5. **Em dash and banned vocab scan.** Search for any em dash character (`—`) and replace with comma, period, or restructure. Search for the SME's banned vocabulary (from `identity.md` Section 6) and the universal AI-slop bans in Rule 2.
+
+6. **Embedded editorial NOTE scan.** Search the post body for "NOTE:", "TODO:", bracketed editorial notes, or anything that should not appear in the published version. Strip from the body. If the note is a flag for the SME, move it to a separate `## Flags` section in the draft file, not the post body itself.
+
+**When this rule is in force:** Every post, every batch, every replacement, every rewrite. No exceptions. A post that hasn't been run through the six-item scan is not ready for output.
+
+**The smell test after the checklist:** Read the post out loud, top to bottom. If a sentence makes you pause because the rhythm is too neat, too parallel, too quotable — that's almost always a banned construction the audit missed. Rewrite to declarative. The SME's voice has rhythm, not symmetry.
+
+**For new SMEs (within the first three sessions):** Cross-reference with Rule 13 — the feedback gate at session end. If the SME flags a banned construction the checklist missed, capture which pattern slipped through and what made it slip. The model's natural defaults are predictable; tracking which ones get past the audit early is how the SME-specific guard improves.
+
+---
+
+*Rules grow. When the SME catches a new AI tell, add it to Rule 2. When a structural pattern fails, add it to Rule 4, Rule 9, Rule 10, Rule 14, or Rule 15. The folder is a living system.*

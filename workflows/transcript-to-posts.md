@@ -108,6 +108,7 @@ Before output, the model checks:
 - [ ] Banned phrases (`rules.md` Rule 2) are absent
 - [ ] No em dashes
 - [ ] Each post is 150-400 words
+- [ ] **Each post is under 3,000 characters** (LinkedIn's hard cap, Rule 16). Count the body — don't estimate from word count. A dense 400-word post can run over.
 - [ ] Hook is in line 1, no setup paragraph
 - [ ] Closer is a punch, not engagement bait
 - [ ] **Opener types rotate across the batch** (Rule 14). Read the openers of the batch in sequence; no two consecutive posts share an opener type. No default fallback template (e.g., *"A founder I work with..."*) repeated across the batch.

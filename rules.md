@@ -83,7 +83,9 @@ If any answer is no, rewrite before showing the user.
 
 - **Hook in the first line.** A specific scene, a confession, a number, or a quote. Never a setup paragraph or a definition.
 - **Line break every 1-2 sentences.** LinkedIn is a vertical scroll.
-- **Sweet spot: 150-250 words** (roughly 800-1,300 characters). Allow longer story posts up to 400. One-liner posts are welcome for variety.
+- **Hard cap: 3,000 characters.** LinkedIn's platform limit. A post over 3,000 characters cannot be published as written — LinkedIn cuts it off or refuses it. Non-negotiable, and enforced by Rule 16.
+- **Sweet spot: 150-250 words** (roughly 800-1,300 characters). Longer story posts can run to 400 words, but the 3,000-character cap always wins — a dense 400-word post can exceed it. If a post runs over, cut it down; don't ship it long.
+- **One-liner posts** are welcome for variety.
 - **One idea per post.** Not five tips. Not a listicle. One insight, fully landed.
 - **End on a punch, not a generic question.** A reframe, a one-liner, a specific question rooted in the post, never "What do YOU think?"
 
@@ -354,7 +356,7 @@ The fix is the procedural change: rotation happens at the top of each post's dra
 
 ## Rule 15: Run the post-draft checklist BEFORE output
 
-After every draft and before showing the SME (or operator) anything, run a deliberate six-item scan. Not "I'll check the rules" hand-wave. Each item gets a focused pass, in order.
+After every draft and before showing the SME (or operator) anything, run a deliberate seven-item scan. Not "I'll check the rules" hand-wave. Each item gets a focused pass, in order.
 
 **Why this rule exists:** The rules of this folder ARE loaded in context when drafting. They still get violated — sometimes one or two per post, sometimes three or four. The failure mode is treating the rules as post-hoc audit instead of as a structured pre-output discipline. The model's natural generation defaults to certain patterns (X/Y contrast couplets are rhetorically powerful in English and one of the strongest AI tells; first-person drifts toward whichever speaker feels most natural; same-template openers happen across a batch). The checklist forces a deliberate counter-move on each one before output.
 
@@ -381,7 +383,9 @@ After every draft and before showing the SME (or operator) anything, run a delib
 
 6. **Embedded editorial NOTE scan.** Search the post body for "NOTE:", "TODO:", bracketed editorial notes, or anything that should not appear in the published version. Strip from the body. If the note is a flag for the SME, move it to a separate `## Flags` section in the draft file, not the post body itself.
 
-**When this rule is in force:** Every post, every batch, every replacement, every rewrite. No exceptions. A post that hasn't been run through the six-item scan is not ready for output.
+7. **Character-count check** (Rule 16). Count the characters of the post body as it will be pasted into LinkedIn — body text, line breaks, emoji, and hashtags, but not the `Why this works` / `Source` scaffolding from Rule 7. LinkedIn's hard cap is 3,000; target 2,900 or under. If the post is over, cut it down and re-run this checklist. Never deliver a post over the cap with a note telling the SME to trim it. See Rule 16 for the full protocol.
+
+**When this rule is in force:** Every post, every batch, every replacement, every rewrite. No exceptions. A post that hasn't been run through the seven-item scan is not ready for output.
 
 **The smell test after the checklist:** Read the post out loud, top to bottom. If a sentence makes you pause because the rhythm is too neat, too parallel, too quotable — that's almost always a banned construction the audit missed. Rewrite to declarative. The SME's voice has rhythm, not symmetry.
 
@@ -389,4 +393,25 @@ After every draft and before showing the SME (or operator) anything, run a delib
 
 ---
 
-*Rules grow. When the SME catches a new AI tell, add it to Rule 2. When a structural pattern fails, add it to Rule 4, Rule 9, Rule 10, Rule 14, or Rule 15. The folder is a living system.*
+## Rule 16: LinkedIn's hard character limit is 3,000 — count before output
+
+LinkedIn caps a post at **3,000 characters**. Not words. Characters. A post over the cap cannot be published as written — LinkedIn cuts it off mid-sentence or refuses it. This is a platform constraint, not a style preference. It is non-negotiable.
+
+**Why this rule exists:** the length guidance in Rule 4 is written in *words* ("150-250 sweet spot, up to 400 for stories"). Word counts do not map cleanly to character counts. A 400-word story post with short paragraphs, line breaks, emoji, and hashtags can run well past 3,000 characters. The failure mode is real: a draft passes every voice check, reads clean, and still can't be posted because nobody counted. The voice checks (Rules 3, 9, 15) measure quality. None of them measures length. This rule does.
+
+**What counts toward the 3,000:** everything in the post body as it will be pasted into LinkedIn — words, spaces, line breaks, punctuation, emoji, and hashtags. The `Why this works` and `Source` blocks from Rule 7 are delivery scaffolding, not part of the post; they do not count. Count only what the SME will actually paste.
+
+**The protocol — run on every post before output:**
+
+1. After the draft is final and the Rule 15 checklist is clean, **count the characters of the post body.** Count it. Do not estimate from word count — the estimate is what fails.
+2. **At or under 2,900 characters:** the post is clear. The 100-character buffer absorbs small edits and the SME's own tweaks before posting.
+3. **2,901–3,000 characters:** technically postable but tight. Trim under 2,900 if you can without losing the punch.
+4. **Over 3,000 characters: the post is not deliverable.** Cut it down. Tighten sentences, drop the weakest paragraph, shorten the setup — don't just lop off the closer. Re-run the Rule 15 checklist on the cut version, then re-count. Repeat until it clears.
+
+**Never deliver a post over 3,000 characters with a note saying "trim this."** Trimming is the model's job, not the SME's. A post handed over above the cap is not finished.
+
+**For batches:** count every post in the batch. One post over the cap fails the whole batch's quality gate. Report the character count alongside each delivered post so the SME can see the headroom.
+
+---
+
+*Rules grow. When the SME catches a new AI tell, add it to Rule 2. When a structural pattern fails, add it to Rule 4, Rule 9, Rule 10, Rule 14, Rule 15, or Rule 16. The folder is a living system.*

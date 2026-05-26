@@ -13,7 +13,12 @@ Catch file for new voice tics, signature phrases, openers, transitions, coined p
 
 ## Pending candidates
 
-> **None yet.** Drop transcripts and Voiceprint will start populating this section.
+### Absofruitly
+- **Category:** coined phrase / emphatic affirmation
+- **Source:** Ruben self-reported 2026-05-11 (in chat with Claude)
+- **Example:** "absofruitly" — used as a playful "absolutely" / emphatic yes
+- **Suggested gloss:** Reynolds-register affirmation. Casual replies, DMs, post asides. Drop-in replacement for "absolutely" when the moment wants a wink. Avoid in formal client emails.
+- **Status:** approved (added to `marketing/voice-guide.md` Voice traits to keep, 2026-05-11)
 
 Each candidate entry should look like:
 

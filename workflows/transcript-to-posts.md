@@ -44,21 +44,22 @@ Transcript:
 
 1. **Reads `identity.md`, `rules.md`, `examples.md`.** Establishes voice baseline.
 2. **Skims the transcript for moments, not topics** (per `reference/source-protocols.md`, Protocol 1).
-3. **Pulls 3-5 candidate moments** with verbatim quotes, anonymized participants, before/after.
-4. **Scores each moment** for post potential (specific quote, theme alignment, SME comfort, has a punch).
-5. **Opens an opener tracker** (Rule 14). One line per post-to-draft, opener type recorded as drafted.
-6. **Drafts post 1** using a format from `reference/post-formats.md`. Records its opener type in the tracker.
-7. **Before drafting post 2**, re-reads the tracker. Picks a different opener type. Drafts. Records.
-8. **Repeats for posts 3 through N**, picking an unused or recently-unused opener type each time (Rule 14).
-9. **Runs the voice check** (Rule 3) on each draft AND the batch-level smell test from Rule 14 (read all openers in sequence, out loud, before output).
-10. **Outputs** in the format from Rule 7.
+3. **Lists EVERY candidate moment (coverage pass).** One line per moment — however many the transcript contains, no cap, no filtering yet. The point is coverage: a transcript that surfaces a few strong moments on first read almost always hides more on a deliberate second pass. Do not stop at 3-5. Do not stop at any number. List them all.
+4. **Scores every listed moment** for post potential (specific quote, theme alignment, SME comfort, has a punch). Then selects the top 3-5 for drafting.
+5. **Logs the rejected candidates** — every moment scored but not selected — under a `Rejected (coverage record)` sub-heading in the output, each with a one-line reason. Do not discard them. The rejected log makes "wait, that one could have worked" visible, and a moment that is weak alone can pair with a moment from another transcript to become a post.
+6. **Opens an opener tracker** (Rule 14). One line per post-to-draft, opener type recorded as drafted.
+7. **Drafts post 1** using a format from `reference/post-formats.md`. Records its opener type in the tracker.
+8. **Before drafting post 2**, re-reads the tracker. Picks a different opener type. Drafts. Records.
+9. **Repeats for posts 3 through N**, picking an unused or recently-unused opener type each time (Rule 14).
+10. **Runs the voice check** (Rule 3) on each draft AND the batch-level smell test from Rule 14 (read all openers in sequence, out loud, before output).
+11. **Outputs** in the format from Rule 7.
 
 ---
 
 ## What you get
 
 ```
-**Candidate Moments (top 5)**
+**Candidate Moments (full coverage list — every moment, not a top-N)**
 
 1. [Verbatim quote from transcript]
    - Speaker: [anonymized role]
@@ -66,7 +67,13 @@ Transcript:
    - Format suggestion: [A-F]
    - Score: [strong / medium / weak]
 
-[...]
+[...every moment found in the transcript, however many...]
+
+**Selected for drafting:** [the 3-5 chosen, by number]
+
+**Rejected (coverage record):**
+- [moment, one line] — [one-line reason not selected]
+- [...every scored-but-not-selected moment...]
 
 ---
 

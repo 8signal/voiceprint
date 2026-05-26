@@ -17,7 +17,7 @@ export default function Playbook() {
               Build identity
             </Link>
             <a
-              href="https://cal.com/8signal/discovery"
+              href="https://cal.com/8signal/voiceprint"
               target="_blank"
               rel="noreferrer"
               className="bg-stone-900 text-stone-50 px-4 py-2 rounded-full hover:bg-stone-800 transition-colors"
@@ -45,7 +45,7 @@ export default function Playbook() {
         </p>
         <div className="flex flex-wrap items-center gap-4">
           <a
-            href="https://cal.com/8signal/discovery"
+            href="https://cal.com/8signal/voiceprint"
             target="_blank"
             rel="noreferrer"
             className="bg-stone-900 text-stone-50 px-6 py-3 rounded-full hover:bg-stone-800 transition-colors text-base font-medium"
@@ -244,7 +244,7 @@ export default function Playbook() {
               <li>· 90-day post-launch voice support</li>
             </ul>
             <a
-              href="https://cal.com/8signal/discovery"
+              href="https://cal.com/8signal/voiceprint"
               target="_blank"
               rel="noreferrer"
               className="inline-block border border-stone-300 px-5 py-2.5 rounded-full hover:border-stone-900 transition-colors text-sm"
@@ -268,7 +268,7 @@ export default function Playbook() {
               <li>· Monthly metrics review</li>
             </ul>
             <a
-              href="https://cal.com/8signal/discovery"
+              href="https://cal.com/8signal/voiceprint"
               target="_blank"
               rel="noreferrer"
               className="inline-block bg-stone-50 text-stone-900 px-5 py-2.5 rounded-full hover:bg-amber-100 transition-colors text-sm font-medium"
@@ -295,7 +295,7 @@ export default function Playbook() {
             No pitch deck.
           </p>
           <a
-            href="https://cal.com/8signal/discovery"
+            href="https://cal.com/8signal/voiceprint"
             target="_blank"
             rel="noreferrer"
             className="inline-block bg-amber-500 text-stone-900 px-8 py-4 rounded-full hover:bg-amber-400 transition-colors text-lg font-medium"

@@ -385,9 +385,11 @@ After every draft and before showing the SME (or operator) anything, run a delib
 
 7. **Character-count check** (Rule 16). Count the characters of the post body as it will be pasted into LinkedIn — body text, line breaks, emoji, and hashtags, but not the `Why this works` / `Source` scaffolding from Rule 7. LinkedIn's hard cap is 3,000; target 2,900 or under. If the post is over, cut it down and re-run this checklist. Never deliver a post over the cap with a note telling the SME to trim it. See Rule 16 for the full protocol.
 
-**When this rule is in force:** Every post, every batch, every replacement, every rewrite. No exceptions. A post that hasn't been run through the seven-item scan is not ready for output.
+**When this rule is in force:** Every post, every batch, every replacement, every rewrite, **every revert**. No exceptions. A post that hasn't been run through the seven-item scan is not ready for output.
 
 **The smell test after the checklist:** Read the post out loud, top to bottom. If a sentence makes you pause because the rhythm is too neat, too parallel, too quotable — that's almost always a banned construction the audit missed. Rewrite to declarative. The SME's voice has rhythm, not symmetry.
+
+**Real failure mode this rule was written to prevent (caught 2026-05-26):** During a revert pass on the ACP 01-10 batch, banned X/Y constructions were left intact under the rationale that the lines were "in the original draft" and reverting to them was equivalent to honoring SME-approved state. They were not approved. Original drafts are unfinished output, subject to the same checklist as any other state. Reverts, partial edits, "I'm just restoring what was there" — all of it must pass the seven-item scan before output. The only override is exact wording handed by the SME or the operator; that text is used verbatim even if it contains a borderline pattern.
 
 **For new SMEs (within the first three sessions):** Cross-reference with Rule 13 — the feedback gate at session end. If the SME flags a banned construction the checklist missed, capture which pattern slipped through and what made it slip. The model's natural defaults are predictable; tracking which ones get past the audit early is how the SME-specific guard improves.
 
